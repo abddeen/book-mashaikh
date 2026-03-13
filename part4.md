@@ -771,3 +771,93 @@ The Naqshbandiyya became, under Baha al-Din's impetus, the most politically enga
 Baha al-Din's tomb in Qasr al-Arifan, near Bukhara, is the most important pilgrimage site of the Naqshbandi world. The magnificent mosque-complex built there during the Timurid period — a testament to the reverence in which the master was held by the rulers who followed Timur — was carefully preserved even during the Soviet era, when nearly every other expression of Islamic life in Central Asia was suppressed or destroyed. Today it attracts pilgrims from across the Muslim world: Turks and Uzbeks, Malays and Pakistanis, Kurds and Chechens — all drawn to the grave of the quiet craftsman from a village near Bukhara who engraved the divine name so deeply upon the hearts of his disciples that it has never been effaced. His motto echoes still wherever Naqshbandis gather: "Our path is companionship, and the good is in the gathering of hearts."
 
 ---
+
+## Chapter 101: Al-Faqih al-Muqaddam — Muhammad ibn Ali Ba'alawi (الفقيه المقدم محمد بن علي باعلوي)
+
+**Full Name:** Muhammad ibn Ali ibn Muhammad Sahib Mirbat ibn Ali Khali' Qasam ibn Alawi ibn Muhammad Sahib al-Sawma'a ibn Alawi ibn Ubaydullah ibn Ahmad al-Muhajir ibn Isa ibn Muhammad al-Naqib ibn Ali al-Uraidhi ibn Jafar al-Sadiq
+**Born:** 574 AH / 1178 CE, Tarim, Hadhramaut, Yemen
+**Died:** 653 AH / 1255 CE, Tarim, Hadhramaut, Yemen
+**Sufi Order:** Ba'alawiyya (Tariqa Alawiyya) — founder and consolidating master
+**Titles:** Al-Faqih al-Muqaddam (the Foremost Jurist); Qutb al-Wujud (Pole of Existence); Sayyid
+**Teachers:** Shaykh Muhammad ibn Ali al-Khatib (Shafi'i jurisprudence); Shaykh Abd al-Rahman ibn Mati'; Shaykh Ahmad ibn al-Sammani (spiritual authorization); and multiple masters of hadith and Sufi transmission in Mecca and Medina
+**Notable Students:** His sons and grandsons who carried the Ba'alawi silsila forward; Shaykh Ali ibn Ahmad ibn Muhammad al-Faqih; Umar al-Mihdar (through the lineage)
+**Major Works:** His principal legacy is methodological rather than textual: the consolidation of the Alawi path as a distinct spiritual method rooted in prophetic love, renunciation of the sword, and interior refinement
+**Burial:** Zanbal Cemetery, Tarim, Hadhramaut — one of the most visited graves in the Ba'alawi world
+
+### Biography
+
+In the arid valleys of Hadhramaut — that long, narrow corridor of palms and limestone that cuts through the southern Arabian plateau — there arose in the late twelfth century a man whose decision at a single crossroads would reshape the spiritual landscape of the Indian Ocean world for eight centuries. Muhammad ibn Ali Ba'alawi, known to posterity as al-Faqih al-Muqaddam (the Foremost Jurist), was born in Tarim in 574 AH / 1178 CE into a family whose lineage traced, through an unbroken chain of scholars and saints, to the Prophet Muhammad through his grandson al-Husayn. The Banu Alawi of Hadhramaut were a community of *sayyids* who had arrived in the valley generations earlier from Basra; they had built, in Tarim and the surrounding towns, a civilization of learning and piety that was at once deeply rooted in the Shafi'i legal tradition and increasingly drawn toward the Sufi interior sciences.
+
+Al-Faqih al-Muqaddam received a complete Islamic education in Hadhramaut, becoming a jurist (*faqih*) of recognized excellence — hence his title. But his ambitions extended beyond jurisprudence. He traveled to Mecca and Medina, then the great nodes of Islamic learning, where he sought out not only masters of hadith and Quran but the spiritual transmitters whose *silsilas* connected him to the prophetic interior. He received authorization in the Sufi path from multiple teachers, most notably from masters who transmitted what the Ba'alawi tradition would later call the "way of the Messenger" — a path oriented not around any single later Sufi master's method but around direct modeling of the Prophet's own inner life as preserved in the living chain of transmission.
+
+The decisive moment of his career came upon his return to Hadhramaut. The Banu Alawi had long combined religious authority with some degree of tribal engagement, and weapons were a normal part of the social world in which they moved. The transmitted account records that al-Faqih al-Muqaddam received a spiritual command — variously described as coming through a dream, a vision, or the insistence of his teachers — to renounce the sword entirely. In an act of irreversible self-definition, he broke his sword, publicly and permanently placing himself and his lineage on the side of the spiritual sciences rather than armed power. "We shall conquer," the tradition records him as saying, "with the Quran and with spiritual states, not with the sword."
+
+This act was not mere theater. It redefined the identity of the Banu Alawi community for all subsequent generations. The Hadhrami *sayyids* would spread across the Indian Ocean world — to East Africa, Southeast Asia, South Asia, and the Swahili coast — not as warriors or merchants of force but as bearers of prophetic lineage, spiritual guidance, and Islamic learning. The model of the scholar-saint who travels, teaches, marries into local communities, and transmits the Ba'alawi path peacefully became the mechanism of one of the most remarkable expansions of Islam in history. Al-Faqih al-Muqaddam did not cause this diaspora himself, but he gave it its spiritual grammar.
+
+He spent the remaining decades of his life in Tarim, teaching and guiding a community whose interior formation became the central concern of his effort. He died in 653 AH / 1255 CE and was buried in the Zanbal cemetery, which would over subsequent centuries become a site of pilgrimage for those who traced their spiritual lineage to him — a lineage that would eventually include millions of Muslims across four continents.
+
+### Key Teachings
+
+Al-Faqih al-Muqaddam's central teaching was that the prophetic example (*Sunnah*) contained within it an interior dimension that could only be transmitted through a living chain of qualified masters. The exterior of the Sunnah — the prayers, the legal rulings, the ethical conduct — was accessible through the scholars and jurists. But the interior — the spiritual states, the direct experience of divine proximity, the transformations of character that the Prophet's companions had undergone in his presence — was transmitted through the *silsila*, the chain of hearts connected to the prophetic heart. His breaking of the sword was the symbolic enactment of this conviction: that the real power was spiritual, not physical.
+
+He taught that the path of the Banu Alawi was not a new spiritual method invented by later masters but a direct continuation of the prophetic way, purified of later additions and excesses. The Alawi *tariqa* was, in his conception, not one Sufi order among many but the original order — the method of the Prophet himself, preserved in Hadhramaut and carried outward through those who bore his blood and his spiritual transmission. Whether or not this claim is historically provable, it gave the Ba'alawi tradition a unique self-understanding: a combination of prophetic lineage, legal rigor, and spiritual depth that distinguished it from orders that traced their authority to later masters.
+
+### Famous Stories
+
+**The Breaking of the Sword:** The transmission preserves the account in this form: Al-Faqih al-Muqaddam had returned from his journeys and was considering how best to serve his community. His teachers had told him that the full transmission of the path required a complete commitment — that the way of the sword and the way of the spirit could not coexist in the same hand. He took his sword out into the open air of Tarim, held it for a moment, then broke it. He is reported to have said: "With this sword I have opened the door of the inner path." His students understood that he meant not destruction but transformation — the warrior's energy redirected entirely toward the conquest of the lower self. The broken sword became, in Ba'alawi tradition, the symbol of a community that chose the harder warfare.
+
+### Major Works
+
+- **The Alawi Methodological Inheritance:** Though al-Faqih al-Muqaddam left no single written text that has been universally attributed to him, he is credited with the transmission and articulation of what became known as the "Alawi method" (*al-tariq al-Alawiyya*) — a synthesis of prophetic modeling, Shafi'i jurisprudence, and Sufi interior training that became the foundational framework for all subsequent Ba'alawi masters.
+
+### Legacy
+
+Al-Faqih al-Muqaddam's legacy is coextensive with the entire Ba'alawi tradition — one of the most geographically extensive and historically significant Sufi lineages in the world. The hundreds of millions of Muslims in Southeast Asia, East Africa, and South Asia who are connected to the Ba'alawi tradition trace their spiritual lineage back, through a succession of masters, to this single man in Tarim. His descendants — the Banu Alawi, the *sayyids* of Hadhramaut — carried his path to Java and Sumatra in the fourteenth and fifteenth centuries, to the Swahili coast in the fifteenth and sixteenth, to India and Pakistan in multiple waves. The Ba'alawi *zawiya* model — the scholar-saint resident in a community, teaching, arbitrating, guiding — became the dominant form of Islamic authority across vast regions.
+
+More precisely, he created the spiritual grammar of a civilization. The Hadhrami *sayyids* who spread Islam across the Indian Ocean did so with a particular combination of prophetic lineage, Sufi depth, and legal learning that al-Faqih al-Muqaddam had fixed as the essential character of the Banu Alawi identity. His grave in Zanbal remains among the most visited in the Islamic world, a point of pilgrimage for those who understand that the chains connecting them to the Prophet pass, for hundreds of millions, through this one broken sword.
+
+---
+
+## Chapter 102: Umar al-Mihdar (عمر المحضار)
+
+**Full Name:** Umar ibn Abd al-Rahman ibn Ali ibn Abi Bakr Ba'alawi
+**Born:** c. 665 AH / c. 1267 CE, Tarim, Hadhramaut, Yemen
+**Died:** 738 AH / 1338 CE, Tarim, Hadhramaut, Yemen
+**Sufi Order:** Ba'alawiyya (Tariqa Alawiyya)
+**Titles:** Al-Mihdar (the Spiritually Present); Sayyid; Qutb
+**Teachers:** His father Abd al-Rahman ibn Ali Ba'alawi; the scholars and masters of Tarim in the Ba'alawi tradition
+**Notable Students:** His son and other disciples in the Tarim scholarly community; his spiritual presence influenced generations of Ba'alawi masters including the lineage that produced Imam al-Aydarus
+**Major Works:** Devotional poetry and *qasidas* in Arabic; his spiritual station as transmitted model
+**Burial:** Tarim, Hadhramaut — the shrine of Umar al-Mihdar is one of the most visited in the Hadhrami valley
+
+### Biography
+
+Not every great master leaves a library. Some leave a presence — a quality of interior attention so concentrated and so transparently transmitted that those who encountered them were altered in ways that no text could produce. Umar al-Mihdar, born in Tarim around 665 AH / 1267 CE, was this kind of master: a man whose name means "the present one," whose defining spiritual characteristic was an unbroken *hudur* (presence) with the Divine, and whose legacy consisted less in works written than in a quality of being that was transmitted from heart to heart.
+
+He was a grandson of al-Faqih al-Muqaddam through his father Abd al-Rahman ibn Ali Ba'alawi, born into the generation that was consolidating what the Foremost Jurist had founded. The Ba'alawi community of Tarim in the late thirteenth century was a world of inherited spiritual wealth — families whose grandparents and great-grandparents had studied with the greatest masters of the preceding era, in a valley that had become, against its geographic remoteness, one of the most concentrated centers of Islamic learning and Sufi formation in the world.
+
+Umar al-Mihdar received his formation entirely within Tarim. Unlike many of the great masters of his tradition, he never left Hadhramaut for the journey to Mecca, Medina, or the greater Islamic world. His refusal to travel was itself understood as a spiritual statement: the real journey, in his teaching and in his person, was inward. While others accumulated knowledge by traversing distances, Umar al-Mihdar traveled into the depths of the self and found there what the journeyers had sought across the face of the earth.
+
+His biography in the Ba'alawi sources describes him in terms of his *ahwal* — his spiritual states — rather than his scholarly accomplishments. He was known for his absorption in *dhikr*, for a quality of collected attention that could not be disturbed even by the noise and demands of everyday life, and for the effect he had on those who came into his presence: a stillness, a weight of spiritual reality, that settled over students and visitors and reorganized their inner lives without any deliberate effort on his part. The *hudur* was not a practice he undertook; it was what he was. His epithet *al-Mihdar* — the Present One — captured this: he was simply and continuously present, in a way that made ordinary consciousness seem like sleepwalking.
+
+He composed poetry — *qasidas* in the Ba'alawi tradition of devotional verse — in which the language of divine love and prophetic attachment reached expressions of unusual beauty. His poems were recited in Hadhramaut and among Ba'alawi communities for centuries after his death. He died in 738 AH / 1338 CE in Tarim, and his shrine became one of the major pilgrimage destinations of the valley, visited by those who sought to draw on his continuing spiritual presence.
+
+### Key Teachings
+
+Umar al-Mihdar taught that the highest station was not knowledge accumulated but presence maintained. The *dhikr* of the tongue was preparation; the *dhikr* of the heart was the practice; the *dhikr* of the spirit was the arrival — a state in which awareness of God was not interrupted even by the normal activities of life. He did not separate the contemplative life from the active: his presence was fully engaged with the community around him, with the teaching of students and the guidance of seekers, but this engagement flowed from and never disturbed the underlying current of *hudur* that was his constant condition.
+
+He held that the Ba'alawi path was preeminently a path of love — not the romantic love of the poets who used divine love as a metaphor, but a specifically prophetic love: the attachment to the person and reality of the Prophet Muhammad that was, in the Ba'alawi understanding, the fastest and safest path to God. To love the Prophet with increasing intensity and precision was to be drawn toward the prophetic reality, and the prophetic reality was the nearest created thing to God. His poetry was largely an expression of this conviction — verses of longing and devotion addressed to the Prophet, composed in the register of an intimacy that was simultaneously personal and cosmic.
+
+### Famous Stories
+
+**The Inward Journey:** A traveler who had come a great distance to sit with Umar al-Mihdar asked him: "Sayyid, I have crossed mountains and seas to find a master. You are said never to have left this valley. How can one who has not traveled have anything to teach a man of the road?" Umar al-Mihdar looked at him quietly for a long moment. Then he said: "Tell me what you have found in your travels that you did not already carry with you when you left." The traveler was silent. "That is what I have been doing," the Sayyid said, "while staying here." The story circulated in Ba'alawi tradition as an image of the contemplative path that sees the world of exterior journeying and the world of interior exploration as comparable undertakings — except that the interior journey has no fixed destination that can be reached once and left behind.
+
+### Major Works
+
+- **Devotional Qasidas:** A collection of Arabic poems in the tradition of prophetic love poetry, recited in Ba'alawi communities across Hadhramaut and the diaspora.
+
+### Legacy
+
+Umar al-Mihdar occupies a specific structural position in the Ba'alawi chain: he is a key link between the founding generation of al-Faqih al-Muqaddam and the later masters who would systematize the Alawi method into its fully articulated form. The quality he transmitted — *hudur*, the state of unbroken spiritual presence — became a defining aspiration of the Ba'alawi path, a criterion against which subsequent masters were measured and toward which students oriented their practice. His shrine in Tarim draws visitors to this day, who come to sit in proximity to the place where, according to the tradition, his spiritual presence continues to work on those who come with sincerity. His name, al-Mihdar, remains an epithet of honor across the Ba'alawi world.
+
+---

@@ -1,6 +1,6 @@
 # The Book of the Mashaikh — Complete Index
 
-**100 Sufi luminaries, grouped by era, ordered by year of birth**
+**126 Sufi luminaries, grouped by era, ordered by year of birth**
 
 ---
 
@@ -79,6 +79,8 @@
 | 48 | Amir Khusraw Dehlawi (أمير خسرو دهلوي) | 651 AH / 1253 CE | Patiyali, near Etah, Uttar Pradesh, India | Chishtiyya |
 | 47 | Ibn Ata'illah al-Iskandari (ابن عطاء الله الإسكندري) | c. 658 AH / 1259 CE | Alexandria, Egypt | Shadhiliyya |
 | 50 | Baha al-Din Naqshband (بهاء الدين نقشبند) | 717 AH / 1317 CE | Qasr al-Arifan, near Bukhara (present-day Uzbekistan) | **Naqshbandiyya** (founder) |
+| 101 | Al-Faqih al-Muqaddam — Muhammad ibn Ali Ba'alawi (الفقيه المقدم محمد بن علي باعلوي) | 574 AH / 1178 CE | Tarim, Hadhramaut, Yemen | **Ba'alawiyya** (Tariqa Alawiyya — consolidating founder) |
+| 102 | Umar al-Mihdar (عمر المحضار) | c. 665 AH / c. 1267 CE | Tarim, Hadhramaut, Yemen | Ba'alawiyya |
 
 ---
 
@@ -89,7 +91,6 @@
 | 51 | Sayyid Ahmad al-Badawi (السيد أحمد البدوي) | 596 AH / 1199 CE | Fez, Morocco | **Ahmadiyya / Badawiyya** (founder) |
 | 52 | Ibrahim al-Dasuqi (إبراهيم الدسوقي) | 653 AH / 1255 CE | Dasuq, western Nile Delta, Egypt | **Burhaniyya Dasuqiyya** (founder) |
 | 54 | Syed Muhammad Gesudaraz Bandanawaz (سید محمد گیسودراز) | 721 AH / 1321 CE | Delhi, India | Chishtiyya |
-| 53 | Shah Ni'matullah Wali (شاه نعمت‌الله ولی) | 730 AH / 1330 CE | Aleppo, Syria | **Ni'matullahi** (founder) |
 | 55 | Khwaja Ahrar (خواجه احرار) | 806 AH / 1404 CE | Tashkent region (Shash), Transoxiana (present-day Uzbekistan) | Naqshbandiyya |
 | 57 | Muhammad al-Jazuli (محمد الجزولي) | c. 807 AH / 1405 CE | Jazula (Sus valley), southern Morocco | **Shadhiliyya-Jazuliyya** (founder of branch) |
 | 56 | Jami (جامی) | 817 AH / 1414 CE | Jam, Khorasan (Iran/Afghanistan border region) | Naqshbandiyya |
@@ -101,6 +102,10 @@
 | 61 | Ahmad Sirhindi / Mujaddid Alf-i Thani (أحمد السرهندي) | 971 AH / 1563 CE | Sirhind, Punjab (present-day India) | **Naqshbandiyya-Mujaddidiyya** (founder of branch) |
 | 64 | Dara Shikoh (داراشکوه) | 1024 AH / 1615 CE | Ajmer, Mughal Empire (India) | Qadiriyya-Lahori |
 | 65 | Niyazi-i Misri (نيازي مصري) | 1027 AH / 1617 CE | Malatya, Ottoman Empire (present-day eastern Turkey) | Khalwatiyya |
+| 103 | Abd al-Rahman al-Saqqaf (عبد الرحمن السقاف) | c. 747 AH / c. 1346 CE | Tarim, Hadhramaut, Yemen | Ba'alawiyya |
+| 104 | Imam al-Aydarus al-Akbar — Abdullah ibn Abu Bakr al-Sakran (العيدروس الأكبر) | 811 AH / 1408 CE | Tarim, Hadhramaut, Yemen | Ba'alawiyya |
+| 105 | Imam al-Adani — Abu Bakr ibn Abdullah al-Aydarus (الإمام العدني) | 851 AH / 1447 CE | Tarim → Aden, Yemen | Ba'alawiyya |
+| 106 | Shaykh Abu Bakr bin Salim (الشيخ أبو بكر بن سالم) | 919 AH / 1513 CE | Tarim → Aynat, Hadhramaut, Yemen | Ba'alawiyya |
 
 ---
 
@@ -123,6 +128,15 @@
 | 78 | Imam Shamil (الإمام شامل) | 1212 AH / 1797 CE | Gimry village, Dagestan (Russian Caucasus) | Naqshbandiyya-Khalidiyya |
 | 79 | Abd al-Qadir al-Jazairi (عبد القادر الجزائري) | 1222 AH / 1808 CE | Guetna, near Mascara, western Algeria | Qadiriyya (Akbarian dimension) |
 | 80 | Hajji Imdadullah Muhajir Makki (حاجي إمداد الله مهاجر مكي) | 1233 AH / 1817 CE | Nanauta, Saharanpur, United Provinces (British India) | Chishtiyya-Sabiriyya |
+| 107 | Imam al-Haddad — Abdullah ibn Alawi al-Haddad (الإمام الحداد) | 1044 AH / 1634 CE | Al-Hawi, near Tarim, Hadhramaut, Yemen | Ba'alawiyya (Mujaddid of 12th century AH) |
+| 108 | Muhammad al-Hafni (محمد الحفني) | 1101 AH / 1690 CE | Hafna village, Bilbis, Egypt | **Khalwatiyya-Hifniyya** (founder of branch) |
+| 109 | Ahmad al-Dardir (أحمد الدردير) | 1127 AH / 1715 CE | Bani Adiy, near Asyut, Egypt | **Khalwatiyya-Derdiriyya** (founder of branch) |
+| 112 | Muhammad al-Arabi al-Darqawi (محمد العربي الدرقاوي) | c. 1159 AH / 1746 CE | Zirwal tribe, Rif mountains, northern Morocco | **Shadhiliyya-Darqawiyya** (founder of branch) |
+| 114 | Shah Abd al-Aziz Dehlawi (شاه عبد العزيز الدهلوي) | 1159 AH / 1746 CE | Delhi, Mughal Empire | Naqshbandiyya-Mujaddidiyya |
+| 113 | Ahmad ibn Ajiba (أحمد بن عجيبة) | 1161 AH / 1748 CE | Khamisat region, northern Morocco | Shadhiliyya-Darqawiyya |
+| 110 | Ahmad al-Sawi al-Maliki (أحمد الصاوي) | 1175 AH / 1761 CE | Saulhajir, Gharbiyya, Egypt | **Khalwatiyya-Sawiyya** (founder of branch) |
+| 126 | Shaykh Sidiyya al-Kabir (الشيخ سيديا الكبير) | c. 1190 AH / c. 1775 CE | Trarza region, Mauritania | Qadiriyya |
+| 111 | Ibrahim al-Bajuri (إبراهيم الباجوري) | 1198 AH / 1783 CE | Bajur, Menufiyya, Egypt | Khalwatiyya-Sawiyya; Shaykh al-Azhar (1847–1860) |
 
 ---
 
@@ -150,8 +164,20 @@
 | 96 | Seyyed Hossein Nasr (سيد حسين نصر) | 1352 AH / 1933 CE | Tehran, Iran | Shadhiliyya-Maryamiyya |
 | 99 | Hassan Cisse (حسن سيسي) | 1365 AH / 1945 CE | Medina Kaolack, Senegal | Tijaniyya-Fayda |
 | 100 | Abdal Hakim Murad / Timothy Winter (عبد الحكيم مراد) | 1380 AH / 1960 CE | London, England | Shadhiliyya |
+| 124 | Ahmad al-Shawadfi (أحمد الشوادفي) | c. 1246 AH / c. 1830 CE | Egypt (Shawadfa origin) → Sudan | **Khalwatiyya-Shawadfiyya** (founder of branch) |
+| 115 | Habib Ali ibn Muhammad al-Habshi (علي بن محمد الحبشي) | c. 1259 AH / c. 1843 CE | Seiyun, Hadhramaut, Yemen | Ba'alawiyya (author of *Simt al-Durar*) |
+| 120 | Al-Hajj Malick Sy (الحاج مالك سي) | 1272 AH / 1855 CE | Gaé village, Saint Louis region, Senegal | **Tijaniyya-Tivaouane** (founder of branch) |
+| 127 | Shaykh Sidiyya Baba (الشيخ سيديا بابا) | c. 1279 AH / c. 1862 CE | Boutilimit, Trarza, Mauritania | Qadiriyya |
+| 121 | Serigne Babacar Sy (الشيخ أبو بكر سي) | 1302 AH / 1885 CE | Tivaouane, Senegal | Tijaniyya-Tivaouane |
+| 122 | Mehmed Zahid Kotku (محمد زاهد قوطقو) | 1315 AH / 1897 CE | Bursa, Turkey | Naqshbandiyya-Khalidiyya |
+| 116 | Habib Ahmad Mashhur al-Haddad (أحمد مشهور الحداد) | 1325 AH / 1907 CE | Qaydun, Daw'an Valley, Hadhramaut, Yemen | Ba'alawiyya |
+| 123 | Muhammad Metwally al-Shaarawi (محمد متولي الشعراوي) | 1329 AH / 1911 CE | Daqadus, Dakahlia, Egypt | Khalwatiyya (Sha'rawiyya) |
+| 117 | Habib Abd al-Qadir al-Saqqaf (عبد القادر السقاف) | 1331 AH / 1912 CE | Say'un, Hadhramaut, Yemen | Ba'alawiyya |
+| 125 | Sayyid Muhammad ibn Alawi al-Maliki (محمد بن علوي المالكي) | 1367 AH / 1944 CE | Mecca, Arabia | Ba'alawiyya-adjacent (Maliki) |
+| 118 | Habib Umar ibn Hafiz (عمر بن حفيظ) | 1383 AH / 1963 CE | Tarim, Hadhramaut, Yemen | Ba'alawiyya (founder of Dar al-Mustafa) |
+| 119 | Habib Ali al-Jifri (علي الجفري) | c. 1391 AH / c. 1971 CE | Aden, Yemen | Ba'alawiyya (founder of Tabah Foundation) |
 
 ---
 
-*Total: 100 figures across 7 eras, 1st–14th Century AH (c. 600–present CE)*
+*Total: 126 figures across 7 eras, 1st–14th Century AH (c. 600–present CE)*
 *Order founders are **bolded** in the Tariqah column*
