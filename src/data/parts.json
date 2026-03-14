@@ -1,0 +1,748 @@
+[
+  {
+    "number": 1,
+    "name": "Seeds of Tasawwuf",
+    "period": "1st–2nd Century AH",
+    "dates": "600–820 CE",
+    "chapterRange": "Ch. 1–9",
+    "historicalContext": [
+      "The first two centuries of Islam were a period of extraordinary transformation. Within a single generation of the Prophet Muhammad's ﷺ passing in 11 AH (632 CE), the Muslim community expanded from the Arabian Peninsula to encompass a vast territory stretching from the Iberian Peninsula to the borders of China. The Rashidun Caliphate (11–40 AH / 632–661 CE) gave way to the Umayyad Dynasty (41–132 AH / 661–750 CE), which in turn was overthrown by the Abbasid revolution. This breathtaking political expansion brought immense wealth, cultural diversity, and worldly temptation into what had been an austere desert community.",
+      "The seeds of what would become tasawwuf (Islamic mysticism/spirituality) were sown in this very tension between worldly expansion and inner devotion. The tragedy of Karbala in 61 AH (680 CE), in which the Prophet's ﷺ grandson Husayn ibn Ali was martyred along with his companions, left an indelible wound on the Muslim conscience. The political fitnas (civil wars) — first between Ali and Mu'awiya, then the Umayyad suppression of dissent — disillusioned many pious Muslims who witnessed the caliphate transform from a spiritual stewardship into a worldly kingdom (mulk).",
+      "In response, a generation of devout men and women turned inward. They were not yet called \"Sufis\" — that term would come later — but rather zuhhad (ascetics) and 'ubbad (devout worshippers). They gathered in the mosques and homes of Basra, Kufa, and Medina, dedicating themselves to night prayers (tahajjud), fasting, weeping in remembrance of God, and renouncing the comforts that the new empire offered.",
+      "Basra, in particular, emerged as the cradle of this movement. It was a garrison city where veterans of the early conquests settled alongside scholars and merchants. The worldliness around them contrasted sharply with the simplicity they associated with the Prophet ﷺ and his Companions. Here, Hasan al-Basri would deliver sermons that moved audiences to tears, and Rabia al-Adawiyya would articulate a doctrine of divine love that transcended fear and hope.",
+      "This was not yet organized Sufism — there were no tariqas (orders), no formal silsilas (spiritual chains), no khanqahs (lodges). Rather, these were individual luminaries whose personal piety, profound insights, and spiritual practices laid the groundwork for everything that followed. Their emphasis on zuhd (renunciation), tawba (repentance), khawf (fear of God), and the purification of the nafs (ego-self) established the foundational vocabulary and concerns of the Sufi tradition.",
+      "The cities of the Muslim world — Basra, Kufa, Baghdad, Balkh, and Fustat — each produced their own spiritual heroes. The movement was organic, arising from the lived experience of Muslims grappling with the gap between the prophetic ideal and the realities of empire. It is to these early pioneers that all later Sufi chains trace their origins, and it is with them that our journey begins."
+    ],
+    "chapters": [
+      {
+        "number": 1,
+        "name": "Uways al-Qarani",
+        "arabicName": "أويس القرني"
+      },
+      {
+        "number": 2,
+        "name": "Hasan al-Basri",
+        "arabicName": "الحسن البصري"
+      },
+      {
+        "number": 3,
+        "name": "Rabia al-Adawiyya",
+        "arabicName": "رابعة العدوية"
+      },
+      {
+        "number": 4,
+        "name": "Ibrahim ibn Adham",
+        "arabicName": "إبراهيم بن أدهم"
+      },
+      {
+        "number": 5,
+        "name": "Shaqiq al-Balkhi",
+        "arabicName": "شقيق البلخي"
+      },
+      {
+        "number": 6,
+        "name": "Fudayl ibn Iyad",
+        "arabicName": "الفضيل بن عياض"
+      },
+      {
+        "number": 7,
+        "name": "Dawud al-Tai",
+        "arabicName": "داود الطائي"
+      },
+      {
+        "number": 8,
+        "name": "Sufyan al-Thawri",
+        "arabicName": "سفيان الثوري"
+      },
+      {
+        "number": 9,
+        "name": "Abdullah ibn al-Mubarak",
+        "arabicName": "عبد الله بن المبارك"
+      }
+    ],
+    "afterword": null
+  },
+  {
+    "number": 2,
+    "name": "Crystallization of Sufi Thought",
+    "period": "3rd–4th Century AH",
+    "dates": "820–1000 CE",
+    "chapterRange": "Ch. 10–20",
+    "historicalContext": [
+      "The third and fourth centuries of the Hijri calendar represent the era in which the scattered streams of early Islamic asceticism coalesced into a recognizable and systematic spiritual tradition — tasawwuf. This was the age of the Abbasid Golden Age, when Baghdad stood as the intellectual capital of the world, home to the Bayt al-Hikma (House of Wisdom), where Greek, Persian, and Indian texts were translated into Arabic, sparking an unprecedented flowering of philosophy, science, and theology.",
+      "It was in this rich intellectual environment that Sufism moved beyond simple asceticism (zuhd) into a sophisticated spiritual science. The great masters of Baghdad — Junaid, Sari al-Saqati, Harith al-Muhasibi — developed a precise vocabulary for the states (ahwal) and stations (maqamat) of the spiritual journey. Terms like fana' (annihilation of the ego), baqa' (subsistence in God), sukr (spiritual intoxication), and sahw (spiritual sobriety) were defined and debated.",
+      "This was also the era of the great crisis. The tension between ecstatic Sufism and exoteric orthodoxy reached its breaking point in the trial and execution of Mansur al-Hallaj in 309 AH (922 CE). Al-Hallaj's public declaration \"Ana al-Haqq\" (I am the Truth/God) — whether understood as a statement of mystical union or heretical self-deification — sent shockwaves through the Muslim world. His gruesome execution served as a warning that the mystical path, if expressed too openly, could bring mortal danger.",
+      "In response, the \"sober\" school of Sufism, led by Junaid al-Baghdadi, advocated for expressing spiritual truths in veiled language and maintaining outward conformity with the Sharia. This approach would ultimately prevail and shape mainstream Sufism for centuries. Meanwhile, the first Sufi manuals — al-Sarraj's Kitab al-Luma', al-Kalabadhi's Kitab al-Ta'arruf, and Abu Talib al-Makki's Qut al-Qulub — were composed to defend Sufism's orthodoxy and systematize its teachings.",
+      "Politically, the Abbasid caliphate was fragmenting. Independent dynasties — the Buyids, the Samanids, the Fatimids — were carving out their own domains. Yet this political fragmentation paradoxically fostered intellectual diversity, as multiple courts competed for scholarly prestige. The great Sufi centers of this era — Baghdad, Nishapur, Khurasan, and Egypt — each developed their own spiritual traditions.",
+      "By the end of this period, Sufism had been transformed from an informal movement of individual ascetics into a sophisticated spiritual science with its own literature, terminology, institutions, and chains of transmission. The stage was set for the great tariqas that would emerge in the centuries to come."
+    ],
+    "chapters": [
+      {
+        "number": 10,
+        "name": "Maruf al-Karkhi",
+        "arabicName": "معروف الكرخي"
+      },
+      {
+        "number": 11,
+        "name": "Dhul-Nun al-Misri",
+        "arabicName": "ذو النون المصري"
+      },
+      {
+        "number": 12,
+        "name": "Bayazid Bistami",
+        "arabicName": "بايزيد بسطامي"
+      },
+      {
+        "number": 13,
+        "name": "Sari al-Saqati",
+        "arabicName": "سري السقطي"
+      },
+      {
+        "number": 14,
+        "name": "Harith al-Muhasibi",
+        "arabicName": "الحارث المحاسبي"
+      },
+      {
+        "number": 15,
+        "name": "Abu al-Qasim al-Junaid al-Baghdadi",
+        "arabicName": "أبو القاسم الجنيد البغدادي"
+      },
+      {
+        "number": 16,
+        "name": "Mansur al-Hallaj",
+        "arabicName": "منصور الحلاج"
+      },
+      {
+        "number": 17,
+        "name": "Abu Bakr al-Shibli",
+        "arabicName": "أبو بكر الشبلي"
+      },
+      {
+        "number": 18,
+        "name": "Abu Talib al-Makki",
+        "arabicName": "أبو طالب المكي"
+      },
+      {
+        "number": 19,
+        "name": "Abu Nasr al-Sarraj",
+        "arabicName": "أبو نصر السراج"
+      },
+      {
+        "number": 20,
+        "name": "Abu Bakr al-Kalabadhi",
+        "arabicName": "أبو بكر الكلاباذي"
+      }
+    ],
+    "afterword": null
+  },
+  {
+    "number": 3,
+    "name": "Age of Systematization",
+    "period": "5th–6th Century AH",
+    "dates": "1000–1200 CE",
+    "chapterRange": "Ch. 21–35",
+    "historicalContext": [
+      "The fifth and sixth Islamic centuries represent a pivotal transformation in the history of tasawwuf — the era in which Sufism evolved from a loosely organized movement of individual masters into a structured tradition of formal orders (tariqas), systematic treatises, and institutional infrastructure. This transformation occurred against the backdrop of immense political upheaval and intellectual ferment across the Muslim world.",
+      "The Seljuk Turks, who swept out of Central Asia and conquered Baghdad in 447 AH (1055 CE), became the new guardians of Sunni orthodoxy. Their vizier Nizam al-Mulk established the famous Nizamiyya madrasas — a chain of state-sponsored institutions of learning that stretched from Baghdad to Nishapur. It was at the Nizamiyya of Baghdad that Abu Hamid al-Ghazali held his celebrated professorship before his spiritual crisis led him to abandon it.",
+      "The Crusades erupted in 489 AH (1096 CE) with the fall of Jerusalem, sending shockwaves through the Muslim world. In Egypt, the Fatimid Ismaili caliphate offered an alternative model of Islamic civilization, while the Assassins (Nizari Ismailis) operated from their mountain fortresses. It was a world of competing ideologies, military threats, and existential challenges.",
+      "Into this turmoil, Abu Hamid al-Ghazali achieved what is arguably the single most important intellectual feat in Islamic history: the definitive reconciliation of Sufism with mainstream Sunni theology and jurisprudence. His Ihya Ulum al-Din (Revival of the Religious Sciences) demonstrated that the spiritual dimension of Islam was not a dangerous innovation but the very heart of prophetic practice. After al-Ghazali, no serious Sunni scholar could dismiss Sufism as mere heresy.",
+      "This was also the century in which the first great tariqas were founded. Abdul Qadir al-Jilani established what would become the Qadiriyya — eventually the most widespread Sufi order in the world. Ahmad al-Rifa'i founded the Rifa'iyya. The Suhrawardiyya took shape. Abu al-Hasan al-Shadhili would establish the Shadhiliyya. These were no longer informal circles around individual masters but organized institutions with formal initiation (bay'a), chains of succession, distinctive practices, and endowed properties.",
+      "The khanqah (Sufi lodge) became a fixture of urban life across the Muslim world. These institutions served as centers of worship, education, hospitality, and social welfare. The Seljuk and Ayyubid rulers patronized them generously, recognizing the Sufis' power to inspire loyalty, maintain social cohesion, and legitimize political authority.",
+      "Meanwhile, Sufism was beginning its great expansion beyond the Arab-Persian heartlands. Al-Hujwiri (Data Ganj Bakhsh) settled in Lahore, becoming the first major Sufi presence in the Indian subcontinent. Ahmad Yasawi carried the Sufi message to the Turkic peoples of Central Asia. These pioneers laid the groundwork for the massive missionary expansion that would characterize the next era."
+    ],
+    "chapters": [
+      {
+        "number": 21,
+        "name": "Abu Abd al-Rahman al-Sulami",
+        "arabicName": "أبو عبد الرحمن السلمي"
+      },
+      {
+        "number": 22,
+        "name": "Abu al-Qasim al-Qushayri",
+        "arabicName": "أبو القاسم القشيري"
+      },
+      {
+        "number": 23,
+        "name": "Ali ibn Uthman al-Hujwiri — Data Ganj Bakhsh",
+        "arabicName": "علي بن عثمان الهجويري"
+      },
+      {
+        "number": 24,
+        "name": "Abdullah al-Ansari al-Harawi",
+        "arabicName": "عبد الله الأنصاري الهروي"
+      },
+      {
+        "number": 25,
+        "name": "Abu Hamid al-Ghazali",
+        "arabicName": "أبو حامد الغزالي"
+      },
+      {
+        "number": 26,
+        "name": "Ahmad al-Ghazali",
+        "arabicName": "أحمد الغزالي"
+      },
+      {
+        "number": 27,
+        "name": "Ayn al-Qudat Hamadani",
+        "arabicName": "عين القضاة همداني"
+      },
+      {
+        "number": 28,
+        "name": "Yusuf al-Hamadhani",
+        "arabicName": "يوسف الهمذاني"
+      },
+      {
+        "number": 29,
+        "name": "Ahmad Yasawi",
+        "arabicName": "أحمد يسوي"
+      },
+      {
+        "number": 30,
+        "name": "Abdul Qadir al-Jilani",
+        "arabicName": "عبد القادر الجيلاني"
+      },
+      {
+        "number": 31,
+        "name": "Abu Madyan Shu'ayb",
+        "arabicName": "أبو مدين شعيب"
+      },
+      {
+        "number": 32,
+        "name": "Shihabuddin Umar al-Suhrawardi",
+        "arabicName": "شهاب الدين عمر السهروردي"
+      },
+      {
+        "number": 33,
+        "name": "Najm al-Din Kubra",
+        "arabicName": "نجم الدين كبرى"
+      },
+      {
+        "number": 34,
+        "name": "Abu al-Hasan al-Shadhili",
+        "arabicName": "أبو الحسن الشاذلي"
+      },
+      {
+        "number": 35,
+        "name": "Ahmad al-Rifa'i",
+        "arabicName": "أحمد الرفاعي"
+      }
+    ],
+    "afterword": null
+  },
+  {
+    "number": 4,
+    "name": "The Golden Age",
+    "period": "7th–8th Century AH",
+    "dates": "1097–1400 CE",
+    "chapterRange": "Ch. 36–50, 101–102",
+    "historicalContext": [
+      "The seventh and eighth Islamic centuries present the most extraordinary paradox in the history of human civilization: the very era in which the Muslim world suffered the most catastrophic physical destruction it had ever known — the Mongol invasions that obliterated cities, libraries, and entire populations — was simultaneously the era of the most magnificent flowering of mystical thought, poetry, and spiritual institution-building in the history of tasawwuf.",
+      "In 656 AH (1258 CE), the Mongol armies of Hulagu Khan sacked Baghdad — the greatest city in the medieval world, the seat of the Abbasid caliphate for five centuries, a metropolis of perhaps a million souls. The last Abbasid caliph, al-Musta'sim, was rolled in a carpet and trampled to death by horses. The House of Wisdom, with its incalculable treasures of manuscripts, was destroyed. The waters of the Tigris ran black with the ink of books and red with the blood of scholars. Before Baghdad, the Mongols had already devastated Bukhara, Samarkand, Nishapur, Herat, and Balkh — the great cities of Khorasan and Transoxiana, the heartlands of Islamic intellectual life. Entire civilizations were erased.",
+      "Yet it was precisely in response to this cataclysm that the human spirit produced some of its most luminous achievements. The great Persian Sufi poets — Farid al-Din Attar, Jalal al-Din Rumi, Sa'di of Shiraz, and later Hafiz — composed works of such transcendent beauty that they remain, eight centuries later, among the most widely read poetry on earth. It was as though the destruction of the outer world drove the spirit inward with unprecedented intensity, and what it found there was inexhaustible.",
+      "From the opposite end of the Muslim world, the Andalusian mystic Muhyiddin Ibn Arabi arrived in the eastern lands bearing a metaphysical revolution of staggering scope. His doctrine of Wahdat al-Wujud (the Unity of Being), his concept of al-Insan al-Kamil (the Perfect Human), and his visionary cosmology transformed all subsequent understanding of God, the cosmos, and the human being's place between them. No Sufi thinker after Ibn Arabi could avoid engaging with his ideas — whether in acceptance, development, or reaction.",
+      "This was also the era in which the great Sufi orders reached their full institutional form and began their spread across the known world. The Qadiriyya, already founded in Baghdad, expanded rapidly. The Chishtiyya established itself across the Indian subcontinent through Moinuddin Chishti and his successors. The Suhrawardiyya took root in Multan and Delhi. The Mevleviyya — Rumi's order — arose in Anatolia. The Shadhiliyya spread through Egypt and the Maghreb. The Naqshbandiyya consolidated in Central Asia. The khanqah became a pillar of social life — a center of worship, education, refuge, and charity in a world convulsed by political upheaval and military devastation. And Sufism, carried by these orders and their missionaries, spread far beyond the Arab-Persian heartlands to encompass the entire Indian subcontinent, Anatolia and the nascent Ottoman domains, Sub-Saharan Africa, and the islands of Southeast Asia — a missionary expansion of world-historical significance."
+    ],
+    "chapters": [
+      {
+        "number": 36,
+        "name": "Farid al-Din Attar",
+        "arabicName": "فريد الدين العطار"
+      },
+      {
+        "number": 37,
+        "name": "Muhyiddin Ibn Arabi",
+        "arabicName": "محيي الدين ابن عربي"
+      },
+      {
+        "number": 38,
+        "name": "Ruzbihan Baqli",
+        "arabicName": "روزبهان بقلي"
+      },
+      {
+        "number": 39,
+        "name": "Moinuddin Chishti",
+        "arabicName": "معين الدین چشتی"
+      },
+      {
+        "number": 40,
+        "name": "Bahauddin Zakariya Multani",
+        "arabicName": "بهاء الدين زكريا الملتاني"
+      },
+      {
+        "number": 41,
+        "name": "Jalal al-Din Rumi",
+        "arabicName": "جلال الدين الرومي"
+      },
+      {
+        "number": 43,
+        "name": "Sadr al-Din Qunawi",
+        "arabicName": "صدر الدين القونوي"
+      },
+      {
+        "number": 44,
+        "name": "Fariduddin Ganjshakar — Baba Farid",
+        "arabicName": "فريد الدين گنج شكر"
+      },
+      {
+        "number": 45,
+        "name": "Sharaf al-Din al-Busiri",
+        "arabicName": "شرف الدين البوصيري"
+      },
+      {
+        "number": 46,
+        "name": "Nizamuddin Auliya",
+        "arabicName": "نظام الدين اولياء"
+      },
+      {
+        "number": 47,
+        "name": "Ibn Ata'illah al-Iskandari",
+        "arabicName": "ابن عطاء الله الإسكندري"
+      },
+      {
+        "number": 48,
+        "name": "Amir Khusraw Dehlawi",
+        "arabicName": "أمير خسرو دهلوي"
+      },
+      {
+        "number": 49,
+        "name": "Abdul Khaliq al-Ghujduwani",
+        "arabicName": "عبد الخالق الغجدواني"
+      },
+      {
+        "number": 50,
+        "name": "Baha al-Din Naqshband",
+        "arabicName": "بهاء الدين نقشبند"
+      },
+      {
+        "number": 101,
+        "name": "Al-Faqih al-Muqaddam — Muhammad ibn Ali Ba'alawi",
+        "arabicName": "الفقيه المقدم محمد بن علي باعلوي"
+      },
+      {
+        "number": 102,
+        "name": "Umar al-Mihdar",
+        "arabicName": "عمر المحضار"
+      }
+    ],
+    "afterword": null
+  },
+  {
+    "number": 5,
+    "name": "Age of Expansion",
+    "period": "9th–11th Century AH",
+    "dates": "1199–1650 CE",
+    "chapterRange": "Ch. 51–65, 103–106",
+    "historicalContext": [],
+    "chapters": [
+      {
+        "number": 51,
+        "name": "Sayyid Ahmad al-Badawi",
+        "arabicName": "السيد أحمد البدوي"
+      },
+      {
+        "number": 52,
+        "name": "Ibrahim al-Dasuqi",
+        "arabicName": "إبراهيم الدسوقي"
+      },
+      {
+        "number": 54,
+        "name": "Syed Muhammad Gesudaraz Bandanawaz",
+        "arabicName": "سید محمد گیسودراز"
+      },
+      {
+        "number": 55,
+        "name": "Khwaja Ahrar",
+        "arabicName": "خواجه احرار"
+      },
+      {
+        "number": 56,
+        "name": "Jami",
+        "arabicName": "جامی"
+      },
+      {
+        "number": 57,
+        "name": "Muhammad al-Jazuli",
+        "arabicName": "محمد الجزولي"
+      },
+      {
+        "number": 58,
+        "name": "Abd al-Wahhab al-Sha'rani",
+        "arabicName": "عبد الوهاب الشعراني"
+      },
+      {
+        "number": 59,
+        "name": "Shah Hussain of Lahore — Madhu Lal Hussain",
+        "arabicName": "شاہ حسین"
+      },
+      {
+        "number": 60,
+        "name": "Ibrahim Gülshani",
+        "arabicName": "ابراهيم گلشنی"
+      },
+      {
+        "number": 61,
+        "name": "Ahmad Sirhindi — Mujaddid Alf-i Thani",
+        "arabicName": "أحمد السرهندي"
+      },
+      {
+        "number": 62,
+        "name": "Mian Mir of Lahore",
+        "arabicName": "میاں میر"
+      },
+      {
+        "number": 63,
+        "name": "Aziz Mahmud Hudayi",
+        "arabicName": "عزيز محمود هدايي"
+      },
+      {
+        "number": 64,
+        "name": "Dara Shikoh",
+        "arabicName": "داراشکوه"
+      },
+      {
+        "number": 65,
+        "name": "Niyazi-i Misri",
+        "arabicName": "نيازي مصري"
+      },
+      {
+        "number": 103,
+        "name": "Abd al-Rahman al-Saqqaf",
+        "arabicName": "عبد الرحمن السقاف"
+      },
+      {
+        "number": 104,
+        "name": "Imam al-Aydarus al-Akbar — Abdullah ibn Abu Bakr al-Sakran",
+        "arabicName": "الإمام العيدروس الأكبر عبدالله بن أبي بكر السكران"
+      },
+      {
+        "number": 105,
+        "name": "Imam al-Adani — Abu Bakr ibn Abdullah al-Aydarus",
+        "arabicName": "الإمام العدني أبو بكر بن عبدالله العيدروس"
+      },
+      {
+        "number": 106,
+        "name": "Shaykh Abu Bakr bin Salim",
+        "arabicName": "الشيخ أبو بكر بن سالم"
+      }
+    ],
+    "afterword": null
+  },
+  {
+    "number": 6,
+    "name": "Era of Revival",
+    "period": "12th–13th Century AH",
+    "dates": "1641–1900 CE",
+    "chapterRange": "Ch. 66–80, 107–114, 126",
+    "historicalContext": [],
+    "chapters": [
+      {
+        "number": 66,
+        "name": "Abd al-Ghani al-Nabulusi",
+        "arabicName": "عبد الغني النابلسي"
+      },
+      {
+        "number": 67,
+        "name": "Bulleh Shah",
+        "arabicName": "بلھے شاہ"
+      },
+      {
+        "number": 68,
+        "name": "Shah Abd al-Latif Bhitai",
+        "arabicName": "شاہ عبداللطیف بھٹائی"
+      },
+      {
+        "number": 69,
+        "name": "Shah Wali Allah Dehlawi",
+        "arabicName": "شاه ولى الله الدهلوي"
+      },
+      {
+        "number": 70,
+        "name": "Mir Dard",
+        "arabicName": "میر درد"
+      },
+      {
+        "number": 71,
+        "name": "Sidi Ahmad al-Tijani",
+        "arabicName": "سيدي أحمد التجاني"
+      },
+      {
+        "number": 72,
+        "name": "Usman Dan Fodio",
+        "arabicName": "عثمان بن فودي"
+      },
+      {
+        "number": 73,
+        "name": "Ahmad ibn Idris al-Fasi",
+        "arabicName": "أحمد بن إدريس الفاسي"
+      },
+      {
+        "number": 74,
+        "name": "Khalid al-Baghdadi",
+        "arabicName": "خالد البغدادي"
+      },
+      {
+        "number": 75,
+        "name": "Muhammad ibn Ali al-Sanusi",
+        "arabicName": "محمد بن علي السنوسي"
+      },
+      {
+        "number": 76,
+        "name": "Al-Hajj Umar Tall",
+        "arabicName": "الحاج عمر تل"
+      },
+      {
+        "number": 77,
+        "name": "Muhammad Uthman al-Mirghani",
+        "arabicName": "محمد عثمان الميرغني"
+      },
+      {
+        "number": 78,
+        "name": "Imam Shamil",
+        "arabicName": "الإمام شامل"
+      },
+      {
+        "number": 79,
+        "name": "Abd al-Qadir al-Jazairi",
+        "arabicName": "عبد القادر الجزائري"
+      },
+      {
+        "number": 80,
+        "name": "Hajji Imdadullah Muhajir Makki",
+        "arabicName": "حاجي إمداد الله مهاجر مكي"
+      },
+      {
+        "number": 107,
+        "name": "Imam al-Haddad — Abdullah ibn Alawi al-Haddad",
+        "arabicName": "الإمام الحداد عبدالله بن علوي الحداد"
+      },
+      {
+        "number": 108,
+        "name": "Muhammad al-Hafni",
+        "arabicName": "محمد الحفني"
+      },
+      {
+        "number": 109,
+        "name": "Ahmad al-Dardir",
+        "arabicName": "أحمد الدردير"
+      },
+      {
+        "number": 110,
+        "name": "Ahmad al-Sawi al-Maliki",
+        "arabicName": "أحمد الصاوي"
+      },
+      {
+        "number": 111,
+        "name": "Ibrahim al-Bajuri",
+        "arabicName": "إبراهيم الباجوري"
+      },
+      {
+        "number": 112,
+        "name": "Muhammad al-Arabi al-Darqawi",
+        "arabicName": "محمد العربي الدرقاوي"
+      },
+      {
+        "number": 113,
+        "name": "Ahmad ibn Ajiba",
+        "arabicName": "أحمد بن عجيبة"
+      },
+      {
+        "number": 114,
+        "name": "Shah Abd al-Aziz Dehlawi",
+        "arabicName": "شاه عبد العزيز الدهلوي"
+      },
+      {
+        "number": 126,
+        "name": "Shaykh Sidiyya al-Kabir",
+        "arabicName": "الشيخ سيديا الكبير"
+      }
+    ],
+    "afterword": null
+  },
+  {
+    "number": 7,
+    "name": "The Modern Era",
+    "period": "14th Century AH",
+    "dates": "1847–Present",
+    "chapterRange": "Ch. 81–100, 115–127",
+    "historicalContext": [
+      "The fourteenth century of the Islamic calendar, roughly corresponding to the twentieth and early twenty-first centuries of the Common Era, brought unprecedented challenges and transformations to the Sufi tradition. Colonialism, nationalism, secularism, and modernity pressed upon Muslim societies from every direction, dismantling institutions that had sustained the tariqa orders for centuries. Sufi lodges were shuttered by new governments in Turkey, Egypt, and elsewhere; traditional education systems gave way to secular academies; and a rising tide of reformist and fundamentalist movements questioned the very legitimacy of Sufi practice.",
+      "Yet the masters of this era demonstrated the remarkable resilience of the inner tradition. Rather than retreating before the onslaught of modernity, many of the greatest shaykhs of the fourteenth century transformed their circumstances into opportunities. African teachers like Ahmadou Bamba and Ibrahim Niasse built mass movements of millions, embedding Sufism into the very fabric of West African society. South Asian masters like Ashraf Ali Thanawi and Hazrat Inayat Khan responded to modernity from opposite directions — one by codifying traditional practice in encyclopedic detail, the other by taking the universal essence of Sufism to the West. North African masters like Ahmad al-Alawi and Muhammad ibn al-Habib continued the ancient lineages of the Shadhili-Darqawi tradition, drawing seekers from Europe and the Americas.",
+      "Perhaps the most remarkable development of this century was the globalization of Sufism. For the first time in Islamic history, initiatic chains of transmission crossed the boundaries of civilization. Western converts — scholars, artists, musicians, and philosophers — entered the Sufi path, received genuine initiation, and in some cases rose to positions of teaching authority. René Guénon's intellectual pilgrimage to Islam and Frithjof Schuon's founding of a worldwide Maryamiyya circle represent one dimension of this phenomenon; Martin Lings's transmission of the Shadhili-Alawi tradition to English-speaking seekers represents another. By the century's end, Sufi centers could be found on every continent, teaching in dozens of languages, adapting the outer forms of the tradition while preserving its inner substance.",
+      "The masters of Part Seven also faced the test of witnessing — being present to an era of mass violence, spiritual confusion, and ecological crisis without losing the quality of presence that defines the realized human being. Imam Shamil had faced this test with the sword in the previous century; the masters of the modern era faced it with the pen, the spoken word, the silence of their presence, and the songs of their devotion. Their legacy is still unfolding."
+    ],
+    "chapters": [
+      {
+        "number": 81,
+        "name": "Shaykh Uways al-Barawi",
+        "arabicName": "أويس البراوي"
+      },
+      {
+        "number": 82,
+        "name": "Ahmadou Bamba Mbacké",
+        "arabicName": "أحمدو بمبا مبكه"
+      },
+      {
+        "number": 83,
+        "name": "Ashraf Ali Thanawi",
+        "arabicName": "أشرف علي تهانوي"
+      },
+      {
+        "number": 84,
+        "name": "Shaykh Ahmad al-Alawi",
+        "arabicName": "أحمد العلوي"
+      },
+      {
+        "number": 85,
+        "name": "René Guénon / Abd al-Wahid Yahya",
+        "arabicName": "عبد الواحد يحيى"
+      },
+      {
+        "number": 86,
+        "name": "Hazrat Inayat Khan",
+        "arabicName": "حضرت عنايت خان"
+      },
+      {
+        "number": 87,
+        "name": "Pir Mehr Ali Shah",
+        "arabicName": "پیر مہر علی شاہ"
+      },
+      {
+        "number": 88,
+        "name": "Shaykh Muhammad ibn al-Habib",
+        "arabicName": "محمد بن الحبيب"
+      },
+      {
+        "number": 89,
+        "name": "Ibrahim Niasse / Baye Niasse",
+        "arabicName": "إبراهيم نياس"
+      },
+      {
+        "number": 90,
+        "name": "Frithjof Schuon / Shaykh Isa Nur al-Din Ahmad",
+        "arabicName": "فريتيوف شوون"
+      },
+      {
+        "number": 91,
+        "name": "Shaykh Abd al-Halim Mahmud",
+        "arabicName": "عبد الحليم محمود"
+      },
+      {
+        "number": 92,
+        "name": "Martin Lings / Abu Bakr Siraj al-Din",
+        "arabicName": "مارتن لينغز"
+      },
+      {
+        "number": 93,
+        "name": "Shaykh Muzaffer Ozak",
+        "arabicName": "مظفر اوزاق"
+      },
+      {
+        "number": 94,
+        "name": "Bawa Muhaiyaddeen",
+        "arabicName": "باوا محيي الدين"
+      },
+      {
+        "number": 95,
+        "name": "Shaykh Nazim al-Haqqani",
+        "arabicName": "ناظم الحقاني"
+      },
+      {
+        "number": 96,
+        "name": "Seyyed Hossein Nasr",
+        "arabicName": "سيد حسين نصر"
+      },
+      {
+        "number": 97,
+        "name": "Pir Vilayat Inayat Khan",
+        "arabicName": "پیر ولایت عنایت خان"
+      },
+      {
+        "number": 98,
+        "name": "Sidi Hamza al-Qadiri al-Boutchichi",
+        "arabicName": "سيدي حمزة القادري البوتشيشي"
+      },
+      {
+        "number": 99,
+        "name": "Shaykh Hassan Cisse",
+        "arabicName": "حسن سيسي"
+      },
+      {
+        "number": 100,
+        "name": "Shaykh Abdal Hakim Murad / Timothy Winter",
+        "arabicName": "عبد الحكيم مراد"
+      },
+      {
+        "number": 115,
+        "name": "Habib Ali ibn Muhammad al-Habshi",
+        "arabicName": "علي بن محمد الحبشي"
+      },
+      {
+        "number": 116,
+        "name": "Habib Ahmad Mashhur al-Haddad",
+        "arabicName": "أحمد مشهور الحداد"
+      },
+      {
+        "number": 117,
+        "name": "Habib Abd al-Qadir ibn Ahmad al-Saqqaf",
+        "arabicName": "عبد القادر السقاف"
+      },
+      {
+        "number": 118,
+        "name": "Habib Umar ibn Hafiz",
+        "arabicName": "عمر بن حفيظ"
+      },
+      {
+        "number": 119,
+        "name": "Habib Ali Zayn al-'Abidin al-Jifri",
+        "arabicName": "علي الجفري"
+      },
+      {
+        "number": 120,
+        "name": "Al-Hajj Malick Sy",
+        "arabicName": "الحاج مالك سي"
+      },
+      {
+        "number": 121,
+        "name": "Serigne Babacar Sy",
+        "arabicName": "الشيخ أبو بكر سي"
+      },
+      {
+        "number": 122,
+        "name": "Mehmed Zahid Kotku",
+        "arabicName": "محمد زاهد قوطقو"
+      },
+      {
+        "number": 123,
+        "name": "Muhammad Metwally al-Shaarawi",
+        "arabicName": "محمد متولي الشعراوي"
+      },
+      {
+        "number": 124,
+        "name": "Ahmad al-Shawadfi",
+        "arabicName": "أحمد الشوادفي"
+      },
+      {
+        "number": 125,
+        "name": "Sayyid Muhammad ibn Alawi al-Maliki",
+        "arabicName": "محمد بن علوي المالكي"
+      },
+      {
+        "number": 127,
+        "name": "Shaykh Sidiyya Baba",
+        "arabicName": "الشيخ سيديا بابا"
+      }
+    ],
+    "afterword": {
+      "title": "Afterword: The Living Tradition",
+      "paragraphs": [
+        "The one hundred figures gathered in these pages do not exhaust the saints of Islam. They could not. In every century since the Prophet Muhammad first received the Revelation in the cave of Hira, the divine mercy has found human vessels adequate to contain it — men and women who submitted so completely to the divine will that they became transparent to it, through whom the light of the original message continued to illuminate the generations that followed. The Quran speaks of this reality in a single verse whose implications the masters of Sufism have spent fourteen centuries unpacking: \"God is the Light of the heavens and the earth\" (24:35). Where there is light, there is a source; and wherever a human heart has been sufficiently purified of the veils that ordinarily obscure it, the light becomes visible.",
+        "The tradition is alive. This is the most important thing that could be said at the end of this long journey through fourteen centuries of Islamic spirituality. The silsila — the chain of transmission stretching from the Prophet through Ali ibn Abi Talib or Abu Bakr al-Siddiq through countless links to the masters living today — has not been broken. The dhikr sessions described in these pages are still being held: in Istanbul and Cairo, in Dakar and Kano and Nairobi, in London and New York and Jakarta and Kuala Lumpur, in small rooms and large shrines, in mosques and zawiyas and university dormitories, wherever a group of hearts has gathered in the remembrance of God. The wird given by the tenth-century master to his student is still being recited, transmitted hand to hand, heart to heart, across the centuries and across the world.",
+        "What changes, and what does not? The forms change. The language changes. The cultural contexts in which the teaching must be expressed — the questions asked, the obstacles that present themselves, the vocabulary through which the inner reality must be articulated — shift with every generation and every civilization. A master working in the twenty-first century in Philadelphia or London or Dakar must address a very different set of confusions and needs than a master working in tenth-century Baghdad or fourteenth-century Delhi. The medicine must be compounded differently for each patient, each disease, each era. This is why every generation needs living masters — not to repeat what has already been said but to say what needs to be said now, to this person, in this moment.",
+        "What does not change is the essential content of what is transmitted. The divine reality that overwhelmed al-Hallaj and broke his heart open does not change. The love that made Rumi dance and weep does not change. The silence that descended on Abu Bakr al-Siddiq in the cave with the Prophet does not change. The divine mercy that sustained Rabia al-Adawiyya through her poverty and her longing does not change. These are not historical events frozen in the past but permanent features of the landscape of the human soul — realities that any prepared heart can encounter in any era, not by recreating the historical circumstances in which they were first known but by the inner preparation that has always been required: sincerity, longing, surrender, and the willingness to be transformed by what one finds.",
+        "The tradition of the Mashaikh — the Way of the Masters — is ultimately a tradition of becoming human. Not merely human in the biological sense, but human in the fullest Quranic sense: the khalifa (vicegerent) of God on earth, the being created in the divine form (fitra), the carrier of the divine trust (amana) that the heavens and earth refused to bear. The one hundred figures in these pages accepted that trust and carried it — each in their own way, each in their own time, each with their own particular gifts and limitations — and left it, enlarged and enriched, for those who came after them. It is now, as it has always been, your turn.",
+        "*There is no god but God, and Muhammad is His Messenger — and through him, the light that was at the beginning continues to move through the world, searching for the hearts ready to receive it.*",
+        "*The Book of the Mashaikh concludes here, but the tradition it describes has no conclusion. It is, as the masters say, an ocean without a shore.*"
+      ]
+    }
+  }
+]

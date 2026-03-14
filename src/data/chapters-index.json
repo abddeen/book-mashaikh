@@ -1,0 +1,1262 @@
+[
+  {
+    "chapterNumber": 1,
+    "name": "Uways al-Qarani",
+    "arabicName": "أويس القرني",
+    "born": "c. 1st century AH / pre-632 CE",
+    "ceYear": 617,
+    "birthplace": "Yemen",
+    "tariqah": "Pre-tariqa era (ancestor of Uwaysi tradition)",
+    "part": 1
+  },
+  {
+    "chapterNumber": 2,
+    "name": "Hasan al-Basri",
+    "arabicName": "الحسن البصري",
+    "born": "21 AH / 642 CE",
+    "ceYear": 642,
+    "birthplace": "Medina, Arabia",
+    "tariqah": "Pre-tariqa era (virtually all silsilas pass through him)",
+    "part": 1
+  },
+  {
+    "chapterNumber": 3,
+    "name": "Rabia al-Adawiyya",
+    "arabicName": "رابعة العدوية",
+    "born": "c. 95–100 AH / 713–717 CE",
+    "ceYear": 715,
+    "birthplace": "Basra, Iraq",
+    "tariqah": "Pre-tariqa era",
+    "part": 1
+  },
+  {
+    "chapterNumber": 8,
+    "name": "Sufyan al-Thawri",
+    "arabicName": "سفيان الثوري",
+    "born": "97 AH / 716 CE",
+    "ceYear": 716,
+    "birthplace": "Kufa, Iraq",
+    "tariqah": "Pre-tariqa era",
+    "part": 1
+  },
+  {
+    "chapterNumber": 4,
+    "name": "Ibrahim ibn Adham",
+    "arabicName": "إبراهيم بن أدهم",
+    "born": "c. 100 AH / 718 CE",
+    "ceYear": 718,
+    "birthplace": "Balkh (present-day Afghanistan)",
+    "tariqah": "Pre-tariqa era",
+    "part": 1
+  },
+  {
+    "chapterNumber": 6,
+    "name": "Fudayl ibn Iyad",
+    "arabicName": "الفضيل بن عياض",
+    "born": "c. 107 AH / 725 CE",
+    "ceYear": 725,
+    "birthplace": "Samarkand (or Khorasan)",
+    "tariqah": "Pre-tariqa era",
+    "part": 1
+  },
+  {
+    "chapterNumber": 9,
+    "name": "Abdullah ibn al-Mubarak",
+    "arabicName": "عبد الله بن المبارك",
+    "born": "118 AH / 736 CE",
+    "ceYear": 736,
+    "birthplace": "Merv, Khorasan",
+    "tariqah": "Pre-tariqa era",
+    "part": 1
+  },
+  {
+    "chapterNumber": 5,
+    "name": "Shaqiq al-Balkhi",
+    "arabicName": "شقيق البلخي",
+    "born": "c. 2nd century AH",
+    "ceYear": 767,
+    "birthplace": "Balkh (present-day Afghanistan)",
+    "tariqah": "Pre-tariqa era",
+    "part": 1
+  },
+  {
+    "chapterNumber": 7,
+    "name": "Dawud al-Tai",
+    "arabicName": "داود الطائي",
+    "born": "c. 2nd century AH",
+    "ceYear": 767,
+    "birthplace": "Kufa, Iraq",
+    "tariqah": "Pre-tariqa era",
+    "part": 1
+  },
+  {
+    "chapterNumber": 13,
+    "name": "Sari al-Saqati",
+    "arabicName": "سري السقطي",
+    "born": "c. 155 AH / 772 CE",
+    "ceYear": 772,
+    "birthplace": "Baghdad, Iraq",
+    "tariqah": "Pre-tariqa era (uncle and teacher of al-Junaid)",
+    "part": 2
+  },
+  {
+    "chapterNumber": 10,
+    "name": "Maruf al-Karkhi",
+    "arabicName": "معروف الكرخي",
+    "born": "c. late 2nd AH / c. 780 CE",
+    "ceYear": 780,
+    "birthplace": "Karkh quarter, Baghdad, Iraq",
+    "tariqah": "Pre-tariqa era (key link in Qadiri silsila)",
+    "part": 2
+  },
+  {
+    "chapterNumber": 14,
+    "name": "Harith al-Muhasibi",
+    "arabicName": "الحارث المحاسبي",
+    "born": "c. 165 AH / 781 CE",
+    "ceYear": 781,
+    "birthplace": "Basra, Iraq",
+    "tariqah": "Pre-tariqa era",
+    "part": 2
+  },
+  {
+    "chapterNumber": 11,
+    "name": "Dhul-Nun al-Misri",
+    "arabicName": "ذو النون المصري",
+    "born": "c. 180 AH / 796 CE",
+    "ceYear": 796,
+    "birthplace": "Ikhmim (Akhmim), Upper Egypt",
+    "tariqah": "Pre-tariqa era",
+    "part": 2
+  },
+  {
+    "chapterNumber": 12,
+    "name": "Bayazid Bistami",
+    "arabicName": "بايزيد بسطامي",
+    "born": "c. 188 AH / 804 CE",
+    "ceYear": 804,
+    "birthplace": "Bistam, Khorasan (present-day Iran)",
+    "tariqah": "Pre-tariqa era (ancestor of the sukri / \"intoxicated\" school)",
+    "part": 2
+  },
+  {
+    "chapterNumber": 15,
+    "name": "Abu al-Qasim al-Junaid",
+    "arabicName": "أبو القاسم الجنيد البغدادي",
+    "born": "c. 215 AH / 830 CE",
+    "ceYear": 830,
+    "birthplace": "Baghdad, Iraq",
+    "tariqah": "Pre-tariqa era (Sayyid al-Ta'ifa — nearly all later orders trace through him)",
+    "part": 2
+  },
+  {
+    "chapterNumber": 16,
+    "name": "Mansur al-Hallaj",
+    "arabicName": "منصور الحلاج",
+    "born": "c. 244 AH / 858 CE",
+    "ceYear": 858,
+    "birthplace": "Tur (or Bayda), Fars, Persia",
+    "tariqah": "Pre-tariqa era (student of al-Junaid)",
+    "part": 2
+  },
+  {
+    "chapterNumber": 17,
+    "name": "Abu Bakr al-Shibli",
+    "arabicName": "أبو بكر الشبلي",
+    "born": "247 AH / 861 CE",
+    "ceYear": 861,
+    "birthplace": "Samarra (or Baghdad), Iraq",
+    "tariqah": "Pre-tariqa era (student of al-Junaid)",
+    "part": 2
+  },
+  {
+    "chapterNumber": 18,
+    "name": "Abu Talib al-Makki",
+    "arabicName": "أبو طالب المكي",
+    "born": "c. 3rd century AH",
+    "ceYear": 864,
+    "birthplace": "Jibal region, western Iran",
+    "tariqah": "Pre-tariqa era",
+    "part": 2
+  },
+  {
+    "chapterNumber": 19,
+    "name": "Abu Nasr al-Sarraj",
+    "arabicName": "أبو نصر السراج",
+    "born": "c. 3rd century AH",
+    "ceYear": 864,
+    "birthplace": "Tus, Khorasan",
+    "tariqah": "Pre-tariqa era",
+    "part": 2
+  },
+  {
+    "chapterNumber": 20,
+    "name": "Abu Bakr al-Kalabadhi",
+    "arabicName": "أبو بكر الكلاباذي",
+    "born": "c. 4th century AH",
+    "ceYear": 961,
+    "birthplace": "Bukhara (present-day Uzbekistan)",
+    "tariqah": "Pre-tariqa era",
+    "part": 2
+  },
+  {
+    "chapterNumber": 21,
+    "name": "Abu Abd al-Rahman al-Sulami",
+    "arabicName": "أبو عبد الرحمن السلمي",
+    "born": "325 AH / 937 CE",
+    "ceYear": 937,
+    "birthplace": "Nishapur, Khorasan",
+    "tariqah": "Pre-tariqa era",
+    "part": 3
+  },
+  {
+    "chapterNumber": 22,
+    "name": "Abu al-Qasim al-Qushayri",
+    "arabicName": "أبو القاسم القشيري",
+    "born": "376 AH / 986 CE",
+    "ceYear": 986,
+    "birthplace": "Ustawa, near Nishapur, Khorasan",
+    "tariqah": "Pre-tariqa era",
+    "part": 3
+  },
+  {
+    "chapterNumber": 23,
+    "name": "Ali ibn Uthman al-Hujwiri / Data Ganj Bakhsh",
+    "arabicName": "علي بن عثمان الهجويري",
+    "born": "c. 390 AH / 1000 CE",
+    "ceYear": 1000,
+    "birthplace": "Hujwir, near Ghazni (present-day Afghanistan)",
+    "tariqah": "Pre-tariqa era (Junaidi tradition)",
+    "part": 3
+  },
+  {
+    "chapterNumber": 24,
+    "name": "Abdullah al-Ansari al-Harawi",
+    "arabicName": "عبد الله الأنصاري الهروي",
+    "born": "396 AH / 1006 CE",
+    "ceYear": 1006,
+    "birthplace": "Herat (present-day Afghanistan)",
+    "tariqah": "Pre-tariqa era (Hanbali-Sufi tradition)",
+    "part": 3
+  },
+  {
+    "chapterNumber": 28,
+    "name": "Yusuf al-Hamadhani",
+    "arabicName": "يوسف الهمذاني",
+    "born": "440 AH / 1048 CE",
+    "ceYear": 1048,
+    "birthplace": "Hamadan, Persia",
+    "tariqah": "Khwajagan (proto-Naqshbandi)",
+    "part": 3
+  },
+  {
+    "chapterNumber": 25,
+    "name": "Abu Hamid al-Ghazali",
+    "arabicName": "أبو حامد الغزالي",
+    "born": "450 AH / 1058 CE",
+    "ceYear": 1058,
+    "birthplace": "Tus, Khorasan (near present-day Mashhad, Iran)",
+    "tariqah": "Pre-tariqa era",
+    "part": 3
+  },
+  {
+    "chapterNumber": 26,
+    "name": "Ahmad al-Ghazali",
+    "arabicName": "أحمد الغزالي",
+    "born": "c. 453 AH / 1061 CE",
+    "ceYear": 1061,
+    "birthplace": "Tus, Khorasan, Iran",
+    "tariqah": "Pre-tariqa era",
+    "part": 3
+  },
+  {
+    "chapterNumber": 30,
+    "name": "Abdul Qadir al-Jilani",
+    "arabicName": "عبد القادر الجيلاني",
+    "born": "470 AH / 1077 CE",
+    "ceYear": 1077,
+    "birthplace": "Jilan (Gilan), Persia",
+    "tariqah": "Qadiriyya (founder)",
+    "part": 3
+  },
+  {
+    "chapterNumber": 29,
+    "name": "Ahmad Yasawi",
+    "arabicName": "أحمد يسوي",
+    "born": "c. 486 AH / 1093 CE",
+    "ceYear": 1093,
+    "birthplace": "Sayram (present-day Kazakhstan)",
+    "tariqah": "Yasawiyya (founder)",
+    "part": 3
+  },
+  {
+    "chapterNumber": 27,
+    "name": "Ayn al-Qudat Hamadani",
+    "arabicName": "عين القضاة همداني",
+    "born": "492 AH / 1098 CE",
+    "ceYear": 1098,
+    "birthplace": "Hamadan, Persia",
+    "tariqah": "Pre-tariqa era (student of Ahmad al-Ghazali)",
+    "part": 3
+  },
+  {
+    "chapterNumber": 31,
+    "name": "Abu Madyan Shu'ayb",
+    "arabicName": "أبو مدين شعيب",
+    "born": "c. 509 AH / 1115 CE",
+    "ceYear": 1115,
+    "birthplace": "Cantillana, near Seville, al-Andalus (present-day Spain)",
+    "tariqah": "Own tradition (proto-Shadhili link)",
+    "part": 3
+  },
+  {
+    "chapterNumber": 35,
+    "name": "Ahmad al-Rifa'i",
+    "arabicName": "أحمد الرفاعي",
+    "born": "512 AH / 1118 CE",
+    "ceYear": 1118,
+    "birthplace": "Umm Ubayda, Batiha marshlands, southern Iraq",
+    "tariqah": "Rifa'iyya (founder)",
+    "part": 3
+  },
+  {
+    "chapterNumber": 32,
+    "name": "Shihabuddin Umar al-Suhrawardi",
+    "arabicName": "شهاب الدين عمر السهروردي",
+    "born": "539 AH / 1145 CE",
+    "ceYear": 1145,
+    "birthplace": "Suhraward, near Zanjan, Iran",
+    "tariqah": "Suhrawardiyya (systematizer)",
+    "part": 3
+  },
+  {
+    "chapterNumber": 33,
+    "name": "Najm al-Din Kubra",
+    "arabicName": "نجم الدين كبرى",
+    "born": "540 AH / 1145 CE",
+    "ceYear": 1145,
+    "birthplace": "Khiva, Khwarezm (present-day Uzbekistan)",
+    "tariqah": "Kubrawiyya (founder)",
+    "part": 3
+  },
+  {
+    "chapterNumber": 34,
+    "name": "Abu al-Hasan al-Shadhili",
+    "arabicName": "أبو الحسن الشاذلي",
+    "born": "c. 593 AH / 1196 CE",
+    "ceYear": 1196,
+    "birthplace": "Ghumara region, northern Morocco",
+    "tariqah": "Shadhiliyya (founder)",
+    "part": 3
+  },
+  {
+    "chapterNumber": 49,
+    "name": "Abdul Khaliq al-Ghujduwani",
+    "arabicName": "عبد الخالق الغجدواني",
+    "born": "c. 490 AH / 1097 CE",
+    "ceYear": 1097,
+    "birthplace": "Ghujduwan, near Bukhara (present-day Uzbekistan)",
+    "tariqah": "Khwajagan (proto-Naqshbandi)",
+    "part": 4
+  },
+  {
+    "chapterNumber": 38,
+    "name": "Ruzbihan Baqli",
+    "arabicName": "روزبهان بقلي",
+    "born": "522 AH / 1128 CE",
+    "ceYear": 1128,
+    "birthplace": "Fasa, Fars province, Iran",
+    "tariqah": "Junaidi tradition",
+    "part": 4
+  },
+  {
+    "chapterNumber": 39,
+    "name": "Moinuddin Chishti",
+    "arabicName": "معين الدین چشتی",
+    "born": "536 AH / 1141 CE",
+    "ceYear": 1141,
+    "birthplace": "Sijistan (Sistan, eastern Iran)",
+    "tariqah": "Chishtiyya (established in India)",
+    "part": 4
+  },
+  {
+    "chapterNumber": 36,
+    "name": "Farid al-Din Attar",
+    "arabicName": "فريد الدين العطار",
+    "born": "c. 540 AH / 1145 CE",
+    "ceYear": 1145,
+    "birthplace": "Nishapur, Khorasan (present-day Iran)",
+    "tariqah": "Kubrawiyya",
+    "part": 4
+  },
+  {
+    "chapterNumber": 37,
+    "name": "Muhyiddin Ibn Arabi",
+    "arabicName": "محيي الدين ابن عربي",
+    "born": "560 AH / 1165 CE",
+    "ceYear": 1165,
+    "birthplace": "Murcia, al-Andalus (present-day Spain)",
+    "tariqah": "Akbarian school (universal chain)",
+    "part": 4
+  },
+  {
+    "chapterNumber": 42,
+    "name": "Qutbuddin Bakhtiyar Kaki",
+    "arabicName": "قطب الدين بختيار كاكي",
+    "born": "569 AH / 1173 CE",
+    "ceYear": 1173,
+    "birthplace": "Ush, Fergana Valley (present-day Kyrgyzstan)",
+    "tariqah": "Chishtiyya",
+    "part": 4
+  },
+  {
+    "chapterNumber": 44,
+    "name": "Fariduddin Ganjshakar / Baba Farid",
+    "arabicName": "فريد الدين گنج شكر",
+    "born": "569 AH / 1173 CE",
+    "ceYear": 1173,
+    "birthplace": "Khotwal, near Multan, Punjab (present-day Pakistan)",
+    "tariqah": "Chishtiyya",
+    "part": 4
+  },
+  {
+    "chapterNumber": 101,
+    "name": "Al-Faqih al-Muqaddam — Muhammad ibn Ali Ba'alawi",
+    "arabicName": "الفقيه المقدم محمد بن علي باعلوي",
+    "born": "574 AH / 1178 CE",
+    "ceYear": 1178,
+    "birthplace": "Tarim, Hadhramaut, Yemen",
+    "tariqah": "Ba'alawiyya (Tariqa Alawiyya — consolidating founder)",
+    "part": 4
+  },
+  {
+    "chapterNumber": 40,
+    "name": "Bahauddin Zakariya Multani",
+    "arabicName": "بهاء الدين زكريا الملتاني",
+    "born": "578 AH / 1182 CE",
+    "ceYear": 1182,
+    "birthplace": "Kot Karor, near Multan (present-day Pakistan)",
+    "tariqah": "Suhrawardiyya",
+    "part": 4
+  },
+  {
+    "chapterNumber": 41,
+    "name": "Jalal al-Din Rumi",
+    "arabicName": "جلال الدين الرومي",
+    "born": "604 AH / 1207 CE",
+    "ceYear": 1207,
+    "birthplace": "Balkh (present-day Afghanistan)",
+    "tariqah": "Mevleviyya (founder)",
+    "part": 4
+  },
+  {
+    "chapterNumber": 43,
+    "name": "Sadr al-Din Qunawi",
+    "arabicName": "صدر الدين القونوي",
+    "born": "c. 607 AH / 1210 CE",
+    "ceYear": 1210,
+    "birthplace": "Malatya, eastern Anatolia (present-day Turkey)",
+    "tariqah": "Akbarian / Suhrawardiyya",
+    "part": 4
+  },
+  {
+    "chapterNumber": 45,
+    "name": "Sharaf al-Din al-Busiri",
+    "arabicName": "شرف الدين البوصيري",
+    "born": "608 AH / 1211 CE",
+    "ceYear": 1211,
+    "birthplace": "Busir, Buhayra, Egypt",
+    "tariqah": "Shadhiliyya",
+    "part": 4
+  },
+  {
+    "chapterNumber": 46,
+    "name": "Nizamuddin Auliya",
+    "arabicName": "نظام الدين اولياء",
+    "born": "636 AH / 1238 CE",
+    "ceYear": 1238,
+    "birthplace": "Badaun, Uttar Pradesh, India",
+    "tariqah": "Chishtiyya",
+    "part": 4
+  },
+  {
+    "chapterNumber": 48,
+    "name": "Amir Khusraw Dehlawi",
+    "arabicName": "أمير خسرو دهلوي",
+    "born": "651 AH / 1253 CE",
+    "ceYear": 1253,
+    "birthplace": "Patiyali, near Etah, Uttar Pradesh, India",
+    "tariqah": "Chishtiyya",
+    "part": 4
+  },
+  {
+    "chapterNumber": 47,
+    "name": "Ibn Ata'illah al-Iskandari",
+    "arabicName": "ابن عطاء الله الإسكندري",
+    "born": "c. 658 AH / 1259 CE",
+    "ceYear": 1259,
+    "birthplace": "Alexandria, Egypt",
+    "tariqah": "Shadhiliyya",
+    "part": 4
+  },
+  {
+    "chapterNumber": 102,
+    "name": "Umar al-Mihdar",
+    "arabicName": "عمر المحضار",
+    "born": "c. 665 AH / c. 1267 CE",
+    "ceYear": 1267,
+    "birthplace": "Tarim, Hadhramaut, Yemen",
+    "tariqah": "Ba'alawiyya",
+    "part": 4
+  },
+  {
+    "chapterNumber": 50,
+    "name": "Baha al-Din Naqshband",
+    "arabicName": "بهاء الدين نقشبند",
+    "born": "717 AH / 1317 CE",
+    "ceYear": 1317,
+    "birthplace": "Qasr al-Arifan, near Bukhara (present-day Uzbekistan)",
+    "tariqah": "Naqshbandiyya (founder)",
+    "part": 4
+  },
+  {
+    "chapterNumber": 51,
+    "name": "Sayyid Ahmad al-Badawi",
+    "arabicName": "السيد أحمد البدوي",
+    "born": "596 AH / 1199 CE",
+    "ceYear": 1199,
+    "birthplace": "Fez, Morocco",
+    "tariqah": "Ahmadiyya / Badawiyya (founder)",
+    "part": 5
+  },
+  {
+    "chapterNumber": 52,
+    "name": "Ibrahim al-Dasuqi",
+    "arabicName": "إبراهيم الدسوقي",
+    "born": "653 AH / 1255 CE",
+    "ceYear": 1255,
+    "birthplace": "Dasuq, western Nile Delta, Egypt",
+    "tariqah": "Burhaniyya Dasuqiyya (founder)",
+    "part": 5
+  },
+  {
+    "chapterNumber": 54,
+    "name": "Syed Muhammad Gesudaraz Bandanawaz",
+    "arabicName": "سید محمد گیسودراز",
+    "born": "721 AH / 1321 CE",
+    "ceYear": 1321,
+    "birthplace": "Delhi, India",
+    "tariqah": "Chishtiyya",
+    "part": 5
+  },
+  {
+    "chapterNumber": 103,
+    "name": "Abd al-Rahman al-Saqqaf",
+    "arabicName": "عبد الرحمن السقاف",
+    "born": "c. 747 AH / c. 1346 CE",
+    "ceYear": 1346,
+    "birthplace": "Tarim, Hadhramaut, Yemen",
+    "tariqah": "Ba'alawiyya",
+    "part": 5
+  },
+  {
+    "chapterNumber": 55,
+    "name": "Khwaja Ahrar",
+    "arabicName": "خواجه احرار",
+    "born": "806 AH / 1404 CE",
+    "ceYear": 1404,
+    "birthplace": "Tashkent region (Shash), Transoxiana (present-day Uzbekistan)",
+    "tariqah": "Naqshbandiyya",
+    "part": 5
+  },
+  {
+    "chapterNumber": 57,
+    "name": "Muhammad al-Jazuli",
+    "arabicName": "محمد الجزولي",
+    "born": "c. 807 AH / 1405 CE",
+    "ceYear": 1405,
+    "birthplace": "Jazula (Sus valley), southern Morocco",
+    "tariqah": "Shadhiliyya-Jazuliyya (founder of branch)",
+    "part": 5
+  },
+  {
+    "chapterNumber": 104,
+    "name": "Imam al-Aydarus al-Akbar — Abdullah ibn Abu Bakr al-Sakran",
+    "arabicName": "العيدروس الأكبر",
+    "born": "811 AH / 1408 CE",
+    "ceYear": 1408,
+    "birthplace": "Tarim, Hadhramaut, Yemen",
+    "tariqah": "Ba'alawiyya",
+    "part": 5
+  },
+  {
+    "chapterNumber": 56,
+    "name": "Jami",
+    "arabicName": "جامی",
+    "born": "817 AH / 1414 CE",
+    "ceYear": 1414,
+    "birthplace": "Jam, Khorasan (Iran/Afghanistan border region)",
+    "tariqah": "Naqshbandiyya",
+    "part": 5
+  },
+  {
+    "chapterNumber": 60,
+    "name": "Ibrahim Gülshani",
+    "arabicName": "ابراهيم گلشنی",
+    "born": "848 AH / 1442 CE",
+    "ceYear": 1442,
+    "birthplace": "Diyarbakir, eastern Anatolia (present-day Turkey)",
+    "tariqah": "Gülshaniyya (branch of Khalwatiyya)",
+    "part": 5
+  },
+  {
+    "chapterNumber": 105,
+    "name": "Imam al-Adani — Abu Bakr ibn Abdullah al-Aydarus",
+    "arabicName": "الإمام العدني",
+    "born": "851 AH / 1447 CE",
+    "ceYear": 1447,
+    "birthplace": "Tarim → Aden, Yemen",
+    "tariqah": "Ba'alawiyya",
+    "part": 5
+  },
+  {
+    "chapterNumber": 58,
+    "name": "Abd al-Wahhab al-Sha'rani",
+    "arabicName": "عبد الوهاب الشعراني",
+    "born": "898 AH / 1493 CE",
+    "ceYear": 1493,
+    "birthplace": "Qalqashanda, Nile Delta, Egypt",
+    "tariqah": "Shadhiliyya",
+    "part": 5
+  },
+  {
+    "chapterNumber": 106,
+    "name": "Shaykh Abu Bakr bin Salim",
+    "arabicName": "الشيخ أبو بكر بن سالم",
+    "born": "919 AH / 1513 CE",
+    "ceYear": 1513,
+    "birthplace": "Tarim → Aynat, Hadhramaut, Yemen",
+    "tariqah": "Ba'alawiyya",
+    "part": 5
+  },
+  {
+    "chapterNumber": 59,
+    "name": "Shah Hussain / Madhu Lal Hussain",
+    "arabicName": "شاہ حسین",
+    "born": "945 AH / 1538 CE",
+    "ceYear": 1538,
+    "birthplace": "Lahore, Punjab (Mughal Empire)",
+    "tariqah": "Qadiriyya",
+    "part": 5
+  },
+  {
+    "chapterNumber": 63,
+    "name": "Aziz Mahmud Hudayi",
+    "arabicName": "عزيز محمود هدايي",
+    "born": "951 AH / 1543 CE",
+    "ceYear": 1543,
+    "birthplace": "Shereflikochisar, near Ankara, Ottoman Empire",
+    "tariqah": "Celvetiyye / Jalwatiyya (founder; branch of Khalwatiyya)",
+    "part": 5
+  },
+  {
+    "chapterNumber": 62,
+    "name": "Mian Mir of Lahore",
+    "arabicName": "میاں میر",
+    "born": "957 AH / 1550 CE",
+    "ceYear": 1550,
+    "birthplace": "Sehwan, Sindh (present-day Pakistan)",
+    "tariqah": "Qadiriyya",
+    "part": 5
+  },
+  {
+    "chapterNumber": 61,
+    "name": "Ahmad Sirhindi / Mujaddid Alf-i Thani",
+    "arabicName": "أحمد السرهندي",
+    "born": "971 AH / 1563 CE",
+    "ceYear": 1563,
+    "birthplace": "Sirhind, Punjab (present-day India)",
+    "tariqah": "Naqshbandiyya-Mujaddidiyya (founder of branch)",
+    "part": 5
+  },
+  {
+    "chapterNumber": 64,
+    "name": "Dara Shikoh",
+    "arabicName": "داراشکوه",
+    "born": "1024 AH / 1615 CE",
+    "ceYear": 1615,
+    "birthplace": "Ajmer, Mughal Empire (India)",
+    "tariqah": "Qadiriyya-Lahori",
+    "part": 5
+  },
+  {
+    "chapterNumber": 65,
+    "name": "Niyazi-i Misri",
+    "arabicName": "نيازي مصري",
+    "born": "1027 AH / 1617 CE",
+    "ceYear": 1617,
+    "birthplace": "Malatya, Ottoman Empire (present-day eastern Turkey)",
+    "tariqah": "Khalwatiyya",
+    "part": 5
+  },
+  {
+    "chapterNumber": 107,
+    "name": "Imam al-Haddad — Abdullah ibn Alawi al-Haddad",
+    "arabicName": "الإمام الحداد",
+    "born": "1044 AH / 1634 CE",
+    "ceYear": 1634,
+    "birthplace": "Al-Hawi, near Tarim, Hadhramaut, Yemen",
+    "tariqah": "Ba'alawiyya (Mujaddid of 12th century AH)",
+    "part": 6
+  },
+  {
+    "chapterNumber": 66,
+    "name": "Abd al-Ghani al-Nabulusi",
+    "arabicName": "عبد الغني النابلسي",
+    "born": "1050 AH / 1641 CE",
+    "ceYear": 1641,
+    "birthplace": "Damascus, Syria",
+    "tariqah": "Naqshbandiyya & Qadiriyya",
+    "part": 6
+  },
+  {
+    "chapterNumber": 67,
+    "name": "Bulleh Shah",
+    "arabicName": "بلھے شاہ",
+    "born": "1092 AH / 1680 CE",
+    "ceYear": 1680,
+    "birthplace": "Uch Gilaniyan, Punjab (present-day Pakistan)",
+    "tariqah": "Qadiriyya",
+    "part": 6
+  },
+  {
+    "chapterNumber": 68,
+    "name": "Shah Abd al-Latif Bhitai",
+    "arabicName": "شاہ عبداللطیف بھٹائی",
+    "born": "1102 AH / 1689 CE",
+    "ceYear": 1689,
+    "birthplace": "Hala Haveli, near Hyderabad, Sindh (present-day Pakistan)",
+    "tariqah": "Qadiriyya",
+    "part": 6
+  },
+  {
+    "chapterNumber": 108,
+    "name": "Muhammad al-Hafni",
+    "arabicName": "محمد الحفني",
+    "born": "1101 AH / 1690 CE",
+    "ceYear": 1690,
+    "birthplace": "Hafna village, Bilbis, Egypt",
+    "tariqah": "Khalwatiyya-Hifniyya (founder of branch)",
+    "part": 6
+  },
+  {
+    "chapterNumber": 69,
+    "name": "Shah Wali Allah Dehlawi",
+    "arabicName": "شاه ولى الله الدهلوي",
+    "born": "1114 AH / 1703 CE",
+    "ceYear": 1703,
+    "birthplace": "Delhi, Mughal Empire",
+    "tariqah": "Naqshbandiyya-Mujaddidiyya (+ Qadiri, Chishti, Suhrawardi)",
+    "part": 6
+  },
+  {
+    "chapterNumber": 109,
+    "name": "Ahmad al-Dardir",
+    "arabicName": "أحمد الدردير",
+    "born": "1127 AH / 1715 CE",
+    "ceYear": 1715,
+    "birthplace": "Bani Adiy, near Asyut, Egypt",
+    "tariqah": "Khalwatiyya-Derdiriyya (founder of branch)",
+    "part": 6
+  },
+  {
+    "chapterNumber": 70,
+    "name": "Mir Dard",
+    "arabicName": "میر درد",
+    "born": "1133 AH / 1720 CE",
+    "ceYear": 1720,
+    "birthplace": "Delhi, Mughal Empire",
+    "tariqah": "Naqshbandiyya (Tariqa-i Muhammadiyya)",
+    "part": 6
+  },
+  {
+    "chapterNumber": 71,
+    "name": "Sidi Ahmad al-Tijani",
+    "arabicName": "سيدي أحمد التجاني",
+    "born": "1150 AH / 1737 CE",
+    "ceYear": 1737,
+    "birthplace": "Ain Madi, Algeria",
+    "tariqah": "Tijaniyya (founder)",
+    "part": 6
+  },
+  {
+    "chapterNumber": 112,
+    "name": "Muhammad al-Arabi al-Darqawi",
+    "arabicName": "محمد العربي الدرقاوي",
+    "born": "c. 1159 AH / 1746 CE",
+    "ceYear": 1746,
+    "birthplace": "Zirwal tribe, Rif mountains, northern Morocco",
+    "tariqah": "Shadhiliyya-Darqawiyya (founder of branch)",
+    "part": 6
+  },
+  {
+    "chapterNumber": 114,
+    "name": "Shah Abd al-Aziz Dehlawi",
+    "arabicName": "شاه عبد العزيز الدهلوي",
+    "born": "1159 AH / 1746 CE",
+    "ceYear": 1746,
+    "birthplace": "Delhi, Mughal Empire",
+    "tariqah": "Naqshbandiyya-Mujaddidiyya",
+    "part": 6
+  },
+  {
+    "chapterNumber": 113,
+    "name": "Ahmad ibn Ajiba",
+    "arabicName": "أحمد بن عجيبة",
+    "born": "1161 AH / 1748 CE",
+    "ceYear": 1748,
+    "birthplace": "Khamisat region, northern Morocco",
+    "tariqah": "Shadhiliyya-Darqawiyya",
+    "part": 6
+  },
+  {
+    "chapterNumber": 72,
+    "name": "Usman Dan Fodio",
+    "arabicName": "عثمان بن فودي",
+    "born": "1168 AH / 1754 CE",
+    "ceYear": 1754,
+    "birthplace": "Maratta, Gobir (present-day northwest Nigeria)",
+    "tariqah": "Qadiriyya",
+    "part": 6
+  },
+  {
+    "chapterNumber": 73,
+    "name": "Ahmad ibn Idris al-Fasi",
+    "arabicName": "أحمد بن إدريس الفاسي",
+    "born": "1173 AH / 1760 CE",
+    "ceYear": 1760,
+    "birthplace": "Maysur, near Fez, Morocco",
+    "tariqah": "Tariqa Ahmadiyya Idrisiyya (founder)",
+    "part": 6
+  },
+  {
+    "chapterNumber": 110,
+    "name": "Ahmad al-Sawi al-Maliki",
+    "arabicName": "أحمد الصاوي",
+    "born": "1175 AH / 1761 CE",
+    "ceYear": 1761,
+    "birthplace": "Saulhajir, Gharbiyya, Egypt",
+    "tariqah": "Khalwatiyya-Sawiyya (founder of branch)",
+    "part": 6
+  },
+  {
+    "chapterNumber": 126,
+    "name": "Shaykh Sidiyya al-Kabir",
+    "arabicName": "الشيخ سيديا الكبير",
+    "born": "c. 1190 AH / c. 1775 CE",
+    "ceYear": 1775,
+    "birthplace": "Trarza region, Mauritania",
+    "tariqah": "Qadiriyya",
+    "part": 6
+  },
+  {
+    "chapterNumber": 74,
+    "name": "Khalid al-Baghdadi",
+    "arabicName": "خالد البغدادي",
+    "born": "1193 AH / 1779 CE",
+    "ceYear": 1779,
+    "birthplace": "Qaradagh, Kurdistan (near Sulaymaniyya, present-day Iraq)",
+    "tariqah": "Naqshbandiyya-Khalidiyya (founder of branch)",
+    "part": 6
+  },
+  {
+    "chapterNumber": 111,
+    "name": "Ibrahim al-Bajuri",
+    "arabicName": "إبراهيم الباجوري",
+    "born": "1198 AH / 1783 CE",
+    "ceYear": 1783,
+    "birthplace": "Bajur, Menufiyya, Egypt",
+    "tariqah": "Khalwatiyya-Sawiyya; Shaykh al-Azhar (1847–1860)",
+    "part": 6
+  },
+  {
+    "chapterNumber": 75,
+    "name": "Muhammad ibn Ali al-Sanusi",
+    "arabicName": "محمد بن علي السنوسي",
+    "born": "1202 AH / 1787 CE",
+    "ceYear": 1787,
+    "birthplace": "Wadi Mazab region, western Algeria",
+    "tariqah": "Sanusiyya (founder)",
+    "part": 6
+  },
+  {
+    "chapterNumber": 77,
+    "name": "Muhammad Uthman al-Mirghani",
+    "arabicName": "محمد عثمان الميرغني",
+    "born": "1208 AH / 1793 CE",
+    "ceYear": 1793,
+    "birthplace": "Mecca, Arabia",
+    "tariqah": "Khatmiyya / Mirghaniyya (founder)",
+    "part": 6
+  },
+  {
+    "chapterNumber": 76,
+    "name": "Al-Hajj Umar Tall",
+    "arabicName": "الحاج عمر تل",
+    "born": "1211 AH / 1796 CE",
+    "ceYear": 1796,
+    "birthplace": "Halwar, Futa Toro (present-day Senegal)",
+    "tariqah": "Tijaniyya",
+    "part": 6
+  },
+  {
+    "chapterNumber": 78,
+    "name": "Imam Shamil",
+    "arabicName": "الإمام شامل",
+    "born": "1212 AH / 1797 CE",
+    "ceYear": 1797,
+    "birthplace": "Gimry village, Dagestan (Russian Caucasus)",
+    "tariqah": "Naqshbandiyya-Khalidiyya",
+    "part": 6
+  },
+  {
+    "chapterNumber": 79,
+    "name": "Abd al-Qadir al-Jazairi",
+    "arabicName": "عبد القادر الجزائري",
+    "born": "1222 AH / 1808 CE",
+    "ceYear": 1808,
+    "birthplace": "Guetna, near Mascara, western Algeria",
+    "tariqah": "Qadiriyya (Akbarian dimension)",
+    "part": 6
+  },
+  {
+    "chapterNumber": 80,
+    "name": "Hajji Imdadullah Muhajir Makki",
+    "arabicName": "حاجي إمداد الله مهاجر مكي",
+    "born": "1233 AH / 1817 CE",
+    "ceYear": 1817,
+    "birthplace": "Nanauta, Saharanpur, United Provinces (British India)",
+    "tariqah": "Chishtiyya-Sabiriyya",
+    "part": 6
+  },
+  {
+    "chapterNumber": 124,
+    "name": "Ahmad al-Shawadfi",
+    "arabicName": "أحمد الشوادفي",
+    "born": "c. 1246 AH / c. 1830 CE",
+    "ceYear": 1830,
+    "birthplace": "Egypt (Shawadfa origin) → Sudan",
+    "tariqah": "Khalwatiyya-Shawadfiyya (founder of branch)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 115,
+    "name": "Habib Ali ibn Muhammad al-Habshi",
+    "arabicName": "علي بن محمد الحبشي",
+    "born": "c. 1259 AH / c. 1843 CE",
+    "ceYear": 1843,
+    "birthplace": "Seiyun, Hadhramaut, Yemen",
+    "tariqah": "Ba'alawiyya (author of *Simt al-Durar*)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 81,
+    "name": "Shaykh Uways al-Barawi",
+    "arabicName": "أويس البراوي",
+    "born": "c. 1263 AH / 1847 CE",
+    "ceYear": 1847,
+    "birthplace": "Brava (Baraawe), Somalia",
+    "tariqah": "Qadiriyya (Uwaysiyya sub-branch)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 82,
+    "name": "Ahmadou Bamba Mbacké",
+    "arabicName": "أحمدو بمبا",
+    "born": "c. 1270 AH / 1853 CE",
+    "ceYear": 1853,
+    "birthplace": "Mbacké-Baol, Senegal",
+    "tariqah": "Mouridiyya (founder; from Qadiriyya)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 120,
+    "name": "Al-Hajj Malick Sy",
+    "arabicName": "الحاج مالك سي",
+    "born": "1272 AH / 1855 CE",
+    "ceYear": 1855,
+    "birthplace": "Gaé village, Saint Louis region, Senegal",
+    "tariqah": "Tijaniyya-Tivaouane (founder of branch)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 87,
+    "name": "Pir Mehr Ali Shah",
+    "arabicName": "پیر مہر علی شاہ",
+    "born": "1276 AH / 1859 CE",
+    "ceYear": 1859,
+    "birthplace": "Golra Sharif, Punjab (present-day Pakistan)",
+    "tariqah": "Qadiriyya-Chishtiyya",
+    "part": 7
+  },
+  {
+    "chapterNumber": 127,
+    "name": "Shaykh Sidiyya Baba",
+    "arabicName": "الشيخ سيديا بابا",
+    "born": "c. 1279 AH / c. 1862 CE",
+    "ceYear": 1862,
+    "birthplace": "Boutilimit, Trarza, Mauritania",
+    "tariqah": "Qadiriyya",
+    "part": 7
+  },
+  {
+    "chapterNumber": 83,
+    "name": "Ashraf Ali Thanawi",
+    "arabicName": "أشرف علي تهانوي",
+    "born": "1280 AH / 1863 CE",
+    "ceYear": 1863,
+    "birthplace": "Thana Bhawan, Uttar Pradesh, India",
+    "tariqah": "Chishtiyya-Sabiriyya",
+    "part": 7
+  },
+  {
+    "chapterNumber": 84,
+    "name": "Ahmad al-Alawi",
+    "arabicName": "أحمد العلوي",
+    "born": "1286 AH / 1869 CE",
+    "ceYear": 1869,
+    "birthplace": "Mostaganem, Algeria",
+    "tariqah": "Shadhiliyya-Alawiyya (founder of branch)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 88,
+    "name": "Muhammad ibn al-Habib",
+    "arabicName": "محمد بن الحبيب",
+    "born": "1293 AH / 1876 CE",
+    "ceYear": 1876,
+    "birthplace": "Fez, Morocco",
+    "tariqah": "Shadhiliyya-Darqawiyya (Habibiyya)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 86,
+    "name": "Hazrat Inayat Khan",
+    "arabicName": "حضرت عنايت خان",
+    "born": "1299 AH / 1882 CE",
+    "ceYear": 1882,
+    "birthplace": "Baroda (Vadodara), Gujarat, India",
+    "tariqah": "Inayatiyya / Universal Sufism (founder; from Chishtiyya)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 121,
+    "name": "Serigne Babacar Sy",
+    "arabicName": "الشيخ أبو بكر سي",
+    "born": "1302 AH / 1885 CE",
+    "ceYear": 1885,
+    "birthplace": "Tivaouane, Senegal",
+    "tariqah": "Tijaniyya-Tivaouane",
+    "part": 7
+  },
+  {
+    "chapterNumber": 85,
+    "name": "René Guénon / Abd al-Wahid Yahya",
+    "arabicName": "عبد الواحد يحيى",
+    "born": "1304 AH / 1886 CE",
+    "ceYear": 1886,
+    "birthplace": "Blois, Loire-et-Cher, France",
+    "tariqah": "Shadhiliyya-Akbariyya",
+    "part": 7
+  },
+  {
+    "chapterNumber": 94,
+    "name": "Bawa Muhaiyaddeen",
+    "arabicName": "باوا محيي الدين",
+    "born": "c. 1313 AH / c. 1895 CE",
+    "ceYear": 1895,
+    "birthplace": "Sri Lanka (exact location unknown)",
+    "tariqah": "Independent (Qadiri influences; Uwaysi origin)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 122,
+    "name": "Mehmed Zahid Kotku",
+    "arabicName": "محمد زاهد قوطقو",
+    "born": "1315 AH / 1897 CE",
+    "ceYear": 1897,
+    "birthplace": "Bursa, Turkey",
+    "tariqah": "Naqshbandiyya-Khalidiyya",
+    "part": 7
+  },
+  {
+    "chapterNumber": 89,
+    "name": "Ibrahim Niasse / Baye Niasse",
+    "arabicName": "إبراهيم نياس",
+    "born": "1318 AH / 1900 CE",
+    "ceYear": 1900,
+    "birthplace": "Kaolack, Senegal",
+    "tariqah": "Tijaniyya-Fayda (founder of branch)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 90,
+    "name": "Frithjof Schuon / Shaykh Isa Nur al-Din",
+    "arabicName": "فريتيوف شوون",
+    "born": "1325 AH / 1907 CE",
+    "ceYear": 1907,
+    "birthplace": "Basel, Switzerland",
+    "tariqah": "Shadhiliyya-Maryamiyya (founder of branch)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 116,
+    "name": "Habib Ahmad Mashhur al-Haddad",
+    "arabicName": "أحمد مشهور الحداد",
+    "born": "1325 AH / 1907 CE",
+    "ceYear": 1907,
+    "birthplace": "Qaydun, Daw'an Valley, Hadhramaut, Yemen",
+    "tariqah": "Ba'alawiyya",
+    "part": 7
+  },
+  {
+    "chapterNumber": 92,
+    "name": "Martin Lings / Abu Bakr Siraj al-Din",
+    "arabicName": "مارتن لينغز",
+    "born": "1327 AH / 1909 CE",
+    "ceYear": 1909,
+    "birthplace": "Burnage, Manchester, England",
+    "tariqah": "Shadhiliyya-Maryamiyya",
+    "part": 7
+  },
+  {
+    "chapterNumber": 91,
+    "name": "Abd al-Halim Mahmud",
+    "arabicName": "عبد الحليم محمود",
+    "born": "1328 AH / 1910 CE",
+    "ceYear": 1910,
+    "birthplace": "Bilbis, Sharqiyya Province, Egypt",
+    "tariqah": "Shadhiliyya (Madaniyya)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 123,
+    "name": "Muhammad Metwally al-Shaarawi",
+    "arabicName": "محمد متولي الشعراوي",
+    "born": "1329 AH / 1911 CE",
+    "ceYear": 1911,
+    "birthplace": "Daqadus, Dakahlia, Egypt",
+    "tariqah": "Khalwatiyya (Sha'rawiyya)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 117,
+    "name": "Habib Abd al-Qadir al-Saqqaf",
+    "arabicName": "عبد القادر السقاف",
+    "born": "1331 AH / 1912 CE",
+    "ceYear": 1912,
+    "birthplace": "Say'un, Hadhramaut, Yemen",
+    "tariqah": "Ba'alawiyya",
+    "part": 7
+  },
+  {
+    "chapterNumber": 93,
+    "name": "Muzaffer Ozak",
+    "arabicName": "مظفر اوزاق",
+    "born": "1334 AH / 1916 CE",
+    "ceYear": 1916,
+    "birthplace": "Istanbul, Ottoman Empire",
+    "tariqah": "Khalwatiyya-Jerrahiyya (Halveti-Jerrahi)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 97,
+    "name": "Pir Vilayat Inayat Khan",
+    "arabicName": "پیر ولایت عنایت خان",
+    "born": "1334 AH / 1916 CE",
+    "ceYear": 1916,
+    "birthplace": "London, England",
+    "tariqah": "Inayatiyya (Universal Sufism)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 98,
+    "name": "Sidi Hamza al-Qadiri al-Boutchichi",
+    "arabicName": "سيدي حمزة القادري البوتشيشي",
+    "born": "1340 AH / 1922 CE",
+    "ceYear": 1922,
+    "birthplace": "Madagh, Oujda region, Morocco",
+    "tariqah": "Qadiriyya-Boutchichiyya",
+    "part": 7
+  },
+  {
+    "chapterNumber": 95,
+    "name": "Nazim al-Haqqani",
+    "arabicName": "ناظم الحقاني",
+    "born": "1341 AH / 1922 CE",
+    "ceYear": 1922,
+    "birthplace": "Larnaca, Cyprus",
+    "tariqah": "Naqshbandiyya-Haqqaniyya (founder of branch)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 96,
+    "name": "Seyyed Hossein Nasr",
+    "arabicName": "سيد حسين نصر",
+    "born": "1352 AH / 1933 CE",
+    "ceYear": 1933,
+    "birthplace": "Tehran, Iran",
+    "tariqah": "Shadhiliyya-Maryamiyya",
+    "part": 7
+  },
+  {
+    "chapterNumber": 125,
+    "name": "Sayyid Muhammad ibn Alawi al-Maliki",
+    "arabicName": "محمد بن علوي المالكي",
+    "born": "1367 AH / 1944 CE",
+    "ceYear": 1944,
+    "birthplace": "Mecca, Arabia",
+    "tariqah": "Ba'alawiyya-adjacent (Maliki)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 99,
+    "name": "Hassan Cisse",
+    "arabicName": "حسن سيسي",
+    "born": "1365 AH / 1945 CE",
+    "ceYear": 1945,
+    "birthplace": "Medina Kaolack, Senegal",
+    "tariqah": "Tijaniyya-Fayda",
+    "part": 7
+  },
+  {
+    "chapterNumber": 100,
+    "name": "Abdal Hakim Murad / Timothy Winter",
+    "arabicName": "عبد الحكيم مراد",
+    "born": "1380 AH / 1960 CE",
+    "ceYear": 1960,
+    "birthplace": "London, England",
+    "tariqah": "Shadhiliyya",
+    "part": 7
+  },
+  {
+    "chapterNumber": 118,
+    "name": "Habib Umar ibn Hafiz",
+    "arabicName": "عمر بن حفيظ",
+    "born": "1383 AH / 1963 CE",
+    "ceYear": 1963,
+    "birthplace": "Tarim, Hadhramaut, Yemen",
+    "tariqah": "Ba'alawiyya (founder of Dar al-Mustafa)",
+    "part": 7
+  },
+  {
+    "chapterNumber": 119,
+    "name": "Habib Ali al-Jifri",
+    "arabicName": "علي الجفري",
+    "born": "c. 1391 AH / c. 1971 CE",
+    "ceYear": 1971,
+    "birthplace": "Aden, Yemen",
+    "tariqah": "Ba'alawiyya (founder of Tabah Foundation)",
+    "part": 7
+  }
+]
