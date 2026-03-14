@@ -558,6 +558,68 @@ a:hover { color: var(--gold); }
   margin-top: 2px;
 }
 
+/* ── By-Order page ── */
+
+.order-page h1 { font-size: 2.3rem; font-weight: 400; margin-bottom: .75rem; }
+.order-intro {
+  color: var(--muted);
+  font-style: italic;
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.75rem;
+  border-bottom: 1px solid var(--border);
+  font-size: .95rem;
+}
+.order-section { margin-bottom: 3.5rem; }
+.order-section-head {
+  display: flex;
+  align-items: baseline;
+  gap: .75rem;
+  margin-bottom: 1rem;
+  padding: .5rem .9rem;
+  background: var(--bg-alt);
+  border-left: 4px solid;
+  border-bottom: 1px solid var(--border);
+}
+.order-section-name { font-size: 1.2rem; font-weight: 400; color: var(--text); }
+.order-section-count { font-size: .78rem; color: var(--muted); font-style: italic; }
+.order-fig-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: .5rem;
+}
+.order-fig-card {
+  padding: .65rem .9rem;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  display: flex;
+  flex-direction: column;
+  gap: .15rem;
+  transition: background .15s, border-color .15s;
+}
+.order-fig-card:hover { background: var(--bg-alt); border-color: #c8a080; }
+.order-fig-ch {
+  font-size: .62rem;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  color: var(--accent);
+}
+.order-fig-name {
+  font-size: .92rem;
+  font-weight: 500;
+  color: var(--text);
+  text-decoration: none;
+  line-height: 1.3;
+}
+.order-fig-name:hover { color: var(--accent); }
+.order-fig-arabic {
+  font-family: 'Amiri', serif;
+  font-size: .82rem;
+  color: var(--muted);
+  direction: rtl;
+  text-align: left;
+}
+.order-fig-born { font-size: .72rem; color: var(--muted); font-style: italic; }
+
 /* ── Mobile ── */
 
 @media (max-width: 900px) {
@@ -866,12 +928,41 @@ LEGEND_ENTRIES = [
 ]
 
 
+# Canonical order families for the By-Order page
+_CANONICAL_ORDERS = [
+    ('Pre-Tariqa Era',             '#7a6248', ['pre-tariqa']),
+    ('Qadiriyya',                  '#2d6a4f', ['qadiri']),
+    ('Chishtiyya',                 '#c07030', ['chishti']),
+    ('Naqshbandiyya',              '#2c5f8a', ['naqshbandi']),
+    ('Shadhiliyya / Alawiyya',     '#3a7878', ['shadhili']),
+    ("Ba'alawiyya",                '#7a1a1a', ["ba'alawi", 'alawi']),
+    ('Suhrawardiyya / Kubrawiyya', '#7a4a8a', ['suhrawardi', 'kubra']),
+    ('Khalwatiyya',                '#2d4a70', ['khalwati']),
+    ("Rifa'iyya",                  '#5a7030', ["rifa'i", 'rifa']),
+    ('Mevleviyya',                 '#b86820', ['mevlevi']),
+    ('Yasawiyya',                  '#8b5a2b', ['yasawi']),
+    ('Tijaniyya',                  '#9a7010', ['tijani']),
+    ('Mouridiyya',                 '#1a6b42', ['mourid']),
+    ('Sanusiyya',                  '#4a6b8a', ['sanusi']),
+    ('Universal Sufi / Inayati',   '#8a3d6b', ['inayati', 'maryami', 'universal']),
+]
+
+
 def order_color(tariqah):
     t = tariqah.lower()
     for key, color in _ORDER_COLORS:
         if key in t:
             return color
     return '#8a6840'
+
+
+def order_family(tariqah):
+    """Return (display_name, color) for the canonical order family."""
+    t = tariqah.lower()
+    for name, color, keywords in _CANONICAL_ORDERS:
+        if any(kw in t for kw in keywords):
+            return name, color
+    return 'Independent / Other', '#8a6840'
 
 
 def parse_ce_year(born_str):
@@ -978,6 +1069,7 @@ def make_sidebar(current, chapter_anchors=None):
     for page, label in [
         ('relationships', 'Relationship Graphs'),
         ('timeline',      'Timeline'),
+        ('by-order',      'By Sufi Order'),
         ('full-index',    'Full Index'),
     ]:
         cls = 'nav-part active' if current == page else 'nav-part'
@@ -1038,6 +1130,7 @@ def build_index():
         '<div class="toc-ref-links">'
         '<a href="relationships.html" class="toc-rel">Relationship Graphs by Era</a>'
         '<a href="timeline.html" class="toc-rel">Timeline of All 126 Figures</a>'
+        '<a href="by-order.html" class="toc-rel">Figures by Sufi Order</a>'
         '<a href="full-index.html" class="toc-rel">Complete Index</a>'
         '</div>'
         '</div>'
@@ -1180,6 +1273,70 @@ def build_timeline():
     )
 
 
+def build_by_order():
+    figures = parse_index_figures()
+
+    # Group by canonical order family, preserving canonical sort order
+    order_index = {name: i for i, (name, _, _) in enumerate(_CANONICAL_ORDERS)}
+    order_index['Independent / Other'] = len(_CANONICAL_ORDERS)
+
+    groups = {}
+    for fig in figures:
+        fam_name, _ = order_family(fig['tariqah'])
+        groups.setdefault(fam_name, []).append(fig)
+
+    sorted_groups = sorted(
+        groups.items(),
+        key=lambda kv: order_index.get(kv[0], 999)
+    )
+
+    sections = []
+    for fam_name, figs in sorted_groups:
+        _, color = order_family(figs[0]['tariqah'])
+        slug = re.sub(r'[^a-z0-9]+', '-', fam_name.lower()).strip('-')
+        count = len(figs)
+
+        cards = []
+        for fig in figs:
+            born_disp = fig['born_str']
+            if len(born_disp) > 42:
+                born_disp = born_disp[:39] + '\u2026'
+            cards.append(
+                f'<div class="order-fig-card">'
+                f'<span class="order-fig-ch">Ch.\u202f{fig["ch_num"]}</span>'
+                f'<a href="part{fig["part"]}.html#ch-{fig["ch_num"]}" class="order-fig-name">'
+                f'{inline(fig["name"])}</a>'
+                f'<span class="order-fig-arabic" dir="rtl">{escape(fig["arabic"])}</span>'
+                f'<span class="order-fig-born">{escape(born_disp)}</span>'
+                f'</div>'
+            )
+
+        sections.append(
+            f'<div class="order-section" id="order-{slug}">'
+            f'<div class="order-section-head" style="border-left-color:{color}">'
+            f'<span class="order-section-name">{escape(fam_name)}</span>'
+            f'<span class="order-section-count">'
+            f'{count}\u202ffigure{"s" if count != 1 else ""}</span>'
+            f'</div>'
+            f'<div class="order-fig-grid">{"".join(cards)}</div>'
+            f'</div>'
+        )
+
+    main = (
+        f'<div class="order-page">'
+        f'<h1>By Sufi Order</h1>'
+        f'<p class="order-intro">126 luminaries of Tasawwuf grouped by their primary spiritual '
+        f'affiliation, ordered from earliest to most recent order. '
+        f'Each name links to its chapter.</p>'
+        f'{"".join(sections)}'
+        f'</div>'
+    )
+    return page_shell(
+        'By Sufi Order \u2014 The Book of the Mashaikh',
+        make_sidebar('by-order'), main
+    )
+
+
 def build_full_index():
     md   = (BASE_DIR / 'index.md').read_text(encoding='utf-8')
     body = render_rel_text(md)
@@ -1212,6 +1369,9 @@ def main():
 
     (SITE_DIR / 'timeline.html').write_text(build_timeline(), encoding='utf-8')
     print('  timeline.html')
+
+    (SITE_DIR / 'by-order.html').write_text(build_by_order(), encoding='utf-8')
+    print('  by-order.html')
 
     (SITE_DIR / 'full-index.html').write_text(build_full_index(), encoding='utf-8')
     print('  full-index.html')

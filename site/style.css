@@ -519,6 +519,68 @@ a:hover { color: var(--gold); }
   margin-top: 2px;
 }
 
+/* ── By-Order page ── */
+
+.order-page h1 { font-size: 2.3rem; font-weight: 400; margin-bottom: .75rem; }
+.order-intro {
+  color: var(--muted);
+  font-style: italic;
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.75rem;
+  border-bottom: 1px solid var(--border);
+  font-size: .95rem;
+}
+.order-section { margin-bottom: 3.5rem; }
+.order-section-head {
+  display: flex;
+  align-items: baseline;
+  gap: .75rem;
+  margin-bottom: 1rem;
+  padding: .5rem .9rem;
+  background: var(--bg-alt);
+  border-left: 4px solid;
+  border-bottom: 1px solid var(--border);
+}
+.order-section-name { font-size: 1.2rem; font-weight: 400; color: var(--text); }
+.order-section-count { font-size: .78rem; color: var(--muted); font-style: italic; }
+.order-fig-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: .5rem;
+}
+.order-fig-card {
+  padding: .65rem .9rem;
+  border: 1px solid var(--border);
+  background: var(--bg);
+  display: flex;
+  flex-direction: column;
+  gap: .15rem;
+  transition: background .15s, border-color .15s;
+}
+.order-fig-card:hover { background: var(--bg-alt); border-color: #c8a080; }
+.order-fig-ch {
+  font-size: .62rem;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+  color: var(--accent);
+}
+.order-fig-name {
+  font-size: .92rem;
+  font-weight: 500;
+  color: var(--text);
+  text-decoration: none;
+  line-height: 1.3;
+}
+.order-fig-name:hover { color: var(--accent); }
+.order-fig-arabic {
+  font-family: 'Amiri', serif;
+  font-size: .82rem;
+  color: var(--muted);
+  direction: rtl;
+  text-align: left;
+}
+.order-fig-born { font-size: .72rem; color: var(--muted); font-style: italic; }
+
 /* ── Mobile ── */
 
 @media (max-width: 900px) {
