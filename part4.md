@@ -67,6 +67,13 @@ Rumi himself — the poet whom the Western world has made the best-selling poet 
 
 His Tadhkirat al-Awliya became the foundational biographical source for the early Sufi masters. Without Attar's painstaking collection and vivid retelling, the stories of Rabia al-Adawiyya, Ibrahim ibn Adham, Bayazid Bistami, Dhul-Nun al-Misri, Mansur al-Hallaj, and many others would survive only as scattered fragments in earlier, more technical compilations. It was Attar who gave these saints their narrative life — who made them characters in a great spiritual drama that continues to inspire. The Mantiq al-Tayr, meanwhile, has been translated into every major world language and adapted into drama, opera, visual art, and film. Its central insight — that the divine is not found in distant transcendence but in the annihilated self — remains as radical and as necessary as it was eight centuries ago.
 
+### Sources
+- **Wikipedia – Attar of Nishapur:** https://en.wikipedia.org/wiki/Attar_of_Nishapur — Persian Sufi poet and author of the *Mantiq al-Tayr* and *Tadhkirat al-Awliya*
+- **Wikipedia – Conference of the Birds:** https://en.wikipedia.org/wiki/The_Conference_of_the_Birds — article on Attar's masterwork allegorical poem
+- **Wikipedia – Mongol invasion of Persia:** https://en.wikipedia.org/wiki/Mongol_invasion_of_Persia — historical context for the destruction of Nishapur and Attar's death
+- **Classical text:** Farid al-Din Attar, *Tadhkirat al-Awliya* (c. 600 AH / early 13th c. CE) — primary hagiographic source for early Sufi masters, including accounts of Bayazid Bistami, al-Hallaj, and Rabia al-Adawiyya
+- **Classical text:** Farid al-Din Attar, *Mantiq al-Tayr* (c. 600 AH / early 13th c. CE) — the supreme allegorical poem of Sufi literature, describing the seven valleys of the spiritual path
+
 ---
 
 ## Chapter 37: Muhyiddin Ibn Arabi (محيي الدين ابن عربي)
@@ -125,6 +132,14 @@ Ibn Arabi is the most debated figure in Islamic intellectual history. His admire
 
 His influence on all subsequent Sufism is incalculable — virtually every Sufi thinker after him either built upon, developed, modified, or reacted against his ideas, but none could ignore them. His concept of al-Insan al-Kamil shaped the Mevlevi, Naqshbandi, Shadhili, and every other major tradition. His metaphysics of Wahdat al-Wujud became the dominant — though never uncontested — framework of Sufi cosmology. Through Sadr al-Din al-Qunawi, his ideas entered into dialogue with the philosophical tradition of Mulla Sadra and Illuminationist philosophy. In the modern world, his works have been translated into every major European language, studied at universities from Tokyo to Toronto, and engaged with by thinkers as diverse as Toshihiko Izutsu, Henry Corbin, and William Chittick. He has been called not only the greatest Islamic mystic but one of the greatest mystics of any tradition — a mind of such scope and depth that, like the ocean to which his admirers perpetually compare him, one can sail upon it for a lifetime and never sight the far shore.
 
+### Sources
+- **Wikipedia – Ibn Arabi:** https://en.wikipedia.org/wiki/Ibn_Arabi — article on the Andalusian mystic known as al-Shaykh al-Akbar
+- **Wikipedia – Wahdat al-wujud:** https://en.wikipedia.org/wiki/Wahdat_al-wujud — article on the doctrine of Unity of Being central to Ibn Arabi's metaphysics
+- **Wikipedia – Fusus al-Hikam:** https://en.wikipedia.org/wiki/Fusus_al-Hikam — article on Ibn Arabi's most concentrated metaphysical work
+- **Wikipedia – Averroes:** https://en.wikipedia.org/wiki/Averroes — article on Ibn Rushd, whose famous meeting with the young Ibn Arabi is described in the chapter
+- **Classical text:** Ibn Arabi, *al-Futuhat al-Makkiyya* (begun c. 598 AH / 1202 CE, revised throughout his life) — the most encyclopedic work of Sufi esoteric knowledge ever composed
+- **Classical text:** Ibn Arabi, *Fusus al-Hikam* (627 AH / 1230 CE) — twenty-seven chapters on the spiritual reality of each prophet; the most commented work in the Sufi canon
+
 ---
 ## Chapter 38: Ruzbihan Baqli (روزبهان بقلي)
 
@@ -180,6 +195,13 @@ Ruzbihan Baqli represents the sophisticated middle path between the ecstatic utt
 
 His doctrine of witnessing divine beauty in created forms reverberated far beyond the walls of his khanqah, influencing the entire tradition of Persian love poetry and the mystical symbolism of the beloved (*ma'shuq*) and the "idol" (*but/sanam*) as reflections of divine beauty. The great poets of Shiraz who came after him — above all Hafiz, who lived in the same city two centuries later — inherited a spiritual atmosphere that Ruzbihan had decisively shaped. His works were preserved and studied primarily in Shiraz and across Iran, but in recent decades they have attracted increasing attention from Western scholars such as Paul Nwyia and Carl Ernst, who have recognized in Ruzbihan one of the most original and daring minds in the history of Islamic mysticism — a man who lived his entire life at the intersection of the visible and the invisible, and who had the courage to write down what he saw.
 
+### Sources
+- **Wikipedia – Ruzbihan Baqli:** https://en.wikipedia.org/wiki/Ruzbihan_Baqli — article on the Shirazi mystic known as the Jasmine of the Sufis
+- **Wikipedia – Mansur al-Hallaj:** https://en.wikipedia.org/wiki/Mansur_al-Hallaj — article on al-Hallaj whose ecstatic utterances Ruzbihan defended in *Sharh-i Shathiyyat*
+- **Wikipedia – Bayazid Bastami:** https://en.wikipedia.org/wiki/Bayazid_Bastami — article on Bayazid al-Bistami whose *shathiyyat* Ruzbihan also interpreted
+- **Classical text:** Ruzbihan Baqli, *Kashf al-Asrar* (6th c. AH / 12th c. CE) — his spiritual diary recording over a hundred thousand visions; the most sustained first-person account of mystical experience in Islamic literature
+- **Classical text:** Ruzbihan Baqli, *Sharh-i Shathiyyat* (6th c. AH / 12th c. CE) — the definitive scholarly commentary on the ecstatic utterances (*shathiyyat*) of Sufi masters
+
 ---
 
 ## Chapter 39: Moinuddin Chishti (معين الدین چشتی)
@@ -232,6 +254,13 @@ Moinuddin Chishti is the single most important figure in the spread of Islam acr
 
 The Chishtiyya order he established became the dominant Sufi tradition in South Asia, producing a lineage of saints whose names are woven into the spiritual fabric of the subcontinent: Qutbuddin Bakhtiyar Kaki in Delhi, Baba Farid in Punjab, Nizamuddin Auliya in Delhi, and the poet-mystic Amir Khusraw, among dozens of others. His emphasis on music and *sama'* as a vehicle for divine encounter gave birth to the *qawwali* tradition — the devotional music that has shaped the entire cultural heritage of South Asia and has become known worldwide through artists such as Nusrat Fateh Ali Khan. Eight centuries after his death, the *langar* still operates at his shrine, the music still plays, and the doors remain open — a testament to the enduring power of a man who believed that the highest worship is to comfort a broken heart.
 
+### Sources
+- **Wikipedia – Moinuddin Chishti:** https://en.wikipedia.org/wiki/Moinuddin_Chishti — article on the founder of the Chishtiyya order in India
+- **Wikipedia – Dargah Ajmer Sharif:** https://en.wikipedia.org/wiki/Ajmer_Sharif_Dargah — article on his tomb in Ajmer, one of the most visited shrines in South Asia
+- **Wikipedia – Chishtiyya:** https://en.wikipedia.org/wiki/Chishtiyya — article on the Sufi order he established in India
+- **Wikipedia – Qawwali:** https://en.wikipedia.org/wiki/Qawwali — article on the devotional music tradition the Chishtiyya pioneered
+- **Classical text:** Oral tradition and recorded sayings (*malfuzat*) preserved in the Chishti order; no single major text attributed directly to Moinuddin Chishti survives
+
 ---
 ## Chapter 40: Bahauddin Zakariya Multani (بهاء الدين زكريا الملتاني)
 
@@ -281,6 +310,13 @@ Equally central to his teaching was the insistence on combining strict adherence
 Bahauddin Zakariya established the Suhrawardiyya as the dominant Sufi presence in Multan and the wider Sindh-Punjab region, creating an institutional model that endured for centuries. His tomb in Multan — surviving over 750 years of history, including invasions, conquests, and the passage of empires — remains one of Pakistan's most important religious sites, drawing pilgrims from across the subcontinent. His model of "engaged Sufism" — spirituality combined with worldly involvement, inner poverty amid outer prosperity — has been enormously influential in South Asian Islam, providing a powerful counterbalance to the Chishti ideal of absolute material renunciation.
 
 Through his disciple Fakhr al-Din Iraqi, his spiritual inheritance flowed into the great stream of Persian mystical literature. Through his son and successor Sadr al-Din Arif, the Suhrawardi silsila continued in Multan and branched across the subcontinent. Bahauddin Zakariya remains the living proof that the Sufi path admits many mansions — that the saint in the palace and the saint in the desert may both be drinking from the same spring.
+
+### Sources
+- **Wikipedia – Bahauddin Zakariya:** https://en.wikipedia.org/wiki/Bahauddin_Zakariya — article on the Suhrawardi master of Multan
+- **Wikipedia – Suhrawardiyya:** https://en.wikipedia.org/wiki/Suhrawardiyya — article on the Sufi order transmitted to the subcontinent through Bahauddin Zakariya
+- **Wikipedia – Fakhruddin Iraqi:** https://en.wikipedia.org/wiki/Fakhruddin_Iraqi — article on the mystic poet who spent twenty-five years in Bahauddin's company and composed the *Lama'at*
+- **Classical text:** Fakhr al-Din Iraqi, *Lama'at* (Divine Flashes) (7th c. AH / 13th c. CE) — a distillation of Ibn Arabi's metaphysics in exquisite Persian prose, composed under Bahauddin Zakariya's spiritual influence in Multan
+- **Classical text:** Shihab al-Din al-Suhrawardi, *Awarif al-Ma'arif* (7th c. AH / 13th c. CE) — the foundational manual of the Suhrawardiyya order, transmitted to Bahauddin in Baghdad
 
 ---
 
@@ -335,6 +371,14 @@ Rumi is today the most widely read poet in the English-speaking world and among 
 
 The Mevlevi order's sema ceremony — the sacred whirling meditation — is recognized by UNESCO as an Intangible Cultural Heritage of Humanity. Mevlevi lodges continue to operate in Istanbul, Konya, and dozens of countries around the world. Rumi's influence on Persian and Turkish literature is beyond measurement — he transformed both languages, set the standard for mystical poetry that no subsequent poet has equaled, and created in the Masnavi a work so vast and so deep that seven centuries of commentary have not exhausted it. The poet Jami, himself among the greatest of Persian writers, declared: "He is not a prophet, but he has brought a scripture." On the night of December 17 each year, thousands gather in Konya for the Shab-i Arus — the Wedding Night — to commemorate not the death of Mawlana but his reunion with the Beloved he had been seeking all his life.
 
+### Sources
+- **Wikipedia – Rumi:** https://en.wikipedia.org/wiki/Rumi — article on Jalal al-Din Rumi, the 13th-century Persian Sufi poet
+- **Wikipedia – Masnavi:** https://en.wikipedia.org/wiki/Masnavi — article on Rumi's magnum opus of 25,700 verses
+- **Wikipedia – Shams Tabrizi:** https://en.wikipedia.org/wiki/Shams_Tabrizi — article on the wandering dervish whose encounter transformed Rumi from a scholar into a mystic poet
+- **Wikipedia – Mevlevi Order:** https://en.wikipedia.org/wiki/Mevlevi_Order — article on the Sufi order founded by Rumi's son Sultan Walad, known for the Whirling Dervishes
+- **Classical text:** Jalal al-Din Rumi, *Masnavi-yi Ma'navi* (composed c. 660–672 AH / 1258–1273 CE) — 25,700 verses in six books; universally acknowledged as the greatest work of mystical literature in any language
+- **Classical text:** Jalal al-Din Rumi, *Diwan-i Shams-i Tabrizi* (c. 642–672 AH / 1244–1273 CE) — approximately 40,000 verses of lyric poetry composed in the voice of Shams
+
 ---## Chapter 42: Qutbuddin Bakhtiyar Kaki (قطب الدين بختيار كاكي)
 
 **Full Name:** Abu Bakr Qutb al-Din Bakhtiyar Kaki al-Ushi al-Hanafi
@@ -376,6 +420,12 @@ Equally central to his legacy was his profound commitment to the practice of sam
 Qutbuddin Bakhtiyar Kaki stands as the second great link in the golden chain of the Indo-Chishti silsila: Moinuddin Chishti in Ajmer, then Qutbuddin in Delhi, then Baba Farid in the Punjab, then Nizamuddin Auliya again in Delhi — each transmission producing a master whose spiritual influence exceeded that of his predecessor. Without Qutbuddin, the Chishtiyya might have remained a regional phenomenon centered on Ajmer. By establishing the order in Delhi, the political heart of Muslim India, he ensured that the Chishti message of love, service, and devotional music would reach every corner of the subcontinent. His insistence on spiritual independence from political power — accepting the sultan's friendship while refusing to become his instrument — set the template that his successors, particularly Nizamuddin Auliya, would follow with even greater rigor.
 
 His dargah in Mehrauli remains one of Delhi's most sacred and beloved sites, a place of pilgrimage for Muslims and non-Muslims alike. The shrine's significance is attested by the fact that Bahadur Shah Zafar, the last Mughal emperor, specifically requested to be buried in its vicinity — and his grave stands just steps from Qutbuddin's tomb, a final tribute from the last representative of a dynasty that had revered the Chishti saints for centuries. But Qutbuddin's most enduring legacy may be the story of his death itself. In a tradition that has always debated the permissibility and spiritual value of music, the image of a saint so overwhelmed by a verse of surrender that he passed from this world into the next became the ultimate argument — not through theology but through lived example — that sama' could be a genuine portal to the divine presence.
+
+### Sources
+- **Wikipedia – Qutbuddin Bakhtiyar Kaki:** https://en.wikipedia.org/wiki/Qutb_al-Din_Bakhtiyar_Kaki — article on the second great master of the Chishtiyya in Delhi
+- [UNVERIFIED] **Wikipedia – Dargah Qutb Sahib:** https://en.wikipedia.org/wiki/Dargah_Qutb_Sahib — article on his shrine in Mehrauli, near the Qutb Minar complex
+- **Wikipedia – Delhi Sultanate:** https://en.wikipedia.org/wiki/Delhi_Sultanate — article on the sultanate during which Qutbuddin served as the spiritual pole of northern India
+- **Classical text:** Chishti oral tradition; the story of Qutbuddin's death through *sama'* is preserved in hagiographic compilations including Amir Khurd's *Siyar al-Awliya* (8th c. AH / 14th c. CE)
 
 ---
 
@@ -428,6 +478,13 @@ Without Sadr al-Din Qunawi, the vast and difficult writings of Ibn Arabi might h
 
 The intellectual framework that Qunawi systematized — the metaphysics of *wahdat al-wujud*, the doctrine of the Perfect Human as the cosmic isthmus, the methodology of spiritual hermeneutics — became the dominant paradigm for Sufi metaphysical thought for centuries to come. From the Ottoman Empire to Safavid Iran to the Mughal courts of India, the language and concepts that Qunawi had refined served as the common currency of mystical theology. His influence was not limited to Sufism alone: through scholars like al-Qaysari, Akbarian ideas entered the curriculum of formal Islamic education, shaping discussions in theology, philosophy, and Quranic commentary. In this sense, Qunawi's legacy extends far beyond the circles of practicing mystics — he helped to weave the insights of the greatest Sufi master into the very fabric of Islamic intellectual life.
 
+### Sources
+- **Wikipedia – Sadr al-Din al-Qunawi:** https://en.wikipedia.org/wiki/Sadr_al-Din_al-Qunawi — article on Ibn Arabi's stepson and primary intellectual heir
+- **Wikipedia – Nasir al-Din al-Tusi:** https://en.wikipedia.org/wiki/Nasir_al-Din_al-Tusi — article on the philosopher-scientist whose famous correspondence with Qunawi is described in the chapter
+- **Wikipedia – Al-Insan al-Kamil:** https://en.wikipedia.org/wiki/Al-Insan_al-Kamil — article on the concept of the Perfect Human being, which Qunawi systematized from Ibn Arabi's teachings
+- **Classical text:** Sadr al-Din al-Qunawi, *Miftah al-Ghayb* (7th c. AH / 13th c. CE) — his most systematic work serving as an introduction to Akbarian mystical theology
+- **Classical text:** Sadr al-Din al-Qunawi, *al-Fukuk* (7th c. AH / 13th c. CE) — detailed commentary on the chapter headings of Ibn Arabi's *Fusus al-Hikam*
+
 ---
 ## Chapter 44: Fariduddin Ganjshakar — Baba Farid (فريد الدين گنج شكر)
 
@@ -478,6 +535,12 @@ Baba Farid is the most beloved saint of the Punjab — a figure of transcendent 
 
 Through his succession to Nizamuddin Auliya — the greatest of his disciples — Baba Farid became the spiritual grandfather of the entire Delhi Chishti tradition. Nizamuddin's own students spread the order across all of India, carrying with them the spirit of poverty, love, and service to the poor that Baba Farid had embodied. His dargah in Pakpattan remains one of Pakistan's most visited shrines, with the annual Urs drawing hundreds of thousands of devotees from every background. In a region often defined by partition and division, Baba Farid endures as a figure of unity — a saint claimed by Muslims and Sikhs, by Pakistanis and Indians, by scholars and illiterate peasants, by all who have tasted, even once, the inexplicable sweetness that earned him his name.
 
+### Sources
+- **Wikipedia – Fariduddin Ganjshakar:** https://en.wikipedia.org/wiki/Fariduddin_Ganjshakar — article on Baba Farid, beloved Sufi saint of the Punjab
+- **Wikipedia – Guru Granth Sahib:** https://en.wikipedia.org/wiki/Guru_Granth_Sahib — article on the Sikh sacred scripture which incorporates Baba Farid's Punjabi poetry
+- **Wikipedia – Pakpattan:** https://en.wikipedia.org/wiki/Pakpattan — article on the town in Punjab where Baba Farid's dargah is located
+- **Classical text:** Baba Farid's Punjabi *shaloks* and *kafis*, preserved in the *Guru Granth Sahib* (compiled 1604 CE by Guru Arjan Dev) and in the oral Sufi *kalam* tradition of the Punjab — the earliest surviving literary Punjabi verse
+
 ---
 
 ## Chapter 45: Sharaf al-Din al-Busiri (شرف الدين البوصيري)
@@ -525,6 +588,12 @@ Beyond its theological content, the Burda established the definitive model for t
 The Burda is perhaps the most recited poem in human history. For over seven hundred years it has been chanted continuously across the entire Muslim world — from Morocco to Indonesia, from Turkey to West Africa, from the mosques of Central Asia to the madrasas of East Africa. Over ninety commentaries have been written on it in Arabic alone; it has been translated into dozens of languages and set to countless melodies. It is recited at births and deaths, at mawlid celebrations of the Prophet's birthday, in times of calamity and times of joy. Its 160 verses are memorized by millions of Muslims who may know nothing else of classical Arabic poetry. The entire tradition of na't — prophetic praise poetry — in every Muslim literary culture owes its model and its inspiration to the standard al-Busiri established.
 
 Al-Busiri himself remains one of history's most paradoxical figures: a poet of modest worldly achievement whose single inspired work became the most beloved poem in the world's second-largest religion. His personal biography is almost unknown — eclipsed entirely by the radiance of the Burda — making him perhaps the most successful anonymous author in literary history. Yet this very anonymity is fitting: the Burda's power lies not in its author's fame but in the sincerity of a broken man's cry to the Prophet he loved, and in the miracle that answered it. Al-Busiri vanished behind his poem, and the poem became a door through which seven centuries of believers have passed into the presence of prophetic love.
+
+### Sources
+- **Wikipedia – Al-Busiri:** https://en.wikipedia.org/wiki/Al-Busiri — article on the Mamluk-era poet who composed the *Qasida al-Burda*
+- **Wikipedia – Qasida al-Burda:** https://en.wikipedia.org/wiki/Qasida_al-Burda — article on the most widely recited poem in Islamic history
+- **Wikipedia – Shadhiliyya:** https://en.wikipedia.org/wiki/Shadhiliyya — article on the Sufi order to which al-Busiri belonged as a disciple of Abu al-Abbas al-Mursi
+- **Classical text:** Al-Busiri, *al-Kawakib al-Durriyya fi Madh Khayr al-Bariyya* (known as *Qasida al-Burda*) (c. 694 AH / 13th c. CE) — 160 verses of prophetic praise poetry; the most recited non-liturgical Islamic text in history, with over ninety Arabic commentaries
 
 ---
 ## Chapter 46: Nizamuddin Auliya (نظام الدين اولياء)
@@ -575,6 +644,12 @@ Inseparable from this doctrine of love was an ethic of absolute service. Nizamud
 Nizamuddin Auliya is the greatest saint of the Delhi Sultanate period and arguably the most influential Sufi figure in the entire history of the Indian subcontinent. His ministry of forty years in Delhi — conducted without interruption through successive reigns, political upheavals, and invasions — shaped the spiritual character of a civilization. He did not merely teach a doctrine; he incarnated a way of being in the world, one in which love was the supreme law, service was the supreme worship, and every human being, regardless of birth or station, was worthy of respect and care. Through his disciples, the Chishtiyya spread across every region of India and beyond: Nasir al-Din Chiragh-i Dilli continued the tradition in Delhi; Burhanuddin Gharib established the Deccan Chishtiyya in the south; Akhi Siraj carried it to Bengal in the east. Within a generation of his death, there was scarcely a corner of South Asia untouched by the Chishti message.
 
 His dargah in Delhi — where qawwali has been performed nightly for seven centuries — is not merely a shrine but a living institution that embodies everything Nizamuddin taught. It is a place where music and prayer are one, where the rich and the poor sit together on the same marble floor, where the fragrance of roses and the sound of devotional singing create an atmosphere in which the boundary between this world and the next grows thin. Millions visit each year — Hindus, Muslims, Sikhs, Christians, seekers of every tradition and none — drawn by the same force that drew the people of fourteenth-century Delhi to a gentle, soft-spoken man in a simple khanqah on the outskirts of the city. In the seven hundred years since his death, that force has not diminished by a single degree. He was called *Mahbub-i Ilahi* — the Beloved of God — and the evidence for that title is the love that still pours from his tomb like a spring that has never run dry.
+
+### Sources
+- **Wikipedia – Nizamuddin Auliya:** https://en.wikipedia.org/wiki/Nizamuddin_Auliya — article on the greatest Chishti master of the Delhi Sultanate period
+- **Wikipedia – Hazrat Nizamuddin Dargah:** https://en.wikipedia.org/wiki/Hazrat_Nizamuddin_Dargah — article on his shrine in Delhi, where qawwali has been performed nightly for seven centuries
+- **Wikipedia – Ghiyasuddin Tughlaq:** https://en.wikipedia.org/wiki/Ghiyasuddin_Tughlaq — article on the sultan whose threatening message to Nizamuddin prompted the famous "Delhi is still far away" reply
+- **Classical text:** Amir Hasan Sijzi (comp.), *Fawa'id al-Fu'ad* (compiled c. 707–722 AH / 1307–1322 CE) — discourses of Nizamuddin Auliya recorded by his disciple; primary source for his teachings and spiritual character
 
 ---
 
@@ -627,6 +702,13 @@ The *Hikam al-Ata'iyyah* is perhaps the most widely studied single text in Islam
 
 Ibn Ata'illah represents the Shadhili ideal at its purest: the union of rigorous scholarly training with deep spiritual experience, of intellectual precision with the tenderness of a heart opened by divine love. He demonstrated — in his own person and in the institution of his teaching at al-Azhar — that mysticism and orthodox scholarship need not be adversaries, that the same mind that masters the intricacies of Maliki jurisprudence can also receive the illumination of the *Hikam*. This model has made the Shadhiliyya one of the most intellectually respectable and widely embraced Sufi traditions in the Islamic world. Its influence in the modern era is enormous — particularly in North Africa and Egypt, but increasingly in the West as well — and it is largely through the *Hikam* that this influence is exercised. Seven centuries after his death, Ibn Ata'illah's aphorisms continue to do what they have always done: they meet the reader exactly where he is, speak to the precise condition of his heart, and point — with the gentleness and precision of a master physician — toward the cure.
 
+### Sources
+- **Wikipedia – Ibn Ata Allah al-Iskandari:** https://en.wikipedia.org/wiki/Ibn_Ata_Allah_al-Iskandari — article on the third pole of the Shadhiliyya and author of the *Hikam*
+- **Wikipedia – Kitab al-Hikam:** https://en.wikipedia.org/wiki/Kitab_al-Hikam — article on his 264 aphorisms, the most widely studied Sufi text in Arabic
+- **Wikipedia – Ibn Taymiyya:** https://en.wikipedia.org/wiki/Ibn_Taymiyya — article on the Hanbali scholar whose famous debates with Ibn Ata'illah are described in the chapter
+- **Classical text:** Ibn Ata'illah al-Iskandari, *al-Hikam al-Ata'iyyah* (c. 700 AH / early 14th c. CE) — 264 aphorisms; the most studied Sufi text in the Arabic-speaking world, subject to hundreds of commentaries across seven centuries
+- **Classical text:** Ibn Ata'illah al-Iskandari, *Lata'if al-Minan* (c. 700 AH / 14th c. CE) — biographical account of Abu al-Hasan al-Shadhili and Abu al-Abbas al-Mursi; primary source for the first two masters of the Shadhili lineage
+
 ---
 ## Chapter 48: Amir Khusraw Dehlawi (أمير خسرو دهلوي)
 
@@ -677,6 +759,12 @@ Amir Khusraw Dehlawi is simultaneously one of the greatest Persian poets, the fa
 
 His burial at Nizamuddin's feet is perhaps the most eloquent symbol of the Chishti ideal of love. It is not the love of equals meeting on level ground but the surrender of the disciple who asks only to remain near his master, in death as in life. Every day, pilgrims who visit the great dargah of Nizamuddin Auliya in Delhi pass first by the tomb of Amir Khusraw — the poet who lies where he wished to lie, the singer whose songs are still prayers, the parrot of India whose voice, seven centuries after it fell silent, has never ceased to be heard.
 
+### Sources
+- **Wikipedia – Amir Khusrow:** https://en.wikipedia.org/wiki/Amir_Khusrow — article on the poet, musician, and Sufi disciple who is the father of Hindustani classical music and qawwali
+- **Wikipedia – Qawwali:** https://en.wikipedia.org/wiki/Qawwali — article on the devotional music form Amir Khusraw is credited with creating as a formal genre
+- **Wikipedia – Sitar:** https://en.wikipedia.org/wiki/Sitar — article on the instrument whose development is traditionally attributed to Amir Khusraw
+- **Classical text:** Amir Khusraw, *Nuh Sipehr* (Nine Spheres) (c. 718 AH / 1318 CE) — his long Persian poem containing the earliest sustained praise of India and Indian culture, a founding text of Indo-Persian literary identity
+
 ---
 
 ## Chapter 49: Abdul Khaliq al-Ghujduwani (عبد الخالق الغجدواني)
@@ -717,6 +805,12 @@ Equally fundamental was his teaching on the integration of spiritual practice wi
 Abdul Khaliq al-Ghujduwani is the architect of the Naqshbandiyya's distinctive methodology — the silent dhikr and the Eight Principles that he formulated in a small town near Bukhara in the twelfth century are still practiced daily by millions of Naqshbandi followers across the globe, from the villages of Central Asia to the cities of Turkey, from the mountains of the Caucasus to the plains of India, from Southeast Asian archipelagos to immigrant communities in Europe and North America. The chain of transmission that he received from al-Khidr and passed through the Khwajagan masters across generations to Baha al-Din Naqshband — a transmission spanning two centuries and carried through both living teachers and Uwaysi contact with the spirits of the departed — established the Naqshbandiyya's claim to a uniquely direct prophetic lineage, one that traces itself not merely through a chain of human teachers but through the mysterious channels of divine election.
 
 His emphasis on inner withdrawal combined with outer engagement has made the Naqshbandiyya the most politically active and socially engaged of all Sufi orders. Where other traditions have tended toward withdrawal from the world, the Naqshbandiyya has consistently produced masters who guided rulers, counseled statesmen, led popular movements, and shaped the political destiny of nations. From the courts of the Timurid and Mughal empires to the resistance of Imam Shamil against the Russian conquest of the Caucasus, from the struggle against Soviet atheism in Central Asia to the preservation of Islamic identity in modern China — wherever Naqshbandi masters have acted in the world, they have done so on the foundation that Abdul Khaliq laid: the conviction that the highest spirituality does not flee the world but transforms it from within, one silent heartbeat at a time.
+
+### Sources
+- **Wikipedia – Abd al-Khaliq Gujdawani:** https://en.wikipedia.org/wiki/Abd_al-Khaliq_Gujdawani — article on the architect of the Naqshbandi silent dhikr and the eight principles
+- **Wikipedia – Khwajagan:** https://en.wikipedia.org/wiki/Khwajagan — article on the Central Asian spiritual tradition that became the direct precursor of the Naqshbandiyya
+- **Wikipedia – Al-Khidr:** https://en.wikipedia.org/wiki/Al-Khidr — article on the mysterious Quranic figure (18:65–82) who according to Naqshbandi tradition taught Abdul Khaliq the silent heart-dhikr directly
+- **Classical text:** The Eight Principles (*Usul al-Thamaniya*) formulated by Abdul Khaliq al-Ghujduwani (6th c. AH / 12th c. CE), transmitted orally through the Khwajagan chain and later recorded in Naqshbandi biographical texts including Jami's *Nafahat al-Uns*
 
 ---
 
@@ -770,6 +864,12 @@ The Naqshbandiyya became, under Baha al-Din's impetus, the most politically enga
 
 Baha al-Din's tomb in Qasr al-Arifan, near Bukhara, is the most important pilgrimage site of the Naqshbandi world. The magnificent mosque-complex built there during the Timurid period — a testament to the reverence in which the master was held by the rulers who followed Timur — was carefully preserved even during the Soviet era, when nearly every other expression of Islamic life in Central Asia was suppressed or destroyed. Today it attracts pilgrims from across the Muslim world: Turks and Uzbeks, Malays and Pakistanis, Kurds and Chechens — all drawn to the grave of the quiet craftsman from a village near Bukhara who engraved the divine name so deeply upon the hearts of his disciples that it has never been effaced. His motto echoes still wherever Naqshbandis gather: "Our path is companionship, and the good is in the gathering of hearts."
 
+### Sources
+- **Wikipedia – Baha-ud-Din Naqshband Bukhari:** https://en.wikipedia.org/wiki/Baha-ud-Din_Naqshband_Bukhari — article on the founder and consolidator of the Naqshbandiyya order
+- **Wikipedia – Naqshbandi:** https://en.wikipedia.org/wiki/Naqshbandi — article on the Sufi order Baha al-Din consolidated, now the most geographically widespread in the Islamic world
+- **Wikipedia – Timur:** https://en.wikipedia.org/wiki/Timur — article on the Timurid ruler who revered Baha al-Din and under whose patronage the Naqshbandiyya spread
+- **Classical text:** Muhammad Parsa, *Risala-yi Qudsiyya* (late 8th c. AH / late 14th c. CE) — the primary record of Baha al-Din's teachings, preserved by his closest disciple; foundational text of the Naqshbandi tradition
+
 ---
 
 ## Chapter 101: Al-Faqih al-Muqaddam — Muhammad ibn Ali Ba'alawi (الفقيه المقدم محمد بن علي باعلوي)
@@ -816,6 +916,12 @@ Al-Faqih al-Muqaddam's legacy is coextensive with the entire Ba'alawi tradition 
 
 More precisely, he created the spiritual grammar of a civilization. The Hadhrami *sayyids* who spread Islam across the Indian Ocean did so with a particular combination of prophetic lineage, Sufi depth, and legal learning that al-Faqih al-Muqaddam had fixed as the essential character of the Banu Alawi identity. His grave in Zanbal remains among the most visited in the Islamic world, a point of pilgrimage for those who understand that the chains connecting them to the Prophet pass, for hundreds of millions, through this one broken sword.
 
+### Sources
+- [UNVERIFIED] **Wikipedia – Muhammad ibn Ali Ba'Alawi:** https://en.wikipedia.org/wiki/Muhammad_ibn_Ali_Ba%27Alawi — article on al-Faqih al-Muqaddam, founder of the Ba'alawi Sufi order
+- [UNVERIFIED] **Wikipedia – Ba'Alawi order:** https://en.wikipedia.org/wiki/Ba%27Alawi_order — article on the Hadhramaut-based Sufi tradition he founded, which spread Islam across the Indian Ocean
+- **Wikipedia – Hadhramaut:** https://en.wikipedia.org/wiki/Hadhramaut — article on the valley in Yemen where the Ba'alawi tradition was established
+- **Classical text:** Al-Faqih al-Muqaddam's methodological legacy is transmitted primarily through later Ba'alawi biographical compendia, particularly Imam al-Haddad's *Risalat al-Mu'awana* and later hagiographic sources of the Alawi tradition
+
 ---
 
 ## Chapter 102: Umar al-Mihdar (عمر المحضار)
@@ -859,5 +965,11 @@ He held that the Ba'alawi path was preeminently a path of love — not the roman
 ### Legacy
 
 Umar al-Mihdar occupies a specific structural position in the Ba'alawi chain: he is a key link between the founding generation of al-Faqih al-Muqaddam and the later masters who would systematize the Alawi method into its fully articulated form. The quality he transmitted — *hudur*, the state of unbroken spiritual presence — became a defining aspiration of the Ba'alawi path, a criterion against which subsequent masters were measured and toward which students oriented their practice. His shrine in Tarim draws visitors to this day, who come to sit in proximity to the place where, according to the tradition, his spiritual presence continues to work on those who come with sincerity. His name, al-Mihdar, remains an epithet of honor across the Ba'alawi world.
+
+### Sources
+- [UNVERIFIED] **Wikipedia – Umar al-Mihdar:** https://en.wikipedia.org/wiki/Umar_al-Mihdar — article on the Ba'alawi master known for his quality of unbroken spiritual presence (*hudur*)
+- **Wikipedia – Tarim, Yemen:** https://en.wikipedia.org/wiki/Tarim,_Yemen — article on the city in Hadhramaut that was the center of Ba'alawi learning and the site of his shrine
+- [UNVERIFIED] **Wikipedia – Tariqa Alawiyya:** https://en.wikipedia.org/wiki/Tariqa_Alawiyya — article on the Ba'alawi Sufi order of which Umar al-Mihdar was a key transmitting master
+- **Classical text:** Ba'alawi hagiographic tradition; accounts of Umar al-Mihdar's life and spiritual states are preserved in later compilations including those of Imam al-Haddad's circle and Ba'alawi biographical dictionaries
 
 ---

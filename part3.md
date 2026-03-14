@@ -40,6 +40,12 @@ Al-Sulami's genius was as a collector and preserver rather than an innovator. He
 
 Without al-Sulami, much of early Sufi history would be lost. His Tabaqat was the model for later biographical works, including those by al-Qushayri, al-Hujwiri, Attar, and Jami. He is the great preserver of the Sufi heritage.
 
+### Sources
+- **Wikipedia – Al-Sulami:** https://en.wikipedia.org/wiki/Al-Sulami — article on Abu Abd al-Rahman al-Sulami, the Nishapuri Sufi biographer and compiler
+- **Classical text:** Al-Sulami, *Tabaqat al-Sufiyya* (c. 4th century AH) — the earliest systematic biographical dictionary of Sufi masters, the model for all later works of this type
+- **Classical text:** Al-Sulami, *Haqaiq al-Tafsir* (4th–5th century AH) — a Sufi commentary on the Quran collecting esoteric interpretations from early masters
+- **Wikipedia – Nishapur:** https://en.wikipedia.org/wiki/Nishapur — the major center of Islamic learning in Khorasan where al-Sulami lived and worked
+
 ---
 
 ## Chapter 22: Abu al-Qasim al-Qushayri (أبو القاسم القشيري)
@@ -71,6 +77,12 @@ Al-Qushayri insisted that genuine Sufism is inseparable from adherence to the Sh
 ### Legacy
 
 The Risala al-Qushayriyya became the definitive reference work for Sufi terminology and doctrine. It was studied, commented upon, and taught across every region of the Muslim world. Along with al-Ghazali's Ihya, it remains one of the two most important texts in the Sufi canon.
+
+### Sources
+- **Wikipedia – Al-Qushayri:** https://en.wikipedia.org/wiki/Al-Qushayri — article on Abu al-Qasim al-Qushayri, Sufi scholar, Ash'ari theologian, and author of the Risala
+- **Classical text:** Al-Qushayri, *al-Risala al-Qushayriyya* (437 AH / 1045 CE) — the most comprehensive manual of Sufism, covering biographies, terminology, stations, and states
+- **Wikipedia – Al-Risala al-Qushayriyya:** https://en.wikipedia.org/wiki/Al-Risala_al-Qushayriyya — the major Sufi manual authored by al-Qushayri
+- **Wikipedia – Abu Ali al-Daqqaq:** https://en.wikipedia.org/wiki/Abu_Ali_al-Daqqaq — al-Qushayri's spiritual master and father-in-law, a leading Sufi of Nishapur
 
 ---
 
@@ -108,6 +120,12 @@ He taught that the goal of Sufism is the direct knowledge (kashf) of divine real
 
 Data Ganj Bakhsh is the patron saint of Lahore and one of the most beloved saints of the entire Indian subcontinent. His Data Darbar shrine is thronged daily with devotees. The Kashf al-Mahjub remains a standard text in Sufi studies. He opened the door for the massive Sufi missionary expansion into South Asia that would follow in the coming centuries.
 
+### Sources
+- **Wikipedia – Ali al-Hujwiri:** https://en.wikipedia.org/wiki/Ali_al-Hujwiri — article on Ali al-Hujwiri (Data Ganj Bakhsh), patron saint of Lahore and author of the Kashf al-Mahjub
+- **Classical text:** Al-Hujwiri, *Kashf al-Mahjub* (c. 5th century AH / 11th century CE) — the oldest surviving Sufi treatise in Persian, a comprehensive survey of Sufi doctrine and history
+- **Wikipedia – Kashf al-Mahjub:** https://en.wikipedia.org/wiki/Kashf_al-Mahjub — article on al-Hujwiri's foundational Sufi text
+- **Wikipedia – Data Darbar:** https://en.wikipedia.org/wiki/Data_Darbar — article on the shrine of Ali al-Hujwiri in Lahore, one of the most visited Sufi shrines in South Asia
+
 ---
 
 ## Chapter 24: Abdullah al-Ansari al-Harawi (عبد الله الأنصاري الهروي)
@@ -138,6 +156,12 @@ Al-Ansari's spiritual path culminates in the station of tawhid (divine unity), w
 ### Legacy
 
 Al-Ansari is proof that Sufism transcends theological school boundaries. A committed Hanbali — the school often associated with opposition to Sufism — he was simultaneously one of the tradition's greatest masters. His Manazil al-Sa'irin, through Ibn al-Qayyim's commentary, influenced even scholars who were otherwise critical of Sufi practices. His Munajat remain among the jewels of Persian devotional literature.
+
+### Sources
+- **Wikipedia – Abdullah Ansari:** https://en.wikipedia.org/wiki/Abdullah_Ansari — article on Abu Isma'il Abdullah al-Ansari al-Harawi, the Hanbali scholar and Sufi master of Herat
+- **Classical text:** Al-Ansari, *Manazil al-Sa'irin* (5th century AH) — one hundred spiritual stations arranged in ten groups of ten; the most systematic and demanding guide to the Sufi path in Arabic
+- **Classical text:** Al-Ansari, *Munajat* (5th century AH) — lyrical Persian prayers of intimate address to God, among the finest devotional texts in the language
+- **Wikipedia – Madarij al-Salikin:** https://en.wikipedia.org/wiki/Madarij_al-Salikin — Ibn al-Qayyim al-Jawziyya's major commentary on al-Ansari's Manazil al-Sa'irin
 
 ---
 
@@ -181,6 +205,13 @@ He also authored the devastating Tahafut al-Falasifa (Incoherence of the Philoso
 
 Al-Ghazali's impact is almost impossible to overstate. The Ihya Ulum al-Din became the most widely read and studied text in the Islamic world after the Quran and hadith collections. It was said: *"If all the books of Islam were destroyed, the Ihya alone would suffice."* He made Sufism not merely acceptable but essential to mainstream Islam. After al-Ghazali, the question was no longer "Is Sufism legitimate?" but "How does one practice it properly?"
 
+### Sources
+- **Wikipedia – Al-Ghazali:** https://en.wikipedia.org/wiki/Al-Ghazali — article on Abu Hamid al-Ghazali, "Hujjat al-Islam," the central figure of classical Islamic theology and Sufism
+- **Classical text:** Al-Ghazali, *Ihya Ulum al-Din* (c. 495 AH / 1102 CE) — the four-volume Revival of the Religious Sciences, the most important Sufi text after the Quran and hadith
+- **Classical text:** Al-Ghazali, *al-Munqidh min al-Dalal* (c. 499 AH / 1106 CE) — his autobiography Deliverance from Error, describing his spiritual crisis and journey
+- **Classical text:** Al-Ghazali, *Tahafut al-Falasifa* (c. 488 AH / 1095 CE) — Incoherence of the Philosophers, his critique of Aristotelian philosophy
+- **Wikipedia – Nizamiyya:** https://en.wikipedia.org/wiki/Nizamiyya — the chain of Seljuk-era madrasas where al-Ghazali held his celebrated professorship
+
 ---
 
 ## Chapter 26: Ahmad al-Ghazali (أحمد الغزالي)
@@ -212,6 +243,12 @@ Ahmad al-Ghazali's doctrine of love ('ishq) is radical: he taught that love is n
 
 Ahmad al-Ghazali's Sawanih is the foundational text of the "love mysticism" (madhhab al-'ishq) tradition in Sufism. His influence on Ayn al-Qudat Hamadani, Ruzbihan Baqli, and ultimately Rumi makes him one of the most important — if underappreciated — figures in Islamic intellectual history.
 
+### Sources
+- **Wikipedia – Ahmad Ghazali:** https://en.wikipedia.org/wiki/Ahmad_Ghazali — article on Ahmad al-Ghazali, Persian Sufi mystic, preacher, and younger brother of Abu Hamid al-Ghazali
+- **Classical text:** Ahmad al-Ghazali, *Sawanih al-Ushshaq* (c. 6th century AH / early 12th century CE) — the foundational text of love mysticism in the Islamic tradition
+- **Wikipedia – Al-Ghazali:** https://en.wikipedia.org/wiki/Al-Ghazali — article on his elder brother Abu Hamid al-Ghazali, whose professorship Ahmad took over in Baghdad
+- **Wikipedia – Ruzbihan Baqli:** https://en.wikipedia.org/wiki/Ruzbihan_Baqli — later mystic in the tradition of love mysticism influenced by Ahmad al-Ghazali
+
 ---
 
 ## Chapter 27: Ayn al-Qudat Hamadani (عين القضاة همداني)
@@ -242,6 +279,12 @@ Ayn al-Qudat taught that love knows no boundaries and that even figures conventi
 
 Ayn al-Qudat's Tamhidat is considered one of the masterpieces of Persian mystical prose. His premature martyrdom — and the intellectual brilliance of his surviving works — have ensured his place as one of the most poignant figures in Sufi history.
 
+### Sources
+- **Wikipedia – Ayn al-Quzat Hamadani:** https://en.wikipedia.org/wiki/Ayn_al-Quzat_Hamadani — article on the young Sufi martyr executed at age 33 in Hamadan; author of the Tamhidat
+- **Classical text:** Ayn al-Qudat Hamadani, *Tamhidat* (c. 525 AH / early 12th century CE) — considered a masterpiece of Persian mystical prose, exploring the theology of love and divine predestination
+- **Classical text:** Ayn al-Qudat Hamadani, *Shakwa al-Gharib* (525 AH / 1131 CE) — his apologia written shortly before his execution, protesting his innocence
+- **Wikipedia – Ahmad Ghazali:** https://en.wikipedia.org/wiki/Ahmad_Ghazali — his teacher whose doctrine of divine love Ayn al-Qudat developed and extended
+
 ---
 
 ## Chapter 28: Yusuf al-Hamadhani (يوسف الهمذاني)
@@ -266,6 +309,12 @@ Yusuf al-Hamadhani emphasized the combination of outward adherence to the Sharia
 ### Legacy
 
 Without Yusuf al-Hamadhani, neither the Naqshbandiyya nor the Yasawiyya would exist in their present forms. He is the node from which two of Central Asia's most important spiritual movements branched.
+
+### Sources
+- **Wikipedia – Yusuf Hamadani:** https://en.wikipedia.org/wiki/Yusuf_Hamadani — article on Abu Ya'qub Yusuf al-Hamadhani, the Central Asian Sufi master and key link in the Naqshbandi silsila
+- **Wikipedia – Naqshbandi:** https://en.wikipedia.org/wiki/Naqshbandi — the major Sufi order whose lineage passes through Yusuf al-Hamadhani
+- **Wikipedia – Ahmad Yasawi:** https://en.wikipedia.org/wiki/Ahmad_Yasawi — one of al-Hamadhani's most important students, who carried Islam to the Turkic peoples
+- **Wikipedia – Abdul Khaliq Ghijduwani:** https://en.wikipedia.org/wiki/Abdul_Khaliq_Ghijduwani — al-Hamadhani's other great student who formulated the foundational principles of the Khwajagan tradition
 
 ---
 
@@ -296,6 +345,12 @@ According to tradition, when Yasawi reached the age of sixty-three — the age a
 ### Legacy
 
 Ahmad Yasawi is the father of Turkic Islamic spirituality. His Yasawiyya order spread Islam across the entire Turkic world — from Kazakhstan and Uzbekistan to Anatolia and beyond. The Bektashi order, which later became the spiritual order of the Ottoman Janissaries, traces its lineage partly to Yasawi. He is the most revered saint of Central Asia.
+
+### Sources
+- **Wikipedia – Ahmad Yasawi:** https://en.wikipedia.org/wiki/Ahmad_Yasawi — article on the founder of the Yasawiyya and apostle of Islam to the Turkic peoples of Central Asia
+- **Classical text:** Ahmad Yasawi, *Diwan-i Hikmat* (c. 6th century AH / 12th century CE) — his collection of spiritual poems in Turkic, the first major Sufi literary work in that language
+- **Wikipedia – Yusuf Hamadani:** https://en.wikipedia.org/wiki/Yusuf_Hamadani — Yasawi's primary Sufi master
+- **Wikipedia – Mausoleum of Khoja Ahmed Yasawi:** https://en.wikipedia.org/wiki/Mausoleum_of_Khoja_Ahmed_Yasawi — the UNESCO World Heritage Site mausoleum built over his tomb in Turkistan, Kazakhstan by Timur
 
 ---
 
@@ -344,6 +399,12 @@ He said: *"This world is the abode of affliction, and the next world is the abod
 
 The Qadiriyya order spread across the entire Muslim world — from Morocco to Indonesia, from the Caucasus to South Africa. Abdul Qadir's shrine in Baghdad remains one of the most visited holy sites in Islam. The annual celebration of his birth (Giyarwin Sharif) is observed by millions. He is invoked by devotees in times of need more than perhaps any other figure in Islamic history besides the Prophet Muhammad ﷺ. His influence is incalculable.
 
+### Sources
+- **Wikipedia – Abdul Qadir Gilani:** https://en.wikipedia.org/wiki/Abdul_Qadir_Gilani — article on the Ghawth al-Azam, founder of the Qadiriyya and the most universally venerated saint in Sunni Islam
+- **Classical text:** Abdul Qadir al-Jilani, *Futuh al-Ghayb* (6th century AH / 12th century CE) — 78 collected discourses on the spiritual path, one of the most widely read Sufi texts
+- **Classical text:** Abdul Qadir al-Jilani, *al-Fath al-Rabbani* (6th century AH / 12th century CE) — 62 sermons delivered at his Baghdad madrasa
+- **Wikipedia – Qadiriyya:** https://en.wikipedia.org/wiki/Qadiriyya — the Sufi order he founded, now the most geographically widespread in the world
+
 ---
 
 ## Chapter 31: Abu Madyan Shu'ayb (أبو مدين شعيب)
@@ -373,6 +434,12 @@ Abu Madyan taught a Sufism of balance — combining spiritual intoxication with 
 
 Abu Madyan's spiritual lineage flowed directly into the Shadhiliyya order — Abu al-Hasan al-Shadhili's teacher, Abd al-Salam ibn Mashish, was in Abu Madyan's chain. Thus, one of the largest Sufi orders in the world traces its spiritual heritage through him.
 
+### Sources
+- **Wikipedia – Abu Madyan:** https://en.wikipedia.org/wiki/Abu_Madyan — article on Shu'ayb ibn al-Husayn al-Ansari al-Andalusi, the Andalusian-born patron saint of Tlemcen
+- **Wikipedia – Abd al-Salam ibn Mashish al-Alami:** https://en.wikipedia.org/wiki/Abd_al-Salam_ibn_Mashish_al-Alami — the Moroccan master in Abu Madyan's spiritual chain who became al-Shadhili's primary teacher
+- **Wikipedia – Shadhiliyya:** https://en.wikipedia.org/wiki/Shadhiliyya — the major Sufi order whose lineage passes through Abu Madyan via Ibn Mashish
+- **Wikipedia – Tlemcen:** https://en.wikipedia.org/wiki/Tlemcen — the Algerian city where Abu Madyan died and is venerated as patron saint
+
 ---
 
 ## Chapter 32: Shihabuddin Umar al-Suhrawardi (شهاب الدين عمر السهروردي)
@@ -398,6 +465,12 @@ Al-Suhrawardi advocated for what might be called "engaged Sufism" — the Sufi w
 ### Legacy
 
 The Suhrawardiyya order spread across the Muslim world, becoming particularly important in the Indian subcontinent through Bahauddin Zakariya Multani. The Awarif al-Ma'arif remains a foundational text of Sufi institutional life.
+
+### Sources
+- **Wikipedia – Shihab al-Din Umar al-Suhrawardi:** https://en.wikipedia.org/wiki/Shihab_al-Din_%27Umar_al-Suhrawardi — article on the Sufi master, author of Awarif al-Ma'arif, and systematizer of the Suhrawardiyya order
+- **Classical text:** Umar al-Suhrawardi, *Awarif al-Ma'arif* (7th century AH / early 13th century CE) — the standard handbook of khanqah life and Sufi institutional practice, taught at al-Azhar
+- **Wikipedia – Suhrawardiyya:** https://en.wikipedia.org/wiki/Suhrawardiyya — the Sufi order whose practices and rules were codified by Umar al-Suhrawardi
+- **Wikipedia – Bahauddin Zakariya:** https://en.wikipedia.org/wiki/Bahauddin_Zakariya — the most important Suhrawardi master in the Indian subcontinent, who spread the order there
 
 ---
 
@@ -429,6 +502,12 @@ Kubra taught that the inner world of the mystic mirrors the outer cosmos — "wh
 ### Legacy
 
 The Kubrawiyya order, though smaller than the Qadiriyya or Naqshbandiyya, was one of the most intellectually influential Sufi traditions, particularly in Iran and Central Asia. Kubra's investigation of visionary experience influenced the Naqshbandiyya and other later orders. His martyrdom fighting the Mongols made him a hero of Islamic resistance.
+
+### Sources
+- **Wikipedia – Najm al-Din Kubra:** https://en.wikipedia.org/wiki/Najm_al-Din_Kubra — article on the founder of the Kubrawiyya order and his martyrdom during the Mongol invasion of Khwarezm
+- **Wikipedia – Kubrawiyya:** https://en.wikipedia.org/wiki/Kubrawiyya — the Sufi order founded by Najm al-Din Kubra, noted for its systematic approach to visionary experience
+- **Wikipedia – Mongol conquest of Khwarezm:** https://en.wikipedia.org/wiki/Mongol_conquest_of_Khwarezm — the invasion during which Najm al-Din Kubra died defending his city in 618 AH / 1221 CE
+- **Classical text:** Najm al-Din Kubra, *Fawa'ih al-Jamal wa Fawatih al-Jalal* (c. 7th century AH) — his treatise on visionary experiences and the perception of colored lights during spiritual meditation
 
 ---
 
@@ -463,6 +542,12 @@ His spiritual litanies (ahzab) — including the Hizb al-Bahr (Litany of the Sea
 
 The Shadhiliyya is one of the most adaptable and widespread Sufi orders. Its branches include the Darqawiyya, Alawiyya, Jazuliyya, and many others. It has been particularly successful in the modern era, attracting many Western converts. The Shadhili emphasis on combining worldly engagement with inner spirituality resonates strongly with contemporary seekers.
 
+### Sources
+- **Wikipedia – Abu al-Hasan al-Shadhili:** https://en.wikipedia.org/wiki/Abu_al-Hasan_al-Shadhili — article on the founder of the Shadhiliyya order, born in Morocco and settled in Alexandria
+- **Wikipedia – Shadhiliyya:** https://en.wikipedia.org/wiki/Shadhiliyya — the major Sufi order he founded, whose branches include the Darqawiyya, Alawiyya, and Jazuliyya
+- **Wikipedia – Abd al-Salam ibn Mashish al-Alami:** https://en.wikipedia.org/wiki/Abd_al-Salam_ibn_Mashish_al-Alami — al-Shadhili's primary master, who directed him to seek God rather than rely on scholarly credentials
+- **Classical text:** Al-Shadhili, *Hizb al-Bahr* (7th century AH / 13th century CE) — the Litany of the Sea, one of the most widely recited Islamic prayers, credited with extraordinary protective power
+
 ---
 
 ## Chapter 35: Ahmad al-Rifa'i (أحمد الرفاعي)
@@ -494,5 +579,11 @@ Ahmad al-Rifa'i taught extreme humility (tawadu') as the highest spiritual stati
 ### Legacy
 
 The Rifa'iyya order spread widely across the Muslim world, particularly in Egypt, Syria, Turkey, and Southeast Asia. It became known for its dramatic practices — devotees demonstrating invulnerability to fire and serpents — though Ahmad al-Rifa'i himself emphasized inner humility over outward displays. The order remains active today, and Ahmad al-Rifa'i's shrine in the Batiha region of Iraq continues to attract pilgrims.
+
+### Sources
+- **[UNVERIFIED] Wikipedia – Ahmad al-Rifa'i:** https://en.wikipedia.org/wiki/Ahmad_al-Rifa%27i — expected article on the founder of the Rifa'iyya order (URL could not be confirmed via automated verification)
+- **Wikipedia – Rifa'i:** https://en.wikipedia.org/wiki/Rifa%27i — article on the Rifa'iyya Sufi order founded by Ahmad al-Rifa'i
+- **Classical text:** Ahmad al-Rifa'i's teachings, preserved in collected discourses (6th century AH / 12th century CE) — emphasizing extreme humility, service to the poor, and love of the Prophet ﷺ
+- **Wikipedia – Husayn ibn Ali:** https://en.wikipedia.org/wiki/Husayn_ibn_Ali — Ahmad al-Rifa'i's lineage traced through Husayn, the Prophet's grandson, making him a sayyid of Husayni descent
 
 ---

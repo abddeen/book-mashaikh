@@ -327,6 +327,38 @@ a:hover { color: var(--gold); }
 }
 .story-block p { margin-bottom: 0; }
 
+/* ── Sources / References ── */
+.sources-list {
+  list-style: none;
+  margin: .5rem 0 0;
+  padding: 0;
+  font-size: .875rem;
+  line-height: 1.7;
+  border-top: 1px solid var(--border);
+  padding-top: .6rem;
+}
+.sources-list li {
+  display: flex;
+  gap: .5rem;
+  padding: .25rem 0;
+  border-bottom: 1px dotted var(--border);
+  color: var(--muted);
+}
+.sources-list li:last-child { border-bottom: none; }
+.ref-num {
+  flex-shrink: 0;
+  color: var(--accent);
+  font-weight: 600;
+  font-size: .8rem;
+  min-width: 2.2rem;
+  padding-top: .1rem;
+  font-variant-numeric: tabular-nums;
+}
+.ref-label { color: var(--text); font-weight: 500; }
+.ref-label a { color: var(--text); text-decoration: none; border-bottom: 1px solid var(--border); }
+.ref-label a:hover { color: var(--accent); border-bottom-color: var(--accent); }
+.ref-unverified { font-size: .72rem; color: var(--gold); font-style: italic; }
+
 .chapter-rule { border: none; border-top: 1px solid var(--border); margin: 5rem 0 0; }
 
 /* ── Afterword ── */
@@ -689,6 +721,71 @@ def blocks_to_html(text):
     return '\n'.join(parts)
 
 
+def render_sources(content):
+    """Render a ### Sources section as a numbered reference list."""
+    items = []
+    for line in content.split('\n'):
+        line = line.strip()
+        if not line or not line.startswith('-'):
+            continue
+        line = line[1:].strip()
+
+        # Detect and strip [UNVERIFIED] in either position
+        unverified = '[UNVERIFIED]' in line
+        line = re.sub(r'\[UNVERIFIED\]\s*', '', line).strip()
+
+        # Extract bold label: **Label:** rest
+        label_m = re.match(r'\*\*([^*]+?)\*\*\s*(.*)', line, re.DOTALL)
+        if not label_m:
+            continue
+        label = label_m.group(1).rstrip(':').strip()
+        rest  = label_m.group(2).strip()
+
+        # Extract URL if present
+        url_m = re.search(r'(https?://\S+)', rest)
+        if url_m:
+            url       = url_m.group(1)
+            after_url = rest[url_m.end():].strip()
+            d = re.match(r'^[—–]\s*(.*)', after_url, re.DOTALL)
+            description = d.group(1).strip() if d else after_url
+            citation    = ''
+        else:
+            url = None
+            # Classical text: "Author, *Title* (date) — description"
+            d = re.search(r'\s[—–]\s+(.*)', rest, re.DOTALL)
+            if d:
+                citation    = rest[:d.start()].strip()
+                description = d.group(1).strip()
+            else:
+                citation    = rest.strip()
+                description = ''
+
+        items.append((label, url, citation, description, unverified))
+
+    if not items:
+        return ''
+
+    li_parts = []
+    for i, (label, url, citation, description, unverified) in enumerate(items, 1):
+        label_esc  = escape(label)
+        label_html = (
+            f'<a href="{escape(url)}" target="_blank" rel="noopener">{label_esc}</a>'
+            if url else label_esc
+        )
+        ref_body = f'<span class="ref-label">{label_html}</span>'
+        if unverified:
+            ref_body += ' <span class="ref-unverified">[unverified URL]</span>'
+        if citation:
+            ref_body += f' {inline(citation)}'
+        if description:
+            ref_body += f' \u2014 {inline(description)}'
+        li_parts.append(
+            f'<li><span class="ref-num">[{i}]</span><span>{ref_body}</span></li>'
+        )
+
+    return f'<ol class="sources-list">{"".join(li_parts)}</ol>'
+
+
 # ── Chapter rendering ─────────────────────────────────────────────────────────
 
 def render_chapter(heading_line, body):
@@ -754,10 +851,18 @@ def render_chapter(heading_line, body):
         )
         meta_html = f'<div class="metadata">{rows_html}</div>'
 
-    sections_html = ''.join(
-        f'<h3 class="section-heading">{escape(h)}</h3>\n{blocks_to_html(c)}\n'
-        for h, c in sections
-    )
+    sections_parts = []
+    for h, c in sections:
+        if h == 'Sources':
+            sections_parts.append(
+                f'<h3 class="section-heading">Sources &amp; References</h3>\n'
+                f'{render_sources(c)}\n'
+            )
+        else:
+            sections_parts.append(
+                f'<h3 class="section-heading">{escape(h)}</h3>\n{blocks_to_html(c)}\n'
+            )
+    sections_html = ''.join(sections_parts)
 
     return (
         f'<div class="chapter" id="{ch_id}">\n'

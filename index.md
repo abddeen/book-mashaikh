@@ -10,13 +10,13 @@
 |---|------|----------------|----------------|---------|
 | 1 | Uways al-Qarani (أويس القرني) | c. 1st century AH / pre-632 CE | Yemen | Pre-tariqa era (ancestor of Uwaysi tradition) |
 | 2 | Hasan al-Basri (الحسن البصري) | 21 AH / 642 CE | Medina, Arabia | Pre-tariqa era (virtually all silsilas pass through him) |
-| 3 | Sufyan al-Thawri (سفيان الثوري) | 97 AH / 716 CE | Kufa, Iraq | Pre-tariqa era |
-| 4 | Rabia al-Adawiyya (رابعة العدوية) | c. 95–100 AH / 713–717 CE | Basra, Iraq | Pre-tariqa era |
-| 5 | Ibrahim ibn Adham (إبراهيم بن أدهم) | c. 100 AH / 718 CE | Balkh (present-day Afghanistan) | Pre-tariqa era |
+| 3 | Rabia al-Adawiyya (رابعة العدوية) | c. 95–100 AH / 713–717 CE | Basra, Iraq | Pre-tariqa era |
+| 4 | Ibrahim ibn Adham (إبراهيم بن أدهم) | c. 100 AH / 718 CE | Balkh (present-day Afghanistan) | Pre-tariqa era |
+| 5 | Shaqiq al-Balkhi (شقيق البلخي) | c. 2nd century AH | Balkh (present-day Afghanistan) | Pre-tariqa era |
 | 6 | Fudayl ibn Iyad (الفضيل بن عياض) | c. 107 AH / 725 CE | Samarkand (or Khorasan) | Pre-tariqa era |
-| 7 | Abdullah ibn al-Mubarak (عبد الله بن المبارك) | 118 AH / 736 CE | Merv, Khorasan | Pre-tariqa era |
-| 8 | Shaqiq al-Balkhi (شقيق البلخي) | c. 2nd century AH | Balkh (present-day Afghanistan) | Pre-tariqa era |
-| 9 | Dawud al-Tai (داود الطائي) | c. 2nd century AH | Kufa, Iraq | Pre-tariqa era |
+| 7 | Dawud al-Tai (داود الطائي) | c. 2nd century AH | Kufa, Iraq | Pre-tariqa era |
+| 8 | Sufyan al-Thawri (سفيان الثوري) | 97 AH / 716 CE | Kufa, Iraq | Pre-tariqa era |
+| 9 | Abdullah ibn al-Mubarak (عبد الله بن المبارك) | 118 AH / 736 CE | Merv, Khorasan | Pre-tariqa era |
 
 ---
 
@@ -25,10 +25,10 @@
 | # | Name | Born (AH / CE) | Place of Birth | Tariqah |
 |---|------|----------------|----------------|---------|
 | 10 | Maruf al-Karkhi (معروف الكرخي) | c. late 2nd AH / c. 780 CE | Karkh quarter, Baghdad, Iraq | Pre-tariqa era (key link in Qadiri silsila) |
-| 11 | Sari al-Saqati (سري السقطي) | c. 155 AH / 772 CE | Baghdad, Iraq | Pre-tariqa era (uncle and teacher of al-Junaid) |
-| 12 | Harith al-Muhasibi (الحارث المحاسبي) | c. 165 AH / 781 CE | Basra, Iraq | Pre-tariqa era |
-| 13 | Dhul-Nun al-Misri (ذو النون المصري) | c. 180 AH / 796 CE | Ikhmim (Akhmim), Upper Egypt | Pre-tariqa era |
-| 14 | Bayazid Bistami (بايزيد بسطامي) | c. 188 AH / 804 CE | Bistam, Khorasan (present-day Iran) | Pre-tariqa era (ancestor of the sukri / "intoxicated" school) |
+| 11 | Dhul-Nun al-Misri (ذو النون المصري) | c. 180 AH / 796 CE | Ikhmim (Akhmim), Upper Egypt | Pre-tariqa era |
+| 12 | Bayazid Bistami (بايزيد بسطامي) | c. 188 AH / 804 CE | Bistam, Khorasan (present-day Iran) | Pre-tariqa era (ancestor of the sukri / "intoxicated" school) |
+| 13 | Sari al-Saqati (سري السقطي) | c. 155 AH / 772 CE | Baghdad, Iraq | Pre-tariqa era (uncle and teacher of al-Junaid) |
+| 14 | Harith al-Muhasibi (الحارث المحاسبي) | c. 165 AH / 781 CE | Basra, Iraq | Pre-tariqa era |
 | 15 | Abu al-Qasim al-Junaid (أبو القاسم الجنيد البغدادي) | c. 215 AH / 830 CE | Baghdad, Iraq | Pre-tariqa era (Sayyid al-Ta'ifa — nearly all later orders trace through him) |
 | 16 | Mansur al-Hallaj (منصور الحلاج) | c. 244 AH / 858 CE | Tur (or Bayda), Fars, Persia | Pre-tariqa era (student of al-Junaid) |
 | 17 | Abu Bakr al-Shibli (أبو بكر الشبلي) | 247 AH / 861 CE | Samarra (or Baghdad), Iraq | Pre-tariqa era (student of al-Junaid) |
@@ -46,17 +46,17 @@
 | 22 | Abu al-Qasim al-Qushayri (أبو القاسم القشيري) | 376 AH / 986 CE | Ustawa, near Nishapur, Khorasan | Pre-tariqa era |
 | 23 | Ali ibn Uthman al-Hujwiri / Data Ganj Bakhsh (علي بن عثمان الهجويري) | c. 390 AH / 1000 CE | Hujwir, near Ghazni (present-day Afghanistan) | Pre-tariqa era (Junaidi tradition) |
 | 24 | Abdullah al-Ansari al-Harawi (عبد الله الأنصاري الهروي) | 396 AH / 1006 CE | Herat (present-day Afghanistan) | Pre-tariqa era (Hanbali-Sufi tradition) |
-| 25 | Yusuf al-Hamadhani (يوسف الهمذاني) | 440 AH / 1048 CE | Hamadan, Persia | Khwajagan (proto-Naqshbandi) |
-| 26 | Abu Hamid al-Ghazali (أبو حامد الغزالي) | 450 AH / 1058 CE | Tus, Khorasan (near present-day Mashhad, Iran) | Pre-tariqa era |
-| 27 | Ahmad al-Ghazali (أحمد الغزالي) | c. 453 AH / 1061 CE | Tus, Khorasan, Iran | Pre-tariqa era |
-| 28 | Abdul Qadir al-Jilani (عبد القادر الجيلاني) | 470 AH / 1077 CE | Jilan (Gilan), Persia | **Qadiriyya** (founder) |
+| 25 | Abu Hamid al-Ghazali (أبو حامد الغزالي) | 450 AH / 1058 CE | Tus, Khorasan (near present-day Mashhad, Iran) | Pre-tariqa era |
+| 26 | Ahmad al-Ghazali (أحمد الغزالي) | c. 453 AH / 1061 CE | Tus, Khorasan, Iran | Pre-tariqa era |
+| 27 | Ayn al-Qudat Hamadani (عين القضاة همداني) | 492 AH / 1098 CE | Hamadan, Persia | Pre-tariqa era (student of Ahmad al-Ghazali) |
+| 28 | Yusuf al-Hamadhani (يوسف الهمذاني) | 440 AH / 1048 CE | Hamadan, Persia | Khwajagan (proto-Naqshbandi) |
 | 29 | Ahmad Yasawi (أحمد يسوي) | c. 486 AH / 1093 CE | Sayram (present-day Kazakhstan) | **Yasawiyya** (founder) |
-| 30 | Ayn al-Qudat Hamadani (عين القضاة همداني) | 492 AH / 1098 CE | Hamadan, Persia | Pre-tariqa era (student of Ahmad al-Ghazali) |
+| 30 | Abdul Qadir al-Jilani (عبد القادر الجيلاني) | 470 AH / 1077 CE | Jilan (Gilan), Persia | **Qadiriyya** (founder) |
 | 31 | Abu Madyan Shu'ayb (أبو مدين شعيب) | c. 509 AH / 1115 CE | Cantillana, near Seville, al-Andalus (present-day Spain) | Own tradition (proto-Shadhili link) |
-| 32 | Ahmad al-Rifa'i (أحمد الرفاعي) | 512 AH / 1118 CE | Umm Ubayda, Batiha marshlands, southern Iraq | **Rifa'iyya** (founder) |
-| 33 | Shihabuddin Umar al-Suhrawardi (شهاب الدين عمر السهروردي) | 539 AH / 1145 CE | Suhraward, near Zanjan, Iran | **Suhrawardiyya** (systematizer) |
-| 34 | Najm al-Din Kubra (نجم الدين كبرى) | 540 AH / 1145 CE | Khiva, Khwarezm (present-day Uzbekistan) | **Kubrawiyya** (founder) |
-| 35 | Abu al-Hasan al-Shadhili (أبو الحسن الشاذلي) | c. 593 AH / 1196 CE | Ghumara region, northern Morocco | **Shadhiliyya** (founder) |
+| 32 | Shihabuddin Umar al-Suhrawardi (شهاب الدين عمر السهروردي) | 539 AH / 1145 CE | Suhraward, near Zanjan, Iran | **Suhrawardiyya** (systematizer) |
+| 33 | Najm al-Din Kubra (نجم الدين كبرى) | 540 AH / 1145 CE | Khiva, Khwarezm (present-day Uzbekistan) | **Kubrawiyya** (founder) |
+| 34 | Abu al-Hasan al-Shadhili (أبو الحسن الشاذلي) | c. 593 AH / 1196 CE | Ghumara region, northern Morocco | **Shadhiliyya** (founder) |
+| 35 | Ahmad al-Rifa'i (أحمد الرفاعي) | 512 AH / 1118 CE | Umm Ubayda, Batiha marshlands, southern Iraq | **Rifa'iyya** (founder) |
 
 ---
 

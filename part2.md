@@ -47,6 +47,12 @@ Maruf taught that love of God is not something that can be learned from books bu
 
 Maruf al-Karkhi's primary legacy is his position in the silsila — connecting the early ascetics to the great Baghdad school of Sufism. His tomb in Baghdad remained a place of pilgrimage and answered prayers for centuries. Through Sari al-Saqati and Junaid, his spiritual influence permeated the entire tradition.
 
+### Sources
+- **Wikipedia – Ma'ruf al-Karkhi:** https://en.wikipedia.org/wiki/Ma%27ruf_al-Karkhi — Article on the Baghdad saint, his conversion from a non-Muslim family, his discipleship under Dawud al-Tai, and his pivotal role in the Sufi chain
+- **Wikipedia – Ali al-Ridha:** https://en.wikipedia.org/wiki/Ali_al-Rida — The eighth Imam of the Twelver Shia at whose hands Maruf is said to have converted to Islam
+- **Wikipedia – Sari al-Saqati:** https://en.wikipedia.org/wiki/Sari_al-Saqati — Maruf's primary student and the teacher of Junaid al-Baghdadi
+- **Classical text:** Abu Nu'aym al-Isfahani, *Hilyat al-Awliya* (4th–5th century AH / 10th–11th century CE) — detailed biography of Maruf al-Karkhi, including accounts of answered prayers at his tomb
+
 ---
 
 ## Chapter 11: Dhul-Nun al-Misri (ذو النون المصري)
@@ -82,6 +88,12 @@ Dhul-Nun distinguished between three levels of knowledge: the knowledge of the c
 ### Legacy
 
 Dhul-Nun al-Misri established the concept of ma'rifa as central to the Sufi path, influencing all subsequent mystical thought. He is also considered a key figure in the development of the Sufi understanding of states (ahwal) — transient spiritual experiences granted by God — as distinct from stations (maqamat) — permanent spiritual ranks earned through effort.
+
+### Sources
+- **Wikipedia – Dhu al-Nun al-Misri:** https://en.wikipedia.org/wiki/Dhul-Nun_al-Misri — Article on the Egyptian Sufi master, his doctrine of ma'rifa, his trial before the Abbasid caliph, and his legacy
+- **Wikipedia – Akhmim:** https://en.wikipedia.org/wiki/Akhmim — The Upper Egyptian city (ancient Panopolis) where Dhul-Nun was born; known for its ancient Egyptian heritage
+- **Wikipedia – Al-Mutawakkil:** https://en.wikipedia.org/wiki/Al-Mutawakkil — The Abbasid caliph before whom Dhul-Nun was brought in chains and who freed him after being moved by his words
+- **Classical text:** Farid al-Din Attar, *Tadhkirat al-Awliya* (6th century AH / 12th century CE) — contains the primary narrative account of Dhul-Nun's trial, his mystical sayings, and the inscription on his forehead at death
 
 ---
 
@@ -119,6 +131,12 @@ Bayazid taught that the ultimate spiritual experience is fana' — the complete 
 
 Bayazid Bistami's ecstatic utterances established the "intoxicated" stream of Sufism that would later flow through al-Hallaj, Rumi, and countless others. His concept of fana' became one of the pillars of Sufi metaphysics. His shrine in Bistam remains a place of pilgrimage, and virtually every discussion of Sufi states references his experience.
 
+### Sources
+- **Wikipedia – Bayazid Bastami:** https://en.wikipedia.org/wiki/Bayazid_Bastami — Article on the "Sultan of the Gnostics," his ecstatic utterances (shathiyyat), the concept of fana', and his foundational role in the "intoxicated" school of Sufism
+- **Wikipedia – Bastam:** https://en.wikipedia.org/wiki/Bastam — The northeastern Iranian city where Bayazid was born and died; his shrine there remains a pilgrimage site
+- **Wikipedia – Fana (Sufism):** https://en.wikipedia.org/wiki/Fana_(Sufism) — The central doctrine Bayazid pioneered: the annihilation of the individual self in the Divine
+- **Classical text:** Farid al-Din Attar, *Tadhkirat al-Awliya* (6th century AH / 12th century CE) — the fullest classical account of Bayazid's ecstatic states, his shathiyyat, and his spiritual mi'raj narrative
+
 ---
 
 ## Chapter 13: Sari al-Saqati (سري السقطي)
@@ -150,6 +168,11 @@ Sari defined sincerity (ikhlas) with devastating precision: *"I have been examin
 ### Legacy
 
 Sari al-Saqati's principal legacy is as the bridge to Junaid — perhaps the most important figure in all of Sufism. His exacting standards of sincerity and his pioneering public discourses on tawhid in Baghdad prepared the ground for the systematic Sufi theology that Junaid would perfect.
+
+### Sources
+- **Wikipedia – Sari al-Saqati:** https://en.wikipedia.org/wiki/Sari_al-Saqati — Article on the Baghdad merchant-turned-mystic, his discipleship under Maruf al-Karkhi, and his role as teacher and uncle of Junaid al-Baghdadi
+- **Wikipedia – Junaid al-Baghdadi:** https://en.wikipedia.org/wiki/Junayd_of_Baghdad — Sari's most celebrated student and the figure who brought his lineage to its greatest development
+- **Classical text:** Abu Abd al-Rahman al-Sulami, *Tabaqat al-Sufiyya* (4th century AH / 10th century CE) — biographical entry on Sari al-Saqati, preserving his key sayings on sincerity and tawhid
 
 ---
 
@@ -185,6 +208,11 @@ Al-Muhasibi taught that the most dangerous enemy is not the external world but t
 ### Legacy
 
 Al-Muhasibi's method of muhasaba became foundational to Sufi ethics and spiritual training. His works directly influenced al-Ghazali, and through al-Ghazali, the entire Islamic world. He established that the spiritual path is not merely about ecstatic states but about the painstaking, daily work of purifying one's intentions and character.
+
+### Sources
+- **Wikipedia – Al-Harith al-Muhasibi:** https://en.wikipedia.org/wiki/Al-Muhasibi — Article on the pioneer of Sufi psychology, his method of muhasaba (self-examination), and his decisive influence on al-Ghazali
+- **Wikipedia – Ahmad ibn Hanbal:** https://en.wikipedia.org/wiki/Ahmad_ibn_Hanbal — The hadith scholar and founder of the Hanbali school who publicly opposed yet privately respected al-Muhasibi
+- **Classical text:** al-Harith al-Muhasibi, *Kitab al-Ri'aya li-Huquq Allah* (3rd century AH / 9th century CE) — the foundational manual of Sufi psychology, analyzing the diseases of the heart and prescribing spiritual remedies; directly influenced al-Ghazali's *Ihya*
 
 ---
 
@@ -230,6 +258,12 @@ Junaid's writings survive primarily as letters (rasa'il) and short treatises col
 
 Junaid al-Baghdadi's legacy is immeasurable. He defined the mainstream of Sufi thought as sober, orthodox, and rooted in the Sharia. Virtually every Sufi order passes through him in its silsila. His formulation of fana' and baqa', his insistence on combining ecstatic experience with intellectual rigor, and his integration of Sufism with mainstream Islamic scholarship set the template for all that followed.
 
+### Sources
+- **Wikipedia – Junayd al-Baghdadi:** https://en.wikipedia.org/wiki/Junayd_of_Baghdad — Comprehensive article on the "Master of the Group," his sober school of Sufism, his formulation of fana' and baqa', and his central place in virtually every Sufi silsila
+- **Wikipedia – Mansur al-Hallaj:** https://en.wikipedia.org/wiki/Mansur_al-Hallaj — Junaid's most controversial student; the chapter documents Junaid's cautious response to al-Hallaj's declarations
+- **Wikipedia – Quran 7:172:** https://en.wikipedia.org/wiki/Al-A%27raf — Surah al-A'raf containing the "primordial covenant" verse (mithaq) that Junaid made central to his metaphysical doctrine
+- **Classical text:** Abd al-Karim al-Qushayri, *al-Risala al-Qushayriyya* (5th century AH / 11th century CE) — preserves extensive sayings and teachings of Junaid, including his letters and definitions of key Sufi terms
+
 ---
 
 ## Chapter 16: Mansur al-Hallaj (منصور الحلاج)
@@ -273,6 +307,12 @@ Al-Hallaj left behind a collection of poetry (Diwan al-Hallaj), fragments of pro
 
 Al-Hallaj's execution did not silence his message — it amplified it across the centuries. He became the supreme symbol of the mystic's willingness to die for truth. Attar devoted extensive sections to him in Tadhkirat al-Awliya. Rumi defended and celebrated him. The Pakistani philosopher Muhammad Iqbal invoked him. The French scholar Louis Massignon dedicated his life's work to studying him. Al-Hallaj remains the most discussed, most controversial, and most beloved martyr in the history of Islamic mysticism.
 
+### Sources
+- **Wikipedia – Mansur al-Hallaj:** https://en.wikipedia.org/wiki/Mansur_al-Hallaj — Comprehensive article on the martyr of mystical love, his declaration of "Ana al-Haqq," his trial, execution on 26 March 922 CE, and his enduring legacy across Islamic civilization
+- **Wikipedia – Louis Massignon:** https://en.wikipedia.org/wiki/Louis_Massignon — The French Orientalist whose life's scholarship was devoted to al-Hallaj; his study *La Passion de Hallaj* is the definitive modern work
+- **Classical text:** Mansur al-Hallaj, *Kitab al-Tawasin* (3rd–4th century AH / 9th–10th century CE) — al-Hallaj's own mystical text; includes meditations on the Prophet ﷺ, the nature of divine love, and the parable of the moth and flame
+- **Classical text:** Farid al-Din Attar, *Tadhkirat al-Awliya* (6th century AH / 12th century CE) — the fullest classical hagiographic account of al-Hallaj's life, teachings, and martyrdom
+
 ---
 
 ## Chapter 17: Abu Bakr al-Shibli (أبو بكر الشبلي)
@@ -305,6 +345,11 @@ Al-Shibli expressed his teachings primarily through paradoxes, dramatic actions,
 
 Al-Shibli represents the extreme pole of ecstatic Sufism — the saint whose inner experience so overwhelms outward convention that he appears mad to the world. His story serves as a foil to Junaid's sobriety and raises the perennial question: is the truly intoxicated mystic above or below social norms?
 
+### Sources
+- **Wikipedia – Al-Shibli:** https://en.wikipedia.org/wiki/Abu_Bakr_al-Shibli — Article on the former Abbasid court official who became Junaid's student and whose ecstatic states led to repeated confinement in the bimaristan
+- **Wikipedia – Junayd al-Baghdadi:** https://en.wikipedia.org/wiki/Junayd_of_Baghdad — Al-Shibli's teacher, whose "sober" approach contrasts with al-Shibli's ecstatic "madness"
+- **Classical text:** Abd al-Karim al-Qushayri, *al-Risala al-Qushayriyya* (5th century AH / 11th century CE) — preserves al-Shibli's sayings and accounts of his relationship with al-Hallaj
+
 ---
 
 ## Chapter 18: Abu Talib al-Makki (أبو طالب المكي)
@@ -328,6 +373,11 @@ Al-Makki taught that the spiritual path is not separate from daily life but is e
 ### Legacy
 
 Qut al-Qulub became one of the most influential Sufi texts in history, primarily through its effect on al-Ghazali. When al-Ghazali composed his monumental Ihya, he drew extensively from al-Makki's work. Thus, al-Makki's influence — though often unrecognized — permeates the entire later tradition.
+
+### Sources
+- **Wikipedia – Abu Talib al-Makki:** https://en.wikipedia.org/wiki/Abu_Talib_al-Makki — Article on the Sufi systematizer and author of Qut al-Qulub, his life in Mecca and Baghdad, and his decisive influence on al-Ghazali
+- **Wikipedia – Al-Ghazali:** https://en.wikipedia.org/wiki/Al-Ghazali — The 5th-century AH scholar whose *Ihya Ulum al-Din* drew heavily from al-Makki's framework
+- **Classical text:** Abu Talib al-Makki, *Qut al-Qulub fi Mu'amalat al-Mahbub* (4th century AH / 10th century CE) — comprehensive guide to the spiritual life integrating Sharia and haqiqa; a primary source for both Sufi practice and its influence on al-Ghazali
 
 ---
 
@@ -353,6 +403,11 @@ Al-Sarraj distinguished carefully between stations (maqamat) — which are achie
 
 The Kitab al-Luma' is one of the three essential early Sufi manuals (alongside al-Kalabadhi's Ta'arruf and al-Qushayri's Risala). It preserved the teachings of masters who left no written works of their own, making it an indispensable historical source.
 
+### Sources
+- **Wikipedia – Abu Nasr al-Sarraj:** [UNVERIFIED] https://en.wikipedia.org/wiki/Abu_Nasr_al-Sarraj — Article on the Khorasani Sufi and author of the Kitab al-Luma', one of the earliest systematic manuals of tasawwuf
+- **Wikipedia – Tus, Iran:** https://en.wikipedia.org/wiki/Tus,_Iran — The great scholarly city in Khorasan where al-Sarraj was born and died; also the birthplace of al-Ghazali
+- **Classical text:** Abu Nasr al-Sarraj, *Kitab al-Luma' fi al-Tasawwuf* (4th century AH / 10th century CE) — one of the three canonical early Sufi manuals; systematically classifies spiritual states, stations, and vocabulary; includes a defense of Sufism's orthodoxy
+
 ---
 
 ## Chapter 20: Abu Bakr al-Kalabadhi (أبو بكر الكلاباذي)
@@ -376,5 +431,10 @@ Al-Kalabadhi emphasized that true Sufism is not antinomian (opposed to religious
 ### Legacy
 
 The Ta'arruf served a crucial historical function: it helped establish the legitimacy of Sufism within mainstream Sunni thought at a time when that legitimacy was in question. Together with the works of al-Sarraj and later al-Qushayri, it created a "canon of defense" that shielded Sufism from its critics and paved the way for al-Ghazali's definitive reconciliation in the next century.
+
+### Sources
+- **Wikipedia – Al-Kalabadhi:** [UNVERIFIED] https://en.wikipedia.org/wiki/Al-Kalabadhi — Article on the Hanafi scholar from Bukhara and author of the Kitab al-Ta'arruf, one of the earliest systematic defenses of Sufi orthodoxy
+- **Wikipedia – Bukhara:** https://en.wikipedia.org/wiki/Bukhara — The great Central Asian city of Islamic scholarship where al-Kalabadhi was born and died
+- **Classical text:** Abu Bakr al-Kalabadhi, *Kitab al-Ta'arruf li-Madhhab Ahl al-Tasawwuf* (4th century AH / 10th century CE) — systematic theological defense of Sufism demonstrating compatibility with mainstream Sunni belief; an essential primary historical document
 
 ---

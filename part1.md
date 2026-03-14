@@ -57,6 +57,12 @@ Uways represents the archetype of the hidden saint (wali) — the one whose spir
 
 The "Uwaysi" tradition in Sufism — receiving spiritual guidance from a master without physical contact, sometimes from a deceased saint or even from the Prophet ﷺ himself in a vision — is named after Uways. Several later Sufis, including Bayazid Bistami and Abu al-Hasan Kharaqani, were described as having received their spiritual initiation in an "Uwaysi" manner.
 
+### Sources
+- **Wikipedia – Uwais al-Qarani:** https://en.wikipedia.org/wiki/Uwais_al-Qarani — Article on the Yemeni saint praised by name in prophetic hadith, his station among the Tabi'in, and his role as namesake of the Uwaysi tradition
+- **Sunnah.com – The Prophet's description of Uways:** The hadith in which the Prophet ﷺ tells Umar ibn al-Khattab to seek Uways and ask him to pray for forgiveness is recorded in Sahih Muslim, Kitab Fada'il al-Sahaba — https://sunnah.com/muslim:2542 — direct prophetic testimony to Uways's rank
+- **Wikipedia – Battle of Siffin:** https://en.wikipedia.org/wiki/Battle_of_Siffin — The 37 AH battle where Uways is said to have been martyred on Ali's side
+- **Classical text:** Farid al-Din Attar, *Tadhkirat al-Awliya* (6th century AH / 12th century CE) — includes the foundational account of Uways's story, his broken teeth, and his spiritual rank
+
 ---
 
 ## Chapter 2: Hasan al-Basri (الحسن البصري)
@@ -97,6 +103,12 @@ While Hasan al-Basri did not leave behind formal written treatises in the manner
 
 Almost every Sufi silsila (spiritual chain) passes through Hasan al-Basri, connecting later masters back through him to Ali ibn Abi Talib and the Prophet ﷺ. He is the trunk from which virtually all branches of tasawwuf grow. His emphasis on zuhd, taqwa (God-consciousness), and spiritual sincerity set the agenda for all subsequent Sufi development.
 
+### Sources
+- **Wikipedia – Hasan of Basra:** https://en.wikipedia.org/wiki/Hasan_of_Basra — Comprehensive article on his life, his role as Sayyid al-Tabi'in, his scholarship, and his foundational place in the Sufi transmission chains
+- **Wikipedia – Al-Hajjaj ibn Yusuf:** https://en.wikipedia.org/wiki/Al-Hajjaj_ibn_Yusuf — The Umayyad governor of Iraq whom Hasan publicly criticized; background on the political repression of the era
+- **Wikipedia – Umar II:** https://en.wikipedia.org/wiki/Umar_II — The pious Umayyad caliph Umar ibn Abd al-Aziz who sought Hasan's spiritual counsel
+- **Classical text:** Ibn al-Jawzi, *Sifat al-Safwa* (6th century AH / 12th century CE) — preserves extensive accounts of Hasan al-Basri's sermons, sayings, and biography
+
 ---
 
 ## Chapter 3: Rabia al-Adawiyya (رابعة العدوية)
@@ -133,6 +145,12 @@ Rabia articulated that true worship is motivated solely by love of God, not by f
 
 Rabia's doctrine of divine love (mahabbah) became the beating heart of all subsequent Sufi thought. Without her contribution, the Sufi tradition would have remained primarily ascetic rather than ecstatic. She demonstrated that the spiritual path was not exclusive to men, and she is honored across all Sufi traditions as one of the greatest saints.
 
+### Sources
+- **Wikipedia – Rabia al-Adawiyya:** https://en.wikipedia.org/wiki/Rabia_al-Adawiyya — Article on the life, teachings, and legacy of the most celebrated female saint in Islamic history and pioneer of the doctrine of divine love
+- **Wikipedia – Basra:** https://en.wikipedia.org/wiki/Basra — The city where Rabia lived, was enslaved, freed, and became a spiritual authority; context for the early Sufi milieu
+- **Classical text:** Farid al-Din Attar, *Tadhkirat al-Awliya* (6th century AH / 12th century CE) — the primary classical source for Rabia's biography and sayings, including the torch-and-bucket story and her refusal of marriage
+- **Classical text:** Abu Abd al-Rahman al-Sulami, *Dhikr al-Niswa al-Muta'abbidat al-Sufiyyat* (4th century AH / 10th century CE) — early biographical account of female Sufi saints, includes Rabia
+
 ---
 
 ## Chapter 4: Ibrahim ibn Adham (إبراهيم بن أدهم)
@@ -167,6 +185,12 @@ Ibrahim ibn Adham taught that the path to God begins with tawba (repentance), pa
 
 Ibrahim ibn Adham became the supreme model of renunciation in Islamic literature. His story of abandoning worldly power for divine love has been retold countless times and symbolizes the Sufi conviction that the greatest kingdom is the kingdom of the heart.
 
+### Sources
+- **Wikipedia – Ibrahim ibn Adham:** https://en.wikipedia.org/wiki/Ibrahim_ibn_Adham — Article on the prince-turned-ascetic from Balkh, his renunciation narrative, and his legacy in Sufi literature
+- **Wikipedia – Balkh:** https://en.wikipedia.org/wiki/Balkh — The ancient city in present-day Afghanistan where Ibrahim was born and ruled before his renunciation
+- **Wikipedia – Tawakkul:** https://en.wikipedia.org/wiki/Tawakkul — The central concept Ibrahim taught: complete trust and reliance upon God
+- **Classical text:** Farid al-Din Attar, *Tadhkirat al-Awliya* (6th century AH / 12th century CE) — the fullest classical account of Ibrahim's awakening narrative and spiritual journey
+
 ---
 
 ## Chapter 5: Shaqiq al-Balkhi (شقيق البلخي)
@@ -198,6 +222,11 @@ Shaqiq taught that the spiritual path progresses through four stages: zuhd (renu
 ### Legacy
 
 Shaqiq al-Balkhi is remembered as a pioneer of Khorasani Sufism who bridged the generation between Ibrahim ibn Adham and later masters. His emphasis on tawakkul became central to Sufi ethics. He was martyred in battle, embodying the ideal of the warrior-saint.
+
+### Sources
+- **Wikipedia – Shaqiq al-Balkhi:** https://en.wikipedia.org/wiki/Shaqiq_al-Balkhi — Article on the Khorasani Sufi master, his doctrine of tawakkul, and his place in the chain from Ibrahim ibn Adham to Hatim al-Asamm
+- **Wikipedia – Hatim al-Asamm:** [UNVERIFIED] https://en.wikipedia.org/wiki/Hatim_al-Asamm — Article on Shaqiq's most celebrated student, who reportedly surpassed his teacher in spiritual learning
+- **Classical text:** Abu Abd al-Rahman al-Sulami, *Tabaqat al-Sufiyya* (4th century AH / 10th century CE) — biographical dictionary of early Sufi masters including Shaqiq al-Balkhi
 
 ---
 
@@ -231,6 +260,12 @@ Fudayl emphasized ikhlas (sincerity) as the foundation of all spiritual practice
 
 Fudayl ibn Iyad's conversion story became one of the most beloved narratives in Islamic literature — proof that divine mercy can transform even the most hardened sinner into the most elevated saint. His influence flowed through his students into the mainstream of Baghdad Sufism.
 
+### Sources
+- **Wikipedia – Al-Fudayl ibn Iyad:** https://en.wikipedia.org/wiki/Al-Fudayl_ibn_Iyad — Article on the former brigand-turned-saint, his conversion, his life in Mecca, and his role as teacher of major subsequent Sufi masters
+- **Wikipedia – Harun al-Rashid:** https://en.wikipedia.org/wiki/Harun_al-Rashid — The Abbasid caliph who sought Fudayl's counsel; background on his reign and his encounters with Sufi masters
+- **Wikipedia – Quran 57:16:** https://en.wikipedia.org/wiki/Al-Hadid — Surah al-Hadid, which contains the verse Fudayl heard recited at the moment of his conversion
+- **Classical text:** Farid al-Din Attar, *Tadhkirat al-Awliya* (6th century AH / 12th century CE) — primary narrative source for Fudayl's biography and conversion story
+
 ---
 
 ## Chapter 7: Dawud al-Tai (داود الطائي)
@@ -262,6 +297,12 @@ Dawud taught that knowledge ('ilm) is only valuable insofar as it leads to actio
 
 Dawud al-Tai represents the transition from exoteric scholarship to esoteric practice. His teacher was the great jurist Abu Hanifa; his student was Maruf al-Karkhi, who became a central link in the chain leading to Junaid and the Baghdad school of Sufism. Through him, the legal tradition and the mystical tradition were bridged.
 
+### Sources
+- **Wikipedia – Dawud al-Ta'i:** https://en.wikipedia.org/wiki/Dawud_al-Ta%27i — Article on the Kufan ascetic-scholar who studied under Abu Hanifa and became a key link in the Sufi transmission chain
+- **Wikipedia – Abu Hanifa:** https://en.wikipedia.org/wiki/Abu_Hanifa — Dawud's teacher and founder of the Hanafi school of jurisprudence; his endorsement gave the ascetic path scholarly legitimacy
+- **Wikipedia – Ma'ruf al-Karkhi:** https://en.wikipedia.org/wiki/Ma%27ruf_al-Karkhi — Dawud's student who became the next critical link in the chain toward Junaid
+- **Classical text:** Abu Nu'aym al-Isfahani, *Hilyat al-Awliya* (4th–5th century AH / 10th–11th century CE) — major biographical encyclopedia of early saints, includes detailed accounts of Dawud al-Tai
+
 ---
 
 ## Chapter 8: Sufyan al-Thawri (سفيان الثوري)
@@ -291,6 +332,11 @@ Sufyan taught that the greatest form of zuhd is not merely avoiding luxury but a
 ### Legacy
 
 Sufyan al-Thawri bridged the worlds of hadith scholarship and spiritual asceticism, demonstrating that the greatest scholars were also the most detached from worldly power. His independence from political authority became a model for later Sufi masters.
+
+### Sources
+- **Wikipedia – Sufyan al-Thawri:** https://en.wikipedia.org/wiki/Sufyan_al-Thawri — Article on the great hadith scholar and ascetic of Kufa, his title "Amir al-Mu'minin fi'l-Hadith," and his refusal of judicial appointment
+- **Wikipedia – Abd Allah ibn al-Mubarak:** https://en.wikipedia.org/wiki/Abd_Allah_ibn_al-Mubarak — One of Sufyan's notable students who carried his approach into the next generation
+- **Classical text:** Abu Nu'aym al-Isfahani, *Hilyat al-Awliya* (4th–5th century AH / 10th–11th century CE) — extensive biographical account of Sufyan al-Thawri's life, sayings, and spiritual teachings
 
 ---
 
@@ -323,5 +369,10 @@ Ibn al-Mubarak's Kitab al-Zuhd is one of the earliest surviving compilations of 
 ### Legacy
 
 Abdullah ibn al-Mubarak represents the ideal of the complete Muslim — scholar, warrior, merchant, and ascetic combined. His Kitab al-Zuhd became a foundational text for the ascetic tradition, and his personal example inspired centuries of Muslims who sought to integrate worldly engagement with spiritual depth.
+
+### Sources
+- **Wikipedia – Abdullah ibn al-Mubarak:** https://en.wikipedia.org/wiki/Ibn_Mubarak — Article on the scholar-warrior-ascetic of Merv, his Kitab al-Zuhd, and his synthesis of jihad, scholarship, and renunciation
+- **Wikipedia – Merv:** https://en.wikipedia.org/wiki/Merv — The ancient Khorasani city where Ibn al-Mubarak was born; context for the Khorasani Sufi tradition
+- **Classical text:** Abdullah ibn al-Mubarak, *Kitab al-Zuhd wa'l-Raqa'iq* (2nd century AH / 8th century CE) — one of the earliest extant collections of ascetic traditions from the Prophet ﷺ, Companions, and Tabi'in; a foundational primary source
 
 ---
