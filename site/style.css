@@ -168,6 +168,7 @@ a:hover { color: var(--gold); }
 .toc-card .part-num { font-size: .68rem; text-transform: uppercase; letter-spacing: .14em; color: var(--accent); display: block; margin-bottom: .3rem; }
 .toc-card .part-name { font-size: 1.1rem; color: var(--text); display: block; line-height: 1.3; }
 .toc-card .part-detail { font-size: .8rem; color: var(--muted); font-style: italic; display: block; margin-top: .2rem; }
+.toc-ref-links { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: .75rem; }
 .toc-rel {
   display: block;
   padding: .85rem 1.5rem;
@@ -177,7 +178,6 @@ a:hover { color: var(--gold); }
   font-style: italic;
   font-size: .93rem;
   text-align: center;
-  margin-bottom: .75rem;
   transition: border-color .18s, color .18s;
 }
 .toc-rel:hover { border-color: var(--gold); color: var(--gold); }
@@ -364,6 +364,161 @@ a:hover { color: var(--gold); }
 .page-nav a { color: var(--accent); text-decoration: none; }
 .page-nav a:hover { text-decoration: underline; color: var(--gold); }
 
+/* ── Timeline ── */
+
+.tl-page h1 { font-size: 2.3rem; font-weight: 400; margin-bottom: .75rem; }
+.tl-intro {
+  color: var(--muted);
+  font-style: italic;
+  margin-bottom: 2rem;
+  padding-bottom: 1.75rem;
+  border-bottom: 1px solid var(--border);
+  font-size: .95rem;
+}
+
+.tl-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .4rem .75rem;
+  margin-bottom: 2.5rem;
+  padding: .9rem 1.25rem;
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  font-size: .78rem;
+}
+.tl-legend-item {
+  display: flex;
+  align-items: center;
+  gap: .35rem;
+  color: var(--muted);
+}
+.tl-legend-dot {
+  width: 9px;
+  height: 9px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.tl-wrap {
+  position: relative;
+  padding-left: 115px;
+}
+/* The spine */
+.tl-wrap::before {
+  content: '';
+  position: absolute;
+  left: 107px;
+  top: 0; bottom: 0;
+  width: 2px;
+  background: linear-gradient(to bottom, var(--accent) 0%, var(--border) 60%, rgba(200,152,14,.4) 100%);
+}
+
+/* Era banner */
+.tl-era {
+  position: relative;
+  margin: 2.75rem 0 .6rem -115px;
+  padding-left: 0;
+}
+.tl-era-inner {
+  display: inline-flex;
+  align-items: baseline;
+  gap: .65rem;
+  background: var(--bg-alt);
+  border: 1px solid var(--border);
+  border-left: 3px solid var(--accent);
+  padding: .45rem 1rem .45rem .9rem;
+  position: relative;
+  z-index: 1;
+}
+.tl-era-inner::after {
+  content: '';
+  position: absolute;
+  right: -9999px;
+  left: 100%;
+  top: 50%;
+  height: 1px;
+  background: var(--border);
+  opacity: .5;
+}
+.tl-era-num {
+  font-size: .65rem;
+  text-transform: uppercase;
+  letter-spacing: .14em;
+  color: var(--accent);
+  font-weight: 600;
+}
+.tl-era-name {
+  font-size: .95rem;
+  color: var(--text);
+  font-style: italic;
+}
+.tl-era-dates {
+  font-size: .73rem;
+  color: var(--muted);
+}
+
+/* Entry row */
+.tl-entry {
+  display: grid;
+  grid-template-columns: 103px 14px 1fr;
+  gap: 0 10px;
+  align-items: start;
+  padding: 3px 0;
+}
+.tl-year {
+  text-align: right;
+  font-size: .7rem;
+  color: var(--muted);
+  padding-top: 5px;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -.01em;
+}
+.tl-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  position: relative;
+  top: 5px;
+  z-index: 2;
+  border: 2px solid var(--bg);
+}
+.tl-card {
+  padding: 2px 0 7px 10px;
+  border-left: 2px solid var(--border);
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: .15rem .45rem;
+}
+.tl-name {
+  font-size: .92rem;
+  color: var(--text);
+  text-decoration: none;
+  font-weight: 500;
+}
+.tl-name:hover { color: var(--accent); text-decoration: underline; }
+.tl-arabic {
+  font-family: 'Amiri', serif;
+  font-size: .82rem;
+  color: var(--muted);
+}
+.tl-place {
+  font-size: .72rem;
+  color: var(--muted);
+  font-style: italic;
+  white-space: nowrap;
+}
+.tl-place::before { content: ' b70'; }
+.tl-order {
+  font-size: .65rem;
+  padding: 1px 7px 1px 6px;
+  border-radius: 10px;
+  border: 1px solid;
+  white-space: nowrap;
+  margin-top: 2px;
+}
+
 /* ── Mobile ── */
 
 @media (max-width: 900px) {
@@ -375,8 +530,14 @@ a:hover { color: var(--gold); }
   .chapter-header h2 { font-size: 1.6rem; }
   .meta-row { grid-template-columns: 1fr; gap: 0; }
   .meta-key { padding-top: .5rem; }
+  .tl-wrap { padding-left: 75px; }
+  .tl-wrap::before { left: 67px; }
+  .tl-era { margin-left: -75px; }
+  .tl-entry { grid-template-columns: 63px 12px 1fr; }
+  .tl-year { font-size: .62rem; }
 }
 @media (max-width: 600px) {
   .toc-grid { grid-template-columns: 1fr; }
   .cover .bismillah { font-size: 1.75rem; }
+  .tl-place, .tl-arabic { display: none; }
 }
