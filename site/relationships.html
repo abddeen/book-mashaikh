@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Relationship Graphs — The Book of the Mashaikh</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="layout">
+  <aside class="sidebar"><div class="sidebar-inner"><div class="sidebar-brand"><a href="index.html" class="">← Home</a><span class="brand-title">The Book of<br>the Mashaikh</span></div><nav><span class="nav-section">Parts</span>
+<a href="part1.html" class="nav-part">Part 1: Seeds of Tasawwuf</a>
+<a href="part2.html" class="nav-part">Part 2: Crystallization of Sufi Thought</a>
+<a href="part3.html" class="nav-part">Part 3: Age of Systematization</a>
+<a href="part4.html" class="nav-part">Part 4: The Golden Age</a>
+<a href="part5.html" class="nav-part">Part 5: Age of Expansion</a>
+<a href="part6.html" class="nav-part">Part 6: Era of Revival</a>
+<a href="part7.html" class="nav-part">Part 7: The Modern Era</a>
+<span class="nav-section">Reference</span>
+<a href="relationships.html" class="nav-part active">Relationship Graphs</a>
+<a href="full-index.html" class="nav-part">Full Index</a></nav></div></aside>
+  <main class="main"><div class="rel-page"><h1>Relationship Graphs by Era</h1>
+<p class="era-note">Arrows (→) indicate direct teacher → student transmission. Dashed arrows (- -&gt;) indicate indirect transmission through an unnamed intermediary, Uwaysi/visionary connection, or strong intellectual influence. Cross-era connections are noted in text below each diagram.</p>
+<h2 class="era-heading">Part One: Seeds of Tasawwuf (1st–2nd Century AH, Ch. 1–9)</h2>
+<div class="mermaid">
+graph TD
+    C2[&quot;Ch.2 Hasan al-Basri&quot;] --&gt; C3[&quot;Ch.3 Rabia al-Adawiyya&quot;]
+    C4[&quot;Ch.4 Ibrahim ibn Adham&quot;] --&gt; C5[&quot;Ch.5 Shaqiq al-Balkhi&quot;]
+    C8[&quot;Ch.8 Sufyan al-Thawri&quot;] --&gt; C6[&quot;Ch.6 Fudayl ibn Iyad&quot;]
+    C8 --&gt; C9[&quot;Ch.9 Ibn al-Mubarak&quot;]
+</div>
+<p class="era-note"><strong>Cross-era outgoing:</strong> Ch.7 Dawud al-Tai → Ch.10 Maruf al-Karkhi (Part 2). Ch.6 Fudayl ibn Iyad → Ch.13 Sari al-Saqati (Part 2).</p>
+<h2 class="era-heading">Part Two: Crystallization of Sufi Thought (3rd–4th Century AH, Ch. 10–20)</h2>
+<div class="mermaid">
+graph TD
+    C10[&quot;Ch.10 Maruf al-Karkhi&quot;] --&gt; C13[&quot;Ch.13 Sari al-Saqati&quot;]
+    C13 --&gt; C15[&quot;Ch.15 Junaid al-Baghdadi&quot;]
+    C14[&quot;Ch.14 Harith al-Muhasibi&quot;] --&gt; C15
+    C15 --&gt; C16[&quot;Ch.16 Mansur al-Hallaj&quot;]
+    C15 --&gt; C17[&quot;Ch.17 Abu Bakr al-Shibli&quot;]
+</div>
+<p class="era-note"><strong>Incoming:</strong> Ch.7 Dawud al-Tai (P1) → Ch.10. Ch.6 Fudayl (P1) → Ch.13. <strong>Cross-era outgoing:</strong> Ch.15 Junaid → Ch.35 Ahmad al-Rifa&#x27;i (Part 3, through the chain).</p>
+<h2 class="era-heading">Part Three: Age of Systematization (5th–6th Century AH, Ch. 21–35)</h2>
+<div class="mermaid">
+graph TD
+    C26[&quot;Ch.26 Ahmad al-Ghazali&quot;] --&gt; C27[&quot;Ch.27 Ayn al-Qudat Hamadani&quot;]
+    C28[&quot;Ch.28 Yusuf al-Hamadhani&quot;] --&gt; C29[&quot;Ch.29 Ahmad Yasawi&quot;]
+    C30[&quot;Ch.30 Abdul Qadir al-Jilani&quot;] --&gt; C32[&quot;Ch.32 Umar al-Suhrawardi&quot;]
+    C31[&quot;Ch.31 Abu Madyan&quot;] -.-&gt; C34[&quot;Ch.34 Abu al-Hasan al-Shadhili&quot;]
+</div>
+<p class="era-note"><strong>Note:</strong> Ch.31 Abu Madyan -.-&gt; Ch.34 al-Shadhili is through Abd al-Salam ibn Mashish (unnamed intermediary in the chain). <strong>Incoming:</strong> Ch.15 Junaid (P2) → Ch.35 al-Rifa&#x27;i (through chain). <strong>Cross-era outgoing:</strong> Ch.33 Kubra → Ch.36 Attar (P4, via Majd al-Din al-Baghdadi). Ch.32 Suhrawardi → Ch.40 Bahauddin Zakariya (P4). Ch.28 Hamadhani → Ch.49 Abdul Khaliq al-Ghujduwani (P4). Ch.34 al-Shadhili chain → Ch.45 al-Busiri and Ch.47 Ibn Ata&#x27;illah (P4, through Abu al-Abbas al-Mursi).</p>
+<h2 class="era-heading">Part Four: Golden Age (7th–8th Century AH, Ch. 36–50, 101–102)</h2>
+<div class="mermaid">
+graph TD
+    subgraph Chishti Chain
+        C39[&quot;Ch.39 Moinuddin Chishti&quot;] --&gt; C42[&quot;Ch.42 Qutbuddin Kaki&quot;]
+        C42 --&gt; C44[&quot;Ch.44 Baba Farid&quot;]
+        C44 --&gt; C46[&quot;Ch.46 Nizamuddin Auliya&quot;]
+        C46 --&gt; C48[&quot;Ch.48 Amir Khusraw&quot;]
+    end
+
+    subgraph Naqshbandi Roots
+        C49[&quot;Ch.49 Abdul Khaliq al-Ghujduwani&quot;] -.-&gt; C50[&quot;Ch.50 Baha al-Din Naqshband&quot;]
+    end
+
+    subgraph Akbari
+        C37[&quot;Ch.37 Ibn Arabi&quot;] --&gt; C43[&quot;Ch.43 Sadr al-Din Qunawi&quot;]
+    end
+
+    subgraph Ba&#x27;alawi Origins
+        C101[&quot;Ch.101 al-Faqih al-Muqaddam&quot;] -.-&gt; C102[&quot;Ch.102 Umar al-Mihdar&quot;]
+    end
+</div>
+<p class="era-note"><strong>Note:</strong> Ch.49 -.-&gt; Ch.50 is an Uwaysi/visionary connection spanning two centuries. <strong>Incoming:</strong> Ch.32 Suhrawardi (P3) → Ch.40 Bahauddin Zakariya. Ch.33 Kubra chain (P3) → Ch.36 Attar. Ch.28 Hamadhani chain (P3) → Ch.49 Ghujduwani. <strong>Cross-era outgoing:</strong> Ch.46 Nizamuddin → Ch.54 Gesudaraz (P5, through Chiragh-i Delhi). Ch.50 Naqshband → Ch.55 Khwaja Ahrar (P5, through Muhammad Parsa and Yaqub Charkhi). Ch.101/102 Ba&#x27;alawi chain → Ch.103 al-Saqqaf (P5).</p>
+<h2 class="era-heading">Part Five: Age of Expansion (9th–11th Century AH, Ch. 51–65, 103–106)</h2>
+<div class="mermaid">
+graph TD
+    subgraph Naqshbandi
+        C55[&quot;Ch.55 Khwaja Ahrar&quot;] --&gt; C56[&quot;Ch.56 Jami&quot;]
+    end
+
+    subgraph Qadiri / Punjab
+        C62[&quot;Ch.62 Mian Mir&quot;] -.-&gt; C64[&quot;Ch.64 Dara Shikoh&quot;]
+    end
+
+    subgraph Ba&#x27;alawi Chain
+        C103[&quot;Ch.103 al-Saqqaf&quot;] -.-&gt; C104[&quot;Ch.104 Imam al-Aydarus al-Akbar&quot;]
+        C104 --&gt; C105[&quot;Ch.105 Imam al-Adani&quot;]
+        C104 -.-&gt; C106[&quot;Ch.106 Abu Bakr bin Salim&quot;]
+    end
+</div>
+<p class="era-note"><strong>Note:</strong> Ch.62 Mian Mir -.-&gt; Ch.64 Dara Shikoh is through Mulla Shah Badakhshi (Mian Mir&#x27;s primary khalifa, who gave Dara Shikoh formal initiation). <strong>Incoming:</strong> Ch.46 Nizamuddin (P4) → Ch.54 Gesudaraz, through Chiragh-i Delhi. Ch.50 Naqshband (P4) → Ch.55 Khwaja Ahrar, through Parsa and Charkhi. Ch.101/102 (P4) → Ch.103. <strong>Cross-era outgoing:</strong> Ch.61 Ahmad Sirhindi → Ch.80 Hajji Imdadullah (P6, through multiple generations of the Naqshbandi-Mujaddidi chain). Ch.104/106 Ba&#x27;alawi chain → Ch.107 Imam al-Haddad (P6).</p>
+<h2 class="era-heading">Part Six: Era of Revival (12th–13th Century AH, Ch. 66–80, 107–114, 126)</h2>
+<div class="mermaid">
+graph TD
+    subgraph Delhi / Dehlawi Family
+        C69[&quot;Ch.69 Shah Wali Allah Dehlawi&quot;] --&gt; C114[&quot;Ch.114 Shah Abd al-Aziz Dehlawi&quot;]
+    end
+
+    subgraph Ahmad ibn Idris Network
+        C73[&quot;Ch.73 Ahmad ibn Idris al-Fasi&quot;] --&gt; C75[&quot;Ch.75 al-Sanusi&quot;]
+        C73 --&gt; C77[&quot;Ch.77 Muhammad Uthman al-Mirghani&quot;]
+    end
+
+    subgraph Tijaniyya
+        C71[&quot;Ch.71 Ahmad al-Tijani&quot;] -.-&gt; C76[&quot;Ch.76 al-Hajj Umar Tall&quot;]
+    end
+
+    subgraph Egyptian Khalwati Chain
+        C66[&quot;Ch.66 Abd al-Ghani al-Nabulusi&quot;] -.-&gt; C108[&quot;Ch.108 Muhammad al-Hafni&quot;]
+        C108 --&gt; C109[&quot;Ch.109 Ahmad al-Dardir&quot;]
+        C109 --&gt; C110[&quot;Ch.110 Ahmad al-Sawi&quot;]
+        C110 --&gt; C111[&quot;Ch.111 Ibrahim al-Bajuri&quot;]
+    end
+
+    subgraph Darqawi / Moroccan
+        C112[&quot;Ch.112 al-Arabi al-Darqawi&quot;] -.-&gt; C113[&quot;Ch.113 Ibn Ajiba&quot;]
+    end
+
+    subgraph Naqshbandi-Khalidi
+        C74[&quot;Ch.74 Khalid al-Baghdadi&quot;] -.-&gt; C78[&quot;Ch.78 Imam Shamil&quot;]
+    end
+</div>
+<p class="era-note"><strong>Note:</strong> Ch.66 al-Nabulusi -.-&gt; Ch.108 al-Hafni is through Mustafa al-Bakri (al-Nabulusi&#x27;s spiritual heir, who was al-Hafni&#x27;s primary shaykh). Ch.71 Tijani -.-&gt; Ch.76 al-Hajj Umar Tall is through Muhammad al-Ghali al-Tijani (a direct student of al-Tijani). Ch.112 al-Darqawi -.-&gt; Ch.113 Ibn Ajiba is through Muhammad al-Buzidi (al-Darqawi&#x27;s chief khalifa). Ch.74 Khalid al-Baghdadi -.-&gt; Ch.78 Imam Shamil is through Ghazi Muhammad al-Ghimrawi (founder of the Khalidi-Dagestani branch). <strong>Incoming:</strong> Ch.61 Sirhindi chain (P5) → Ch.80 Imdadullah. Ba&#x27;alawi chain (P5) → Ch.107 Imam al-Haddad. <strong>Cross-era outgoing:</strong> Ch.80 Imdadullah → Ch.83 Ashraf Ali Thanawi (P7). Ch.110 al-Sawi → Ch.124 Ahmad al-Shawadfi (P7, through Ali al-Aqbawi). Ch.126 Sidiyya al-Kabir → Ch.127 Sidiyya Baba (P7, grandfather–grandson).</p>
+<h2 class="era-heading">Part Seven: Modern Era (14th Century AH, Ch. 81–100, 115–127)</h2>
+<div class="mermaid">
+graph TD
+    subgraph Alawi / Traditionalist Network
+        C84[&quot;Ch.84 Ahmad al-Alawi&quot;] --&gt; C90[&quot;Ch.90 Frithjof Schuon&quot;]
+        C85[&quot;Ch.85 René Guénon&quot;] -.-&gt; C90
+        C90 --&gt; C92[&quot;Ch.92 Martin Lings&quot;]
+        C90 --&gt; C96[&quot;Ch.96 Seyyed Hossein Nasr&quot;]
+    end
+
+    subgraph Inayati / Universal Sufism
+        C86[&quot;Ch.86 Hazrat Inayat Khan&quot;] --&gt; C97[&quot;Ch.97 Pir Vilayat Inayat Khan&quot;]
+    end
+
+    subgraph Ba&#x27;alawi Modern Chain
+        C116[&quot;Ch.116 Habib Ahmad Mashhur al-Haddad&quot;] --&gt; C118[&quot;Ch.118 Habib Umar ibn Hafiz&quot;]
+        C117[&quot;Ch.117 Habib Abd al-Qadir al-Saqqaf&quot;] --&gt; C118
+        C118 --&gt; C119[&quot;Ch.119 Habib Ali al-Jifri&quot;]
+    end
+
+    subgraph Tijaniyya West Africa
+        C89[&quot;Ch.89 Ibrahim Niasse&quot;] --&gt; C99[&quot;Ch.99 Shaykh Hassan Cisse&quot;]
+        C120[&quot;Ch.120 Al-Hajj Malick Sy&quot;] --&gt; C121[&quot;Ch.121 Serigne Babacar Sy&quot;]
+    end
+</div>
+<p class="era-note"><strong>Note:</strong> Ch.85 René Guénon -.-&gt; Ch.90 Schuon represents intellectual/doctrinal influence rather than formal initiation (Schuon&#x27;s initiation was from Ch.84 al-Alawi). Ch.116 and Ch.117 are parallel teachers of Ch.118 Habib Umar. <strong>Incoming:</strong> Ch.80 Imdadullah (P6) → Ch.83 Ashraf Ali Thanawi. Ch.110 al-Sawi (P6) → Ch.124 al-Shawadfi, through Ali al-Aqbawi. Ch.126 Sidiyya al-Kabir (P6) → Ch.127 Sidiyya Baba.</p>
+<h2 class="era-heading">Summary: Major Cross-Era Transmission Chains</h2>
+<table class="summary-table"><thead><tr><th>Chain</th><th>Parts Spanned</th></tr></thead><tbody><tr><td><strong>Baghdadi Sufi main line</strong> — Hasan al-Basri → Maruf → Sari → Junaid → Shibli/Hallaj</td><td>P1 → P2</td></tr><tr><td><strong>Chishti silsila</strong> — Moinuddin → Qutbuddin → Baba Farid → Nizamuddin → Khusraw / Gesudaraz</td><td>P4 → P5</td></tr><tr><td><strong>Naqshbandi silsila</strong> — Hamadhani → Yasawi + Ghujduwani → Naqshband → Ahrar → Sirhindi → Imdadullah → Thanawi</td><td>P3 → P4 → P5 → P6 → P7</td></tr><tr><td><strong>Shadhili silsila</strong> — Abu Madyan → Ibn Mashish → Shadhili → Busiri + Ibn Ata&#x27;illah → Jazuli → Darqawi + Tijani</td><td>P3 → P4 → P5 → P6</td></tr><tr><td><strong>Suhrawardi silsila</strong> — Suhrawardi → Bahauddin Zakariya</td><td>P3 → P4</td></tr><tr><td><strong>Ba&#x27;alawi silsila</strong> — al-Faqih al-Muqaddam → Umar al-Mihdar → al-Saqqaf → al-Aydarus → al-Adani → Imam al-Haddad → modern masters</td><td>P4 → P5 → P6 → P7</td></tr><tr><td><strong>Delhi Dehlawi line</strong> — Shah Wali Allah → Shah Abd al-Aziz → Imdadullah → Thanawi</td><td>P6 → P7</td></tr><tr><td><strong>Alawi / Traditionalist</strong> — al-Alawi → Schuon → Lings + Nasr</td><td>P7 (internal)</td></tr><tr><td><strong>Tijani West Africa</strong> — al-Tijani → al-Hajj Umar Tall → al-Hajj Malick Sy → Serigne Babacar Sy + Ibrahim Niasse → Hassan Cisse</td><td>P6 → P7</td></tr></tbody></table></div></main>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.min.js"></script>
+<script>
+mermaid.initialize({
+  startOnLoad: true, theme: "base",
+  themeVariables: {
+    primaryColor: "#f1e8d3", primaryTextColor: "#1e1609",
+    primaryBorderColor: "#c8a890", lineColor: "#9a7010",
+    secondaryColor: "#f9f5eb", tertiaryColor: "#f1e8d3",
+    clusterBkg: "#faf7f0", clusterBorder: "#d8c8a4",
+    edgeLabelBackground: "#f9f5eb", titleColor: "#1e1609",
+    fontFamily: "EB Garamond, Georgia, serif", fontSize: "15px"
+  }
+});
+</script>
+</body>
+</html>

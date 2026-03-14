@@ -1,0 +1,127 @@
+part,era_label,chapter,name,born_ce,died_ce,living
+1,Seeds of Tasawwuf (1st–2nd c. AH),1,Uways al-Qarani,580,657,false
+1,Seeds of Tasawwuf (1st–2nd c. AH),2,Hasan al-Basri,642,728,false
+1,Seeds of Tasawwuf (1st–2nd c. AH),3,Sufyan al-Thawri,716,778,false
+1,Seeds of Tasawwuf (1st–2nd c. AH),4,Rabia al-Adawiyya,714,801,false
+1,Seeds of Tasawwuf (1st–2nd c. AH),5,Ibrahim ibn Adham,718,778,false
+1,Seeds of Tasawwuf (1st–2nd c. AH),6,Fudayl ibn Iyad,725,803,false
+1,Seeds of Tasawwuf (1st–2nd c. AH),7,Abdullah ibn al-Mubarak,736,797,false
+1,Seeds of Tasawwuf (1st–2nd c. AH),8,Shaqiq al-Balkhi,730,810,false
+1,Seeds of Tasawwuf (1st–2nd c. AH),9,Dawud al-Tai,730,781,false
+2,Crystallization of Sufi Thought (3rd–4th c. AH),10,Maruf al-Karkhi,770,815,false
+2,Crystallization of Sufi Thought (3rd–4th c. AH),11,Sari al-Saqati,772,867,false
+2,Crystallization of Sufi Thought (3rd–4th c. AH),12,Harith al-Muhasibi,781,857,false
+2,Crystallization of Sufi Thought (3rd–4th c. AH),13,Dhul-Nun al-Misri,796,860,false
+2,Crystallization of Sufi Thought (3rd–4th c. AH),14,Bayazid Bistami,804,875,false
+2,Crystallization of Sufi Thought (3rd–4th c. AH),15,Abu al-Qasim al-Junaid,830,910,false
+2,Crystallization of Sufi Thought (3rd–4th c. AH),16,Mansur al-Hallaj,858,922,false
+2,Crystallization of Sufi Thought (3rd–4th c. AH),17,Abu Bakr al-Shibli,861,946,false
+2,Crystallization of Sufi Thought (3rd–4th c. AH),18,Abu Talib al-Makki,850,996,false
+2,Crystallization of Sufi Thought (3rd–4th c. AH),19,Abu Nasr al-Sarraj,850,988,false
+2,Crystallization of Sufi Thought (3rd–4th c. AH),20,Abu Bakr al-Kalabadhi,940,990,false
+3,Age of Systematization (5th–6th c. AH),21,Abu Abd al-Rahman al-Sulami,937,1021,false
+3,Age of Systematization (5th–6th c. AH),22,Abu al-Qasim al-Qushayri,986,1074,false
+3,Age of Systematization (5th–6th c. AH),23,Ali ibn Uthman al-Hujwiri,1000,1072,false
+3,Age of Systematization (5th–6th c. AH),24,Abdullah al-Ansari al-Harawi,1006,1088,false
+3,Age of Systematization (5th–6th c. AH),25,Yusuf al-Hamadhani,1048,1140,false
+3,Age of Systematization (5th–6th c. AH),26,Abu Hamid al-Ghazali,1058,1111,false
+3,Age of Systematization (5th–6th c. AH),27,Ahmad al-Ghazali,1061,1123,false
+3,Age of Systematization (5th–6th c. AH),28,Abdul Qadir al-Jilani,1077,1166,false
+3,Age of Systematization (5th–6th c. AH),29,Ahmad Yasawi,1093,1166,false
+3,Age of Systematization (5th–6th c. AH),30,Ayn al-Qudat Hamadani,1098,1131,false
+3,Age of Systematization (5th–6th c. AH),31,Abu Madyan Shu'ayb,1115,1198,false
+3,Age of Systematization (5th–6th c. AH),32,Ahmad al-Rifa'i,1118,1182,false
+3,Age of Systematization (5th–6th c. AH),33,Shihabuddin Umar al-Suhrawardi,1145,1234,false
+3,Age of Systematization (5th–6th c. AH),34,Najm al-Din Kubra,1145,1221,false
+3,Age of Systematization (5th–6th c. AH),35,Abu al-Hasan al-Shadhili,1196,1258,false
+4,The Golden Age (7th–8th c. AH),49,Abdul Khaliq al-Ghujduwani,1097,1179,false
+4,The Golden Age (7th–8th c. AH),38,Ruzbihan Baqli,1128,1209,false
+4,The Golden Age (7th–8th c. AH),39,Moinuddin Chishti,1141,1230,false
+4,The Golden Age (7th–8th c. AH),36,Farid al-Din Attar,1145,1221,false
+4,The Golden Age (7th–8th c. AH),37,Muhyiddin Ibn Arabi,1165,1240,false
+4,The Golden Age (7th–8th c. AH),42,Qutbuddin Bakhtiyar Kaki,1173,1235,false
+4,The Golden Age (7th–8th c. AH),44,Fariduddin Ganjshakar (Baba Farid),1173,1266,false
+4,The Golden Age (7th–8th c. AH),101,Al-Faqih al-Muqaddam,1178,1255,false
+4,The Golden Age (7th–8th c. AH),40,Bahauddin Zakariya Multani,1182,1263,false
+4,The Golden Age (7th–8th c. AH),41,Jalal al-Din Rumi,1207,1273,false
+4,The Golden Age (7th–8th c. AH),43,Sadr al-Din Qunawi,1210,1274,false
+4,The Golden Age (7th–8th c. AH),45,Sharaf al-Din al-Busiri,1211,1294,false
+4,The Golden Age (7th–8th c. AH),46,Nizamuddin Auliya,1238,1325,false
+4,The Golden Age (7th–8th c. AH),48,Amir Khusraw Dehlawi,1253,1325,false
+4,The Golden Age (7th–8th c. AH),47,Ibn Ata'illah al-Iskandari,1259,1309,false
+4,The Golden Age (7th–8th c. AH),102,Umar al-Mihdar,1267,1338,false
+4,The Golden Age (7th–8th c. AH),50,Baha al-Din Naqshband,1317,1389,false
+5,Age of Expansion (9th–11th c. AH),51,Sayyid Ahmad al-Badawi,1199,1276,false
+5,Age of Expansion (9th–11th c. AH),52,Ibrahim al-Dasuqi,1255,1296,false
+5,Age of Expansion (9th–11th c. AH),54,Syed Muhammad Gesudaraz,1321,1422,false
+5,Age of Expansion (9th–11th c. AH),103,Abd al-Rahman al-Saqqaf,1346,1416,false
+5,Age of Expansion (9th–11th c. AH),104,Imam al-Aydarus al-Akbar,1408,1460,false
+5,Age of Expansion (9th–11th c. AH),57,Muhammad al-Jazuli,1405,1465,false
+5,Age of Expansion (9th–11th c. AH),55,Khwaja Ahrar,1404,1490,false
+5,Age of Expansion (9th–11th c. AH),56,Jami,1414,1492,false
+5,Age of Expansion (9th–11th c. AH),105,Imam al-Adani,1447,1508,false
+5,Age of Expansion (9th–11th c. AH),60,Ibrahim Gülshani,1442,1534,false
+5,Age of Expansion (9th–11th c. AH),58,Abd al-Wahhab al-Sha'rani,1493,1565,false
+5,Age of Expansion (9th–11th c. AH),106,Shaykh Abu Bakr bin Salim,1513,1583,false
+5,Age of Expansion (9th–11th c. AH),59,Shah Hussain,1538,1599,false
+5,Age of Expansion (9th–11th c. AH),63,Aziz Mahmud Hudayi,1543,1628,false
+5,Age of Expansion (9th–11th c. AH),62,Mian Mir of Lahore,1550,1635,false
+5,Age of Expansion (9th–11th c. AH),61,Ahmad Sirhindi,1563,1624,false
+5,Age of Expansion (9th–11th c. AH),64,Dara Shikoh,1615,1659,false
+5,Age of Expansion (9th–11th c. AH),65,Niyazi-i Misri,1617,1694,false
+6,Era of Revival (12th–13th c. AH),107,Imam al-Haddad,1634,1720,false
+6,Era of Revival (12th–13th c. AH),66,Abd al-Ghani al-Nabulusi,1641,1731,false
+6,Era of Revival (12th–13th c. AH),67,Bulleh Shah,1680,1758,false
+6,Era of Revival (12th–13th c. AH),68,Shah Abd al-Latif Bhitai,1689,1752,false
+6,Era of Revival (12th–13th c. AH),108,Muhammad al-Hafni,1690,1767,false
+6,Era of Revival (12th–13th c. AH),69,Shah Wali Allah Dehlawi,1703,1762,false
+6,Era of Revival (12th–13th c. AH),109,Ahmad al-Dardir,1715,1786,false
+6,Era of Revival (12th–13th c. AH),70,Mir Dard,1720,1785,false
+6,Era of Revival (12th–13th c. AH),71,Sidi Ahmad al-Tijani,1737,1815,false
+6,Era of Revival (12th–13th c. AH),112,Muhammad al-Arabi al-Darqawi,1746,1823,false
+6,Era of Revival (12th–13th c. AH),114,Shah Abd al-Aziz Dehlawi,1746,1823,false
+6,Era of Revival (12th–13th c. AH),113,Ahmad ibn Ajiba,1748,1809,false
+6,Era of Revival (12th–13th c. AH),72,Usman Dan Fodio,1754,1817,false
+6,Era of Revival (12th–13th c. AH),73,Ahmad ibn Idris al-Fasi,1760,1837,false
+6,Era of Revival (12th–13th c. AH),110,Ahmad al-Sawi,1761,1825,false
+6,Era of Revival (12th–13th c. AH),74,Khalid al-Baghdadi,1779,1827,false
+6,Era of Revival (12th–13th c. AH),126,Sidiyya al-Kabir,1775,1868,false
+6,Era of Revival (12th–13th c. AH),111,Ibrahim al-Bajuri,1783,1860,false
+6,Era of Revival (12th–13th c. AH),75,Muhammad ibn Ali al-Sanusi,1787,1859,false
+6,Era of Revival (12th–13th c. AH),77,Muhammad Uthman al-Mirghani,1793,1852,false
+6,Era of Revival (12th–13th c. AH),76,Al-Hajj Umar Tall,1796,1864,false
+6,Era of Revival (12th–13th c. AH),78,Imam Shamil,1797,1871,false
+6,Era of Revival (12th–13th c. AH),79,Abd al-Qadir al-Jazairi,1808,1883,false
+6,Era of Revival (12th–13th c. AH),80,Hajji Imdadullah Muhajir Makki,1817,1899,false
+7,The Modern Era (14th c. AH),124,Ahmad al-Shawadfi,1830,1900,false
+7,The Modern Era (14th c. AH),115,Habib Ali al-Habshi,1843,1915,false
+7,The Modern Era (14th c. AH),82,Ahmadou Bamba,1853,1927,false
+7,The Modern Era (14th c. AH),120,Al-Hajj Malick Sy,1855,1922,false
+7,The Modern Era (14th c. AH),127,Sidiyya Baba,1862,1924,false
+7,The Modern Era (14th c. AH),87,Pir Mehr Ali Shah,1859,1937,false
+7,The Modern Era (14th c. AH),83,Ashraf Ali Thanawi,1863,1943,false
+7,The Modern Era (14th c. AH),84,Ahmad al-Alawi,1869,1934,false
+7,The Modern Era (14th c. AH),88,Muhammad ibn al-Habib,1876,1972,false
+7,The Modern Era (14th c. AH),81,Shaykh Uways al-Barawi,1847,1909,false
+7,The Modern Era (14th c. AH),121,Serigne Babacar Sy,1885,1957,false
+7,The Modern Era (14th c. AH),86,Hazrat Inayat Khan,1882,1927,false
+7,The Modern Era (14th c. AH),85,René Guénon,1886,1951,false
+7,The Modern Era (14th c. AH),94,Bawa Muhaiyaddeen,1895,1986,false
+7,The Modern Era (14th c. AH),122,Mehmed Zahid Kotku,1897,1980,false
+7,The Modern Era (14th c. AH),89,Ibrahim Niasse,1900,1975,false
+7,The Modern Era (14th c. AH),116,Habib Ahmad Mashhur al-Haddad,1907,1995,false
+7,The Modern Era (14th c. AH),90,Frithjof Schuon,1907,1998,false
+7,The Modern Era (14th c. AH),92,Martin Lings,1909,2005,false
+7,The Modern Era (14th c. AH),91,Abd al-Halim Mahmud,1910,1978,false
+7,The Modern Era (14th c. AH),123,Muhammad Metwally al-Shaarawi,1911,1998,false
+7,The Modern Era (14th c. AH),117,Habib Abd al-Qadir al-Saqqaf,1912,2010,false
+7,The Modern Era (14th c. AH),93,Muzaffer Ozak,1916,1985,false
+7,The Modern Era (14th c. AH),97,Pir Vilayat Inayat Khan,1916,2004,false
+7,The Modern Era (14th c. AH),96,Seyyed Hossein Nasr,1933,2025,true
+7,The Modern Era (14th c. AH),98,Sidi Hamza al-Boutchichi,1922,2025,true
+7,The Modern Era (14th c. AH),95,Nazim al-Haqqani,1922,2014,false
+7,The Modern Era (14th c. AH),125,Sayyid Muhammad ibn Alawi al-Maliki,1944,2004,false
+7,The Modern Era (14th c. AH),99,Hassan Cisse,1945,2008,false
+7,The Modern Era (14th c. AH),100,Abdal Hakim Murad,1960,2025,true
+7,The Modern Era (14th c. AH),118,Habib Umar ibn Hafiz,1963,2025,true
+7,The Modern Era (14th c. AH),119,Habib Ali al-Jifri,1971,2025,true
