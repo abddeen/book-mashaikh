@@ -70,7 +70,7 @@ a:hover { color: var(--gold); }
 .sidebar nav { padding: .75rem 0; }
 .nav-section {
   display: block;
-  font-size: .62rem;
+  font-size: .68rem;
   text-transform: uppercase;
   letter-spacing: .18em;
   color: rgba(200,152,14,.6);
@@ -81,7 +81,7 @@ a:hover { color: var(--gold); }
   padding: .28rem 1.5rem .28rem 1.75rem;
   color: #b09060;
   text-decoration: none;
-  font-size: .82rem;
+  font-size: .9rem;
   line-height: 1.45;
   border-left: 3px solid transparent;
   transition: color .15s, border-color .15s, background .15s;
@@ -93,7 +93,7 @@ a:hover { color: var(--gold); }
   background: rgba(200,152,14,.08);
 }
 .sidebar nav a.nav-part { padding-left: 1.5rem; color: #a08050; }
-.sidebar nav a.nav-ch   { padding-left: 2.5rem; color: #8a6840; font-size: .76rem; }
+.sidebar nav a.nav-ch   { padding-left: 2.5rem; color: #8a6840; font-size: .82rem; }
 
 /* ── Main ── */
 
