@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom'
 import chaptersIndex from '../data/chapters-index.json'
 import { orderFamily, CANONICAL_ORDERS } from '../lib/orders'
-import { renderInline } from '../lib/markdown'
+import { renderInline, Prose } from '../lib/markdown'
 
 export default function ByOrder() {
   // Group figures by canonical order family
@@ -31,6 +31,8 @@ export default function ByOrder() {
         const { color } = orderFamily(figs[0].tariqah)
         const slug = famName.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')
 
+        const orderDef = CANONICAL_ORDERS.find(o => o.name === famName)
+
         return (
           <div key={famName} id={`order-${slug}`} className="mb-14">
             <div
@@ -42,6 +44,14 @@ export default function ByOrder() {
                 {figs.length}&thinsp;figure{figs.length !== 1 ? 's' : ''}
               </span>
             </div>
+
+            {orderDef?.summary && (
+              <div className="mb-6 text-[0.88rem] text-muted leading-[1.75] space-y-3">
+                {orderDef.summary.split('\n\n').map((para, i) => (
+                  <Prose key={i} text={para} as="p" />
+                ))}
+              </div>
+            )}
 
             <div className="grid grid-cols-[repeat(auto-fill,minmax(200px,1fr))] gap-2">
               {figs.map(fig => {
